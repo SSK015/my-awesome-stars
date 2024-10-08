@@ -239,6 +239,7 @@
 
 ## cpp 
 
+- [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 - [guaguaupup/cpp_interview](https://github.com/guaguaupup/cpp_interview) - c++后台服务器开发面经或八股总结！(有深度有广度，和仅有概念的总结文章不同！)
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
@@ -599,6 +600,8 @@
 
 ## others 
 
+- [google/fleetbench](https://github.com/google/fleetbench) - Benchmarking suite for Google workloads
+- [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
 - [MoatLab/Pond](https://github.com/MoatLab/Pond) - Pond: CXL-Based Memory Pooling Systems for Cloud Platforms (ASPLOS'23)
 - [CGCL-codes/gengar](https://github.com/CGCL-codes/gengar) - Gengar, a distributed shared hybrid memory pool with RDMA support. Gengar allows applications to access remote DRAM/NVM in a large and global memory space through a client/server model.
 - [jeffhammond/STREAM](https://github.com/jeffhammond/STREAM) - STREAM benchmark
