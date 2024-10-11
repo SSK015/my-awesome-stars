@@ -600,6 +600,12 @@
 
 ## others 
 
+- [intel/lmbench](https://github.com/intel/lmbench) - 
+- [torvalds/test-tlb](https://github.com/torvalds/test-tlb) - Stupid memory latency and TLB tester
+- [FedeParola/memory-latency](https://github.com/FedeParola/memory-latency) - Memory latency test
+- [BG2BKK/my_benchmark](https://github.com/BG2BKK/my_benchmark) - benchmark for linux server
+- [delimitrou/DeathStarBench](https://github.com/delimitrou/DeathStarBench) - Open-source benchmark suite for cloud microservices
+- [OpenGVLab/PhyGenBench](https://github.com/OpenGVLab/PhyGenBench) - The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
 - [google/fleetbench](https://github.com/google/fleetbench) - Benchmarking suite for Google workloads
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
 - [MoatLab/Pond](https://github.com/MoatLab/Pond) - Pond: CXL-Based Memory Pooling Systems for Cloud Platforms (ASPLOS'23)
