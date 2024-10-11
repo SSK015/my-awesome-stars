@@ -23,6 +23,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [LLVM](#llvm)
+- [Lua](#lua)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Others](#others)
@@ -49,6 +50,10 @@
 
 ## C 
 
+- [intel/lmbench](https://github.com/intel/lmbench) - 
+- [torvalds/test-tlb](https://github.com/torvalds/test-tlb) - Stupid memory latency and TLB tester
+- [FedeParola/memory-latency](https://github.com/FedeParola/memory-latency) - Memory latency test
+- [BG2BKK/my_benchmark](https://github.com/BG2BKK/my_benchmark) - benchmark for linux server
 - [jeffhammond/STREAM](https://github.com/jeffhammond/STREAM) - STREAM benchmark
 - [brendangregg/wss](https://github.com/brendangregg/wss) - Working Set Size tools
 - [WireGuard/wireguard-linux-compat](https://github.com/WireGuard/wireguard-linux-compat) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux-compat
@@ -310,6 +315,10 @@
 - [compiler-disagg/TrackFM](https://github.com/compiler-disagg/TrackFM) - A compiler to automatically transform applications into disaggregated memory apps.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
+## Lua 
+
+- [delimitrou/DeathStarBench](https://github.com/delimitrou/DeathStarBench) - Open-source benchmark suite for cloud microservices
+
 ## MATLAB 
 
 - [hliangzhao/Mathematical-Model-Implementation](https://github.com/hliangzhao/Mathematical-Model-Implementation) - MATLAB code for classic mathematical modeling.
@@ -373,6 +382,7 @@
 
 ## Python 
 
+- [OpenGVLab/PhyGenBench](https://github.com/OpenGVLab/PhyGenBench) - The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
