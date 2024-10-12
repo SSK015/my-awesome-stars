@@ -600,6 +600,8 @@
 
 ## others 
 
+- [miracleyoo/Markdown4Zhihu](https://github.com/miracleyoo/Markdown4Zhihu) - 一键解决知乎导入Markdown文件时图片和公式等问题。
+- [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [intel/lmbench](https://github.com/intel/lmbench) - 
 - [torvalds/test-tlb](https://github.com/torvalds/test-tlb) - Stupid memory latency and TLB tester
 - [FedeParola/memory-latency](https://github.com/FedeParola/memory-latency) - Memory latency test
