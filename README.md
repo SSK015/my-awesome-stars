@@ -50,6 +50,7 @@
 
 ## C 
 
+- [ece-fast-lab/cxl_type3_tests](https://github.com/ece-fast-lab/cxl_type3_tests) - This is the respository that holds the artifacts of MICRO'23 -- Demystifying CXL Memory with True CXL-Ready Systems and CXL Memory Devices
 - [intel/lmbench](https://github.com/intel/lmbench) - 
 - [torvalds/test-tlb](https://github.com/torvalds/test-tlb) - Stupid memory latency and TLB tester
 - [FedeParola/memory-latency](https://github.com/FedeParola/memory-latency) - Memory latency test
@@ -113,6 +114,10 @@
 
 ## C++ 
 
+- [puzzlef/louvain-communities-openmp](https://github.com/puzzlef/louvain-communities-openmp) - Design of OpenMP-based Parallel Louvain algorithm for community detection.
+- [nmandrus1/Parallel-Louvain-Method](https://github.com/nmandrus1/Parallel-Louvain-Method) - Parallel Louvain Algorithm for Distributed Systems
+- [usc-cloud/parallel-louvain-modularity](https://github.com/usc-cloud/parallel-louvain-modularity) - MPI based distributed memory implementation of Louvain method for non overlapping community detecction
+- [SNU-ARC/MERCI](https://github.com/SNU-ARC/MERCI) - 
 - [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 - [google/fleetbench](https://github.com/google/fleetbench) - Benchmarking suite for Google workloads
 - [cmuparlay/pbbsbench](https://github.com/cmuparlay/pbbsbench) - New version of pbbs benchmarks
@@ -207,6 +212,7 @@
 
 ## Cuda 
 
+- [olearczuk/gpu-louvain](https://github.com/olearczuk/gpu-louvain) - 
 - [Liu-xiandong/How_to_optimize_in_GPU](https://github.com/Liu-xiandong/How_to_optimize_in_GPU) - This is a series of GPU optimization topics. Here we will introduce  how to optimize the CUDA kernel in detail.  I will introduce several basic kernel optimizations, including: elementwise, reduce, sg
 - [brucefan1983/GPUMD](https://github.com/brucefan1983/GPUMD) - Graphics Processing Units Molecular Dynamics
 - [kberkay/Cuda-Matrix-Multiplication](https://github.com/kberkay/Cuda-Matrix-Multiplication) - Matrix Multiplication on GPU using Shared Memory considering Coalescing and Bank Conflicts
@@ -330,6 +336,7 @@
 
 ## Others 
 
+- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享
 - [Compute-Express-Link/CXLPapers](https://github.com/Compute-Express-Link/CXLPapers) - 
 - [guaguaupup/cpp_interview](https://github.com/guaguaupup/cpp_interview) - c++后台服务器开发面经或八股总结！(有深度有广度，和仅有概念的总结文章不同！)
