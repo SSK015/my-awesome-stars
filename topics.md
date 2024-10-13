@@ -133,6 +133,7 @@
 
 ## algorithm 
 
+- [puzzlef/louvain-communities-openmp](https://github.com/puzzlef/louvain-communities-openmp) - Design of OpenMP-based Parallel Louvain algorithm for community detection.
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [lecfab/volt](https://github.com/lecfab/volt) - Vertex Ordering to List Triangles: a fast C++ tool for triangle counting or listing in big graphs. See associated paper: https://arxiv.org/abs/2203.04774
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -161,12 +162,14 @@
 
 ## awesome 
 
+- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 
 ## awesome-list 
 
+- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
 
@@ -407,6 +410,7 @@
 
 ## hacktoberfest 
 
+- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [Unidata/netcdf-fortran](https://github.com/Unidata/netcdf-fortran) - Official GitHub repository for netCDF-Fortran libraries, which depend on the netCDF C library.  Install the netCDF C library first.
@@ -600,6 +604,11 @@
 
 ## others 
 
+- [olearczuk/gpu-louvain](https://github.com/olearczuk/gpu-louvain) - 
+- [nmandrus1/Parallel-Louvain-Method](https://github.com/nmandrus1/Parallel-Louvain-Method) - Parallel Louvain Algorithm for Distributed Systems
+- [usc-cloud/parallel-louvain-modularity](https://github.com/usc-cloud/parallel-louvain-modularity) - MPI based distributed memory implementation of Louvain method for non overlapping community detecction
+- [ece-fast-lab/cxl_type3_tests](https://github.com/ece-fast-lab/cxl_type3_tests) - This is the respository that holds the artifacts of MICRO'23 -- Demystifying CXL Memory with True CXL-Ready Systems and CXL Memory Devices
+- [SNU-ARC/MERCI](https://github.com/SNU-ARC/MERCI) - 
 - [miracleyoo/Markdown4Zhihu](https://github.com/miracleyoo/Markdown4Zhihu) - 一键解决知乎导入Markdown文件时图片和公式等问题。
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [intel/lmbench](https://github.com/intel/lmbench) - 
