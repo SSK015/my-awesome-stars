@@ -110,7 +110,7 @@
 ## C# # 
 
 - [lastweek/source-singularity](https://github.com/lastweek/source-singularity) - Clone of the MSR Singularity Project
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## C++ 
 
@@ -307,6 +307,7 @@
 
 ## Jupyter Notebook 
 
+- [SamaRostami/Social-Network-Analysis](https://github.com/SamaRostami/Social-Network-Analysis) - A Python project developed for the final project of the Social Network Analysis course. It utilizes NetworkX and Matplotlib to analyze and visualize social network data, demonstrating various metrics 
 - [te42kyfo/gpu-benches](https://github.com/te42kyfo/gpu-benches) - collection of benchmarks to measure basic GPU capabilities
 - [Jellyfish042/uncheatable_eval](https://github.com/Jellyfish042/uncheatable_eval) - Evaluating LLMs with Dynamic Data
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
@@ -480,6 +481,7 @@
 
 ## TypeScript 
 
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [serping/serp-checker](https://github.com/serping/serp-checker) - 
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
