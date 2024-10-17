@@ -249,7 +249,6 @@
 - [mlfoundations/dclm](https://github.com/mlfoundations/dclm) - DataComp for Language Models
 - [hujiese/C-background-development-interview-experience](https://github.com/hujiese/C-background-development-interview-experience) - C++后台开发面试经验
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) - 🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes
-- [bojone/papers.cool](https://github.com/bojone/papers.cool) - Cool Papers - Immersive Paper Discovery
 - [gushouchuanzhi1/2023_hust_datavisualization](https://github.com/gushouchuanzhi1/2023_hust_datavisualization) - 2023秋华中科技大学数据可视化
 - [TsukihimeCN/TsukihimeCN.github.io](https://github.com/TsukihimeCN/TsukihimeCN.github.io) - 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -288,6 +287,7 @@
 - [kska32/ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+- [bojone/papers.cool](https://github.com/bojone/papers.cool) - Cool Papers - Immersive Paper Discovery
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [virus010101/linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|App论坛系统是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS论坛系统，包括论坛图文帖，视频，圈子，IM私聊，微信支付，付费贴，积分签到，钱包充值等论坛小程序论坛App功能
 - [OmegaXYZ/Carrot-Hole](https://github.com/OmegaXYZ/Carrot-Hole) - 树洞
