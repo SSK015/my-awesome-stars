@@ -48,6 +48,7 @@
 - [english](#english)
 - [firefox](#firefox)
 - [font](#font)
+- [framework](#framework)
 - [frontend](#frontend)
 - [gis](#gis)
 - [git](#git)
@@ -179,6 +180,7 @@
 
 ## c 
 
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [Parallel-NetCDF/PnetCDF](https://github.com/Parallel-NetCDF/PnetCDF) - Source code repository of PnetCDF library and utilities
 - [Unidata/netcdf-c](https://github.com/Unidata/netcdf-c) - Official GitHub repository for netCDF-C libraries and utilities.
@@ -242,6 +244,7 @@
 
 ## cpp 
 
+- [NVIDIA/cccl](https://github.com/NVIDIA/cccl) - CUDA Core Compute Libraries
 - [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 - [guaguaupup/cpp_interview](https://github.com/guaguaupup/cpp_interview) - c++后台服务器开发面经或八股总结！(有深度有广度，和仅有概念的总结文章不同！)
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
@@ -371,6 +374,10 @@
 ## font 
 
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
+
+## framework 
+
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 
 ## frontend 
 
@@ -590,6 +597,7 @@
 
 ## open-source 
 
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [gem5/gem5](https://github.com/gem5/gem5) - The official repository for the gem5 computer-system architecture simulator.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
@@ -606,6 +614,7 @@
 
 ## others 
 
+- [nurupo/vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
 - [SamaRostami/Social-Network-Analysis](https://github.com/SamaRostami/Social-Network-Analysis) - A Python project developed for the final project of the Social Network Analysis course. It utilizes NetworkX and Matplotlib to analyze and visualize social network data, demonstrating various metrics 
 - [intel/perfmon](https://github.com/intel/perfmon) - 
 - [olearczuk/gpu-louvain](https://github.com/olearczuk/gpu-louvain) - 
