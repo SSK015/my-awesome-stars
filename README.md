@@ -50,6 +50,8 @@
 
 ## C 
 
+- [nurupo/vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [ece-fast-lab/cxl_type3_tests](https://github.com/ece-fast-lab/cxl_type3_tests) - This is the respository that holds the artifacts of MICRO'23 -- Demystifying CXL Memory with True CXL-Ready Systems and CXL Memory Devices
 - [intel/lmbench](https://github.com/intel/lmbench) - 
 - [torvalds/test-tlb](https://github.com/torvalds/test-tlb) - Stupid memory latency and TLB tester
@@ -114,6 +116,7 @@
 
 ## C++ 
 
+- [NVIDIA/cccl](https://github.com/NVIDIA/cccl) - CUDA Core Compute Libraries
 - [puzzlef/louvain-communities-openmp](https://github.com/puzzlef/louvain-communities-openmp) - Design of OpenMP-based Parallel Louvain algorithm for community detection.
 - [nmandrus1/Parallel-Louvain-Method](https://github.com/nmandrus1/Parallel-Louvain-Method) - Parallel Louvain Algorithm for Distributed Systems
 - [usc-cloud/parallel-louvain-modularity](https://github.com/usc-cloud/parallel-louvain-modularity) - MPI based distributed memory implementation of Louvain method for non overlapping community detecction
