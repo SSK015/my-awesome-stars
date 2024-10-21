@@ -614,6 +614,8 @@
 
 ## others 
 
+- [JusticeFighterDance/JusticeFighter110](https://github.com/JusticeFighterDance/JusticeFighter110) - 田柯宇 (Tian Keyu)恶意攻击集群事件的证据揭露
+- [JunctionOS/junction](https://github.com/JunctionOS/junction) - Next-generation datacenter OS built on kernel bypass to speed up unmodified code while improving platform density and security
 - [rapidsai/cugraph](https://github.com/rapidsai/cugraph) - cuGraph - RAPIDS Graph Analytics Library
 - [nurupo/vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
 - [SamaRostami/Social-Network-Analysis](https://github.com/SamaRostami/Social-Network-Analysis) - A Python project developed for the final project of the Social Network Analysis course. It utilizes NetworkX and Matplotlib to analyze and visualize social network data, demonstrating various metrics 
