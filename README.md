@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [JunctionOS/junction](https://github.com/JunctionOS/junction) - Next-generation datacenter OS built on kernel bypass to speed up unmodified code while improving platform density and security
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl) - CUDA Core Compute Libraries
 - [puzzlef/louvain-communities-openmp](https://github.com/puzzlef/louvain-communities-openmp) - Design of OpenMP-based Parallel Louvain algorithm for community detection.
 - [nmandrus1/Parallel-Louvain-Method](https://github.com/nmandrus1/Parallel-Louvain-Method) - Parallel Louvain Algorithm for Distributed Systems
@@ -341,6 +342,7 @@
 
 ## Others 
 
+- [JusticeFighterDance/JusticeFighter110](https://github.com/JusticeFighterDance/JusticeFighter110) - 田柯宇 (Tian Keyu)恶意攻击集群事件的证据揭露
 - [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享
 - [Compute-Express-Link/CXLPapers](https://github.com/Compute-Express-Link/CXLPapers) - 
