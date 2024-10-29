@@ -50,6 +50,8 @@
 
 ## C 
 
+- [host-architecture/colloid](https://github.com/host-architecture/colloid) - Tiered Memory Management: Access Latency is the Key!
+- [yhtzd/skyloft](https://github.com/yhtzd/skyloft) - Skyloft: A General High-Efficient Scheduling Framework in User Space (SOSP 2024)
 - [nurupo/vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [ece-fast-lab/cxl_type3_tests](https://github.com/ece-fast-lab/cxl_type3_tests) - This is the respository that holds the artifacts of MICRO'23 -- Demystifying CXL Memory with True CXL-Ready Systems and CXL Memory Devices
@@ -111,6 +113,7 @@
 
 ## C# # 
 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [lastweek/source-singularity](https://github.com/lastweek/source-singularity) - Clone of the MSR Singularity Project
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
