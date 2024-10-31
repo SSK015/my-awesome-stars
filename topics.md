@@ -614,6 +614,7 @@
 
 ## others 
 
+- [casys-kaist/ozz](https://github.com/casys-kaist/ozz) - OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering
 - [host-architecture/colloid](https://github.com/host-architecture/colloid) - Tiered Memory Management: Access Latency is the Key!
 - [yhtzd/skyloft](https://github.com/yhtzd/skyloft) - Skyloft: A General High-Efficient Scheduling Framework in User Space (SOSP 2024)
 - [wenyuzhao/mmtk-core](https://github.com/wenyuzhao/mmtk-core) - Memory Management ToolKit
