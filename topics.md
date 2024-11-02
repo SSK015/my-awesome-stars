@@ -487,6 +487,7 @@
 
 ## julia 
 
+- [fredrikekre/HYPRE.jl](https://github.com/fredrikekre/HYPRE.jl) - Julia interface to hypre linear solvers
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 
@@ -502,6 +503,7 @@
 
 ## library 
 
+- [hypre-space/hypre](https://github.com/hypre-space/hypre) - Parallel solvers for sparse linear systems featuring multigrid methods.
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 
 ## linux 
@@ -614,6 +616,7 @@
 
 ## others 
 
+- [chenxin202/REEF3D](https://github.com/chenxin202/REEF3D) - REEF3D
 - [casys-kaist/ozz](https://github.com/casys-kaist/ozz) - OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering
 - [host-architecture/colloid](https://github.com/host-architecture/colloid) - Tiered Memory Management: Access Latency is the Key!
 - [yhtzd/skyloft](https://github.com/yhtzd/skyloft) - Skyloft: A General High-Efficient Scheduling Framework in User Space (SOSP 2024)
