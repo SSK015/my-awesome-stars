@@ -50,6 +50,7 @@
 
 ## C 
 
+- [hypre-space/hypre](https://github.com/hypre-space/hypre) - Parallel solvers for sparse linear systems featuring multigrid methods.
 - [casys-kaist/ozz](https://github.com/casys-kaist/ozz) - OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering
 - [host-architecture/colloid](https://github.com/host-architecture/colloid) - Tiered Memory Management: Access Latency is the Key!
 - [yhtzd/skyloft](https://github.com/yhtzd/skyloft) - Skyloft: A General High-Efficient Scheduling Framework in User Space (SOSP 2024)
@@ -120,6 +121,7 @@
 
 ## C++ 
 
+- [chenxin202/REEF3D](https://github.com/chenxin202/REEF3D) - REEF3D
 - [heptagonhust/about](https://github.com/heptagonhust/about) - 华科七边形，欢迎各位朋友的指导与交流。
 - [JunctionOS/junction](https://github.com/JunctionOS/junction) - Next-generation datacenter OS built on kernel bypass to speed up unmodified code while improving platform density and security
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl) - CUDA Core Compute Libraries
@@ -294,6 +296,7 @@
 
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [CGCL-codes/gengar](https://github.com/CGCL-codes/gengar) - Gengar, a distributed shared hybrid memory pool with RDMA support. Gengar allows applications to access remote DRAM/NVM in a large and global memory space through a client/server model.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [kska32/ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -312,6 +315,7 @@
 
 ## Julia 
 
+- [fredrikekre/HYPRE.jl](https://github.com/fredrikekre/HYPRE.jl) - Julia interface to hypre linear solvers
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [QuantumBFS/Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
 
@@ -407,7 +411,6 @@
 - [OpenGVLab/PhyGenBench](https://github.com/OpenGVLab/PhyGenBench) - The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [CGCL-codes/YiTu](https://github.com/CGCL-codes/YiTu) - YiTu is an easy-to-use runtime to fully exploit the hybrid parallelism of different hardwares (e.g., GPU) to efficiently support the execution of various kinds of graph algorithms (e.g., GNNs).
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
 - [OpenACC/openacc-best-practices-guide](https://github.com/OpenACC/openacc-best-practices-guide) - The sources for the OpenACC Programming and Best Practices Guide.
