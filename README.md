@@ -381,7 +381,7 @@
 - [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-- [moyihust/hust_digital_wire_design](https://github.com/moyihust/hust_digital_wire_design) - 2022年华中科技大学数字电路逻辑设计实验
+- [moyigeek/hust_digital_wire_design](https://github.com/moyigeek/hust_digital_wire_design) - 2022年华中科技大学数字电路逻辑设计实验
 - [owenramber1989/db_materials](https://github.com/owenramber1989/db_materials) - This is the repository that maintains the learning materials for the upcoming database competition.
 - [dxhisboy/lammps-sunway](https://github.com/dxhisboy/lammps-sunway) - Optimizing LAMMPS on Sunway TaihuLight
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
