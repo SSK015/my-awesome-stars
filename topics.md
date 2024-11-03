@@ -803,7 +803,7 @@
 - [Pfzuo/pfzuo.github.io](https://github.com/Pfzuo/pfzuo.github.io) - My blog and homepage (https://pfzuo.github.io)
 - [dmemsys/SMART](https://github.com/dmemsys/SMART) - This is the implementation repository of our OSDI'23 paper: SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-- [moyihust/hust_digital_wire_design](https://github.com/moyihust/hust_digital_wire_design) - 2022年华中科技大学数字电路逻辑设计实验
+- [moyigeek/hust_digital_wire_design](https://github.com/moyigeek/hust_digital_wire_design) - 2022年华中科技大学数字电路逻辑设计实验
 - [jyi2ya/nekocharm](https://github.com/jyi2ya/nekocharm) - 超快的配环境
 - [owenramber1989/db_materials](https://github.com/owenramber1989/db_materials) - This is the repository that maintains the learning materials for the upcoming database competition.
 - [heptagonhust/recruitment-2023-spring-autotest](https://github.com/heptagonhust/recruitment-2023-spring-autotest) - 测试仓库！
