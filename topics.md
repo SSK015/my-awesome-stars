@@ -949,6 +949,7 @@
 
 ## rust 
 
+- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [utsaslab/squirrelfs](https://github.com/utsaslab/squirrelfs) - SquirrelFS: A crash-consistent Rust file system for persistent memory (OSDI 24)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
