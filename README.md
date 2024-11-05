@@ -50,6 +50,7 @@
 
 ## C 
 
+- [petsc/petsc](https://github.com/petsc/petsc) - Mirror of https://gitlab.com/petsc/petsc
 - [hypre-space/hypre](https://github.com/hypre-space/hypre) - Parallel solvers for sparse linear systems featuring multigrid methods.
 - [casys-kaist/ozz](https://github.com/casys-kaist/ozz) - OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering
 - [host-architecture/colloid](https://github.com/host-architecture/colloid) - Tiered Memory Management: Access Latency is the Key!
