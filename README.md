@@ -291,7 +291,6 @@
 - [oddfar/campus-example](https://github.com/oddfar/campus-example) - campus项目例子——校园论坛、博客、树洞、信息墙、表白墙、万能墙。SpringBoot前后端分离项目，Web 端使用 Vue + ElementUi，仿微博UI布局。 移动端使用 uni-app 和 uview，后端使用  SpringBoot + Mybatis-Plus进行开发
 - [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [water8394/flink-recommandSystem-demo](https://github.com/water8394/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。
-- [MoRan1607/BigDataGuide](https://github.com/MoRan1607/BigDataGuide) - 大数据学习，从零开始学习大数据，包含大数据学习各阶段学习视频、面试资料
 
 ## JavaScript 
 
@@ -391,6 +390,7 @@
 - [fly-lovest/HUST-CS-Database-system-principle](https://github.com/fly-lovest/HUST-CS-Database-system-principle) - HUST-CS-2019 数据库系统原理及其实验
 - [fly-lovest/HUST-CS-Digital-Circuits-and-Logic-Design](https://github.com/fly-lovest/HUST-CS-Digital-Circuits-and-Logic-Design) - HUST-CS-2019 数字电路与逻辑设计-数电
 - [CDDSCLab/training-plan](https://github.com/CDDSCLab/training-plan) - 电子科技大学分布式存储与计算实验室新生训练计划
+- [MoRan1607/BigDataGuide](https://github.com/MoRan1607/BigDataGuide) - 大数据学习，从零开始学习大数据，包含大数据学习各阶段学习视频、面试资料
 
 ## PHP 
 
