@@ -662,7 +662,6 @@
 - [larryli/PuTTY](https://github.com/larryli/PuTTY) - PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。
 - [starfive-tech/VisionFive2](https://github.com/starfive-tech/VisionFive2) - 
 - [os-module/visionfive2-sd](https://github.com/os-module/visionfive2-sd) - 
-- [QIUZHILEI/vf2_driver](https://github.com/QIUZHILEI/vf2_driver) - Visionfive 2 Uart and sdio(tf card) driver
 - [kska32/ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
 - [xiaolai/100-Very-Short-Sentences-in-American-English](https://github.com/xiaolai/100-Very-Short-Sentences-in-American-English) - 100 Very Short Sentences in American English
 - [uclasystem/DRust](https://github.com/uclasystem/DRust) - 
