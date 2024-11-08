@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
 - [chenxin202/REEF3D](https://github.com/chenxin202/REEF3D) - REEF3D
 - [heptagonhust/about](https://github.com/heptagonhust/about) - 华科七边形，欢迎各位朋友的指导与交流。
 - [JunctionOS/junction](https://github.com/JunctionOS/junction) - Next-generation datacenter OS built on kernel bypass to speed up unmodified code while improving platform density and security
