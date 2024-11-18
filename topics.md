@@ -616,6 +616,8 @@
 
 ## others 
 
+- [dauzickaite/mpfgmres](https://github.com/dauzickaite/mpfgmres) - split-preconditioned FGMRES in four precisions
+- [L-M-Sherlock/ZhiHuLegend](https://github.com/L-M-Sherlock/ZhiHuLegend) - 知乎封神榜
 - [MPh-py/MPh](https://github.com/MPh-py/MPh) - Pythonic scripting interface for Comsol Multiphysics
 - [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
 - [petsc/petsc](https://github.com/petsc/petsc) - Mirror of https://gitlab.com/petsc/petsc
@@ -906,7 +908,7 @@
 ## python 
 
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
