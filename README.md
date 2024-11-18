@@ -343,6 +343,7 @@
 
 ## MATLAB 
 
+- [dauzickaite/mpfgmres](https://github.com/dauzickaite/mpfgmres) - split-preconditioned FGMRES in four precisions
 - [hliangzhao/Mathematical-Model-Implementation](https://github.com/hliangzhao/Mathematical-Model-Implementation) - MATLAB code for classic mathematical modeling.
 
 ## Makefile 
@@ -407,13 +408,14 @@
 
 ## Python 
 
+- [L-M-Sherlock/ZhiHuLegend](https://github.com/L-M-Sherlock/ZhiHuLegend) - 知乎封神榜
 - [MPh-py/MPh](https://github.com/MPh-py/MPh) - Pythonic scripting interface for Comsol Multiphysics
 - [intel/perfmon](https://github.com/intel/perfmon) - 
 - [miracleyoo/Markdown4Zhihu](https://github.com/miracleyoo/Markdown4Zhihu) - 一键解决知乎导入Markdown文件时图片和公式等问题。
 - [OpenGVLab/PhyGenBench](https://github.com/OpenGVLab/PhyGenBench) - The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [CGCL-codes/YiTu](https://github.com/CGCL-codes/YiTu) - YiTu is an easy-to-use runtime to fully exploit the hybrid parallelism of different hardwares (e.g., GPU) to efficiently support the execution of various kinds of graph algorithms (e.g., GNNs).
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
 - [OpenACC/openacc-best-practices-guide](https://github.com/OpenACC/openacc-best-practices-guide) - The sources for the OpenACC Programming and Best Practices Guide.
