@@ -50,6 +50,7 @@
 
 ## C 
 
+- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [petsc/petsc](https://github.com/petsc/petsc) - Mirror of https://gitlab.com/petsc/petsc
 - [hypre-space/hypre](https://github.com/hypre-space/hypre) - Parallel solvers for sparse linear systems featuring multigrid methods.
 - [casys-kaist/ozz](https://github.com/casys-kaist/ozz) - OZZ: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering
@@ -122,6 +123,7 @@
 
 ## C++ 
 
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
 - [chenxin202/REEF3D](https://github.com/chenxin202/REEF3D) - REEF3D
 - [heptagonhust/about](https://github.com/heptagonhust/about) - 华科七边形，欢迎各位朋友的指导与交流。
@@ -251,6 +253,9 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+- [ServiceWeaver/workshops](https://github.com/ServiceWeaver/workshops) - Repository used during the Service Weaver workshops.
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 - [lcpu-club/hpcgame_1st_problems](https://github.com/lcpu-club/hpcgame_1st_problems) - Repository for HPCGame 1st Problems.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
@@ -408,6 +413,7 @@
 
 ## Python 
 
+- [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [L-M-Sherlock/ZhiHuLegend](https://github.com/L-M-Sherlock/ZhiHuLegend) - 知乎封神榜
 - [MPh-py/MPh](https://github.com/MPh-py/MPh) - Pythonic scripting interface for Comsol Multiphysics
 - [intel/perfmon](https://github.com/intel/perfmon) - 
@@ -457,6 +463,7 @@
 
 ## Rust 
 
+- [jonhoo/rust-ibverbs](https://github.com/jonhoo/rust-ibverbs) - Bindings for RDMA ibverbs through rdma-core
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [wenyuzhao/mmtk-core](https://github.com/wenyuzhao/mmtk-core) - Memory Management ToolKit
 - [vaaandark/socker](https://github.com/vaaandark/socker) - A tool for capturing unix socket packets using eBPF written in the aya-rs framework
