@@ -56,6 +56,7 @@
 - [go](#go)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
+- [google-cloud](#google-cloud)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -68,6 +69,7 @@
 - [jquery](#jquery)
 - [json](#json)
 - [julia](#julia)
+- [kubernetes](#kubernetes)
 - [language](#language)
 - [latex](#latex)
 - [library](#library)
@@ -118,6 +120,7 @@
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
 - [vim](#vim)
@@ -413,6 +416,10 @@
 
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
+## google-cloud 
+
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+
 ## hacking 
 
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
@@ -490,6 +497,10 @@
 - [fredrikekre/HYPRE.jl](https://github.com/fredrikekre/HYPRE.jl) - Julia interface to hypre linear solvers
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
+
+## kubernetes 
+
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 
 ## language 
 
@@ -616,6 +627,11 @@
 
 ## others 
 
+- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
+- [jonhoo/rust-ibverbs](https://github.com/jonhoo/rust-ibverbs) - Bindings for RDMA ibverbs through rdma-core
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [ServiceWeaver/workshops](https://github.com/ServiceWeaver/workshops) - Repository used during the Service Weaver workshops.
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [dauzickaite/mpfgmres](https://github.com/dauzickaite/mpfgmres) - split-preconditioned FGMRES in four precisions
 - [L-M-Sherlock/ZhiHuLegend](https://github.com/L-M-Sherlock/ZhiHuLegend) - 知乎封神榜
 - [MPh-py/MPh](https://github.com/MPh-py/MPh) - Pythonic scripting interface for Comsol Multiphysics
@@ -907,6 +923,7 @@
 
 ## python 
 
+- [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
@@ -1016,9 +1033,14 @@
 
 ## terminal 
 
+- [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+## terraform 
+
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 
 ## testing 
 
