@@ -974,7 +974,7 @@
 - [utsaslab/squirrelfs](https://github.com/utsaslab/squirrelfs) - SquirrelFS: A crash-consistent Rust file system for persistent memory (OSDI 24)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
-- [ethanhs/cce](https://github.com/ethanhs/cce) - commandline compiler explorer - use https://godbolt.org from your terminal!
+- [emmatyping/cce](https://github.com/emmatyping/cce) - commandline compiler explorer - use https://godbolt.org from your terminal!
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
 ## scala 
