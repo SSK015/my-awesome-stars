@@ -627,6 +627,7 @@
 
 ## others 
 
+- [madsys-dev/smart](https://github.com/madsys-dev/smart) - Scaling Up Memory Disaggregated Applications with SMART
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [jonhoo/rust-ibverbs](https://github.com/jonhoo/rust-ibverbs) - Bindings for RDMA ibverbs through rdma-core
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
