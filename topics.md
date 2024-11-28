@@ -21,6 +21,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [clash](#clash)
 - [cli](#cli)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -220,6 +221,10 @@
 ## chrome-extension 
 
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
+## clash 
+
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 
 ## cli 
 
@@ -627,6 +632,7 @@
 
 ## others 
 
+- [MicrosoftDocs/cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) - C++ Documentation
 - [madsys-dev/smart](https://github.com/madsys-dev/smart) - Scaling Up Memory Disaggregated Applications with SMART
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [jonhoo/rust-ibverbs](https://github.com/jonhoo/rust-ibverbs) - Bindings for RDMA ibverbs through rdma-core
