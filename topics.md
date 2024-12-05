@@ -632,6 +632,7 @@
 
 ## others 
 
+- [AIFM-sys/AIFM](https://github.com/AIFM-sys/AIFM) - AIFM: High-Performance, Application-Integrated Far Memory
 - [MicrosoftDocs/cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) - C++ Documentation
 - [madsys-dev/smart](https://github.com/madsys-dev/smart) - Scaling Up Memory Disaggregated Applications with SMART
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
@@ -705,7 +706,7 @@
 - [shenango/shenango](https://github.com/shenango/shenango) - 
 - [Nu-NSDI23/Nu](https://github.com/Nu-NSDI23/Nu) - Nu is a new datacenter system that enables developers to build fungible applications that can use datacenter resources wherever they are.
 - [jyi2ya/tc-lab](https://github.com/jyi2ya/tc-lab) - 一起来数三角形吧！
-- [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2024"相关信息
+- [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2025"相关信息
 - [shenango/caladan](https://github.com/shenango/caladan) - Interference-aware CPU scheduling that enables performance isolation and high CPU utilization for datacenter servers
 - [Liu-xiandong/How_to_optimize_in_GPU](https://github.com/Liu-xiandong/How_to_optimize_in_GPU) - This is a series of GPU optimization topics. Here we will introduce  how to optimize the CUDA kernel in detail.  I will introduce several basic kernel optimizations, including: elementwise, reduce, sg
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
