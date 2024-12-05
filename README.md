@@ -50,6 +50,7 @@
 
 ## C 
 
+- [AIFM-sys/AIFM](https://github.com/AIFM-sys/AIFM) - AIFM: High-Performance, Application-Integrated Far Memory
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [petsc/petsc](https://github.com/petsc/petsc) - Mirror of https://gitlab.com/petsc/petsc
 - [hypre-space/hypre](https://github.com/hypre-space/hypre) - Parallel solvers for sparse linear systems featuring multigrid methods.
@@ -364,7 +365,7 @@
 - [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享
 - [Compute-Express-Link/CXLPapers](https://github.com/Compute-Express-Link/CXLPapers) - 
 - [guaguaupup/cpp_interview](https://github.com/guaguaupup/cpp_interview) - c++后台服务器开发面经或八股总结！(有深度有广度，和仅有概念的总结文章不同！)
-- [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2024"相关信息
+- [oscomp/os-competition-info](https://github.com/oscomp/os-competition-info) - "全国大学生操作系统比赛2025"相关信息
 - [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [Jokeren/Awesome-GPU](https://github.com/Jokeren/Awesome-GPU) - Awesome resources for GPUs
 - [google-research-datasets/thesios](https://github.com/google-research-datasets/thesios) - This repository describes I/O traces of Google storage servers and disks synthesized by Thesios. Thesios synthesizes representative I/O traces by combining down-sampled I/O traces collected from multi
