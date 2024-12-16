@@ -632,6 +632,7 @@
 
 ## others 
 
+- [Crazylqx/Crazylqx.github.io](https://github.com/Crazylqx/Crazylqx.github.io) - 
 - [AIFM-sys/AIFM](https://github.com/AIFM-sys/AIFM) - AIFM: High-Performance, Application-Integrated Far Memory
 - [MicrosoftDocs/cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) - C++ Documentation
 - [madsys-dev/smart](https://github.com/madsys-dev/smart) - Scaling Up Memory Disaggregated Applications with SMART
