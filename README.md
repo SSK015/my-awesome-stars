@@ -265,6 +265,7 @@
 
 ## HTML 
 
+- [Crazylqx/Crazylqx.github.io](https://github.com/Crazylqx/Crazylqx.github.io) - 
 - [MoatLab/Pond](https://github.com/MoatLab/Pond) - Pond: CXL-Based Memory Pooling Systems for Cloud Platforms (ASPLOS'23)
 - [xiaolai/100-Very-Short-Sentences-in-American-English](https://github.com/xiaolai/100-Very-Short-Sentences-in-American-English) - 100 Very Short Sentences in American English
 - [mlfoundations/dclm](https://github.com/mlfoundations/dclm) - DataComp for Language Models
