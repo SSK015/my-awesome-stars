@@ -467,6 +467,7 @@
 
 ## Rust 
 
+- [tkob-vh/gfw-rs](https://github.com/tkob-vh/gfw-rs) - Rewrite OpenGFW in Rust, with web-ui.
 - [jonhoo/rust-ibverbs](https://github.com/jonhoo/rust-ibverbs) - Bindings for RDMA ibverbs through rdma-core
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [wenyuzhao/mmtk-core](https://github.com/wenyuzhao/mmtk-core) - Memory Management ToolKit
