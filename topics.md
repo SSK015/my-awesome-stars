@@ -112,6 +112,7 @@
 - [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
+- [security-tools](#security-tools)
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
@@ -816,7 +817,6 @@
 - [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
 - [woolen-sheep/md2report](https://github.com/woolen-sheep/md2report) - 一个用于将Markdown文件转换为可以直接提交给学校的docx实验报告/大作业报告/期末小论文的工具。
 - [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
-- [Lucifer1993/SatanSword](https://github.com/Lucifer1993/SatanSword) - 红队综合渗透框架
 - [linux-rdma/qperf](https://github.com/linux-rdma/qperf) - 
 - [iris1114/react-typescript-todo-app](https://github.com/iris1114/react-typescript-todo-app) - https://react-typescript-todo-appp.netlify.app/
 - [aplyc1a/blogs](https://github.com/aplyc1a/blogs) - PentestNotes
@@ -999,6 +999,11 @@
 
 - [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
 - [teamssix/twiki](https://github.com/teamssix/twiki) - T Wiki 云安全知识文库，可能是国内首个云安全知识文库？
+- [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
+
+## security-tools 
+
+- [Lucifer1993/SatanSword](https://github.com/Lucifer1993/SatanSword) - 红队综合渗透框架
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 
 ## serverless 
