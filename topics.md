@@ -230,7 +230,7 @@
 ## cli 
 
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
 
@@ -343,7 +343,7 @@
 
 ## dotfiles 
 
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [tkob-vh/dotfiles](https://github.com/tkob-vh/dotfiles) - My dotfiles including configurations of nvim, tmux, zsh, hyprland, rofi...
 
 ## dotnet 
@@ -633,6 +633,7 @@
 
 ## others 
 
+- [shenango/caladan-policies](https://github.com/shenango/caladan-policies) - 
 - [Crazylqx/Crazylqx.github.io](https://github.com/Crazylqx/Crazylqx.github.io) - 
 - [AIFM-sys/AIFM](https://github.com/AIFM-sys/AIFM) - AIFM: High-Performance, Application-Integrated Far Memory
 - [MicrosoftDocs/cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) - C++ Documentation
@@ -1013,7 +1014,7 @@
 
 ## shell 
 
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [adityashrm21/Pdf-Word-Count](https://github.com/adityashrm21/Pdf-Word-Count) - Get the count of words in a pdf file
 
@@ -1049,7 +1050,7 @@
 ## terminal 
 
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
