@@ -49,6 +49,7 @@
 
 ## C 
 
+- [shenango/caladan-policies](https://github.com/shenango/caladan-policies) - 
 - [AIFM-sys/AIFM](https://github.com/AIFM-sys/AIFM) - AIFM: High-Performance, Application-Integrated Far Memory
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [petsc/petsc](https://github.com/petsc/petsc) - Mirror of https://gitlab.com/petsc/petsc
@@ -379,7 +380,6 @@
 - [laylalaisy/TOEFL_laylalaisy](https://github.com/laylalaisy/TOEFL_laylalaisy) - 备考托福的一丢丢经验+资料~祝小可爱和大佬们都早日和托福大魔王分手(o゜▽゜)o☆
 - [TOEFL-win/TOEFL](https://github.com/TOEFL-win/TOEFL) - 托福王炸福利包，托福雅思gre，gmat资料，百度网盘，威学，张巍gre，新东方，fiona，黎老师写作，考满分，微臣onepass，张艳听力，孟一博，吴克亮，杨帅，黄翰生，顾加北，杜仕明，何琼，王陆，周璐
 - [Albert26193/my-dotfiles](https://github.com/Albert26193/my-dotfiles) - 
-- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [OpenCAEPlus/OpenCAEPoro_ASC2024](https://github.com/OpenCAEPlus/OpenCAEPoro_ASC2024) - OpenCAEPoro for ASC 2024
 - [dmemsys/awesome-disaggregated-memory](https://github.com/dmemsys/awesome-disaggregated-memory) - A collection of awesome researchers and papers about disaggregated memory.
 - [Elubrazione/bdm_labs_hust](https://github.com/Elubrazione/bdm_labs_hust) - 华中科技大学2023春大数据管理
@@ -414,6 +414,7 @@
 ## PowerShell 
 
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) - Easily move your WSL distros VHDX file to a new location.
+- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 
 ## Python 
 
@@ -495,7 +496,7 @@
 ## Shell 
 
 - [codediy/DriverTestDoc](https://github.com/codediy/DriverTestDoc) - 驾照考试文档总结
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [tkob-vh/dotfiles](https://github.com/tkob-vh/dotfiles) - My dotfiles including configurations of nvim, tmux, zsh, hyprland, rofi...
 - [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
