@@ -331,7 +331,7 @@
 ## Jupyter Notebook 
 
 - [SamaRostami/Social-Network-Analysis](https://github.com/SamaRostami/Social-Network-Analysis) - A Python project developed for the final project of the Social Network Analysis course. It utilizes NetworkX and Matplotlib to analyze and visualize social network data, demonstrating various metrics 
-- [te42kyfo/gpu-benches](https://github.com/te42kyfo/gpu-benches) - collection of benchmarks to measure basic GPU capabilities
+- [RRZE-HPC/gpu-benches](https://github.com/RRZE-HPC/gpu-benches) - collection of benchmarks to measure basic GPU capabilities
 - [Jellyfish042/uncheatable_eval](https://github.com/Jellyfish042/uncheatable_eval) - Evaluating LLMs with Dynamic Data
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 - [zackchase/mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at 
@@ -413,6 +413,7 @@
 
 ## PowerShell 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) - Easily move your WSL distros VHDX file to a new location.
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 
