@@ -168,6 +168,7 @@
 
 ## awesome 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -175,6 +176,7 @@
 
 ## awesome-list 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
@@ -678,7 +680,7 @@
 - [MoatLab/Pond](https://github.com/MoatLab/Pond) - Pond: CXL-Based Memory Pooling Systems for Cloud Platforms (ASPLOS'23)
 - [CGCL-codes/gengar](https://github.com/CGCL-codes/gengar) - Gengar, a distributed shared hybrid memory pool with RDMA support. Gengar allows applications to access remote DRAM/NVM in a large and global memory space through a client/server model.
 - [jeffhammond/STREAM](https://github.com/jeffhammond/STREAM) - STREAM benchmark
-- [te42kyfo/gpu-benches](https://github.com/te42kyfo/gpu-benches) - collection of benchmarks to measure basic GPU capabilities
+- [RRZE-HPC/gpu-benches](https://github.com/RRZE-HPC/gpu-benches) - collection of benchmarks to measure basic GPU capabilities
 - [cmuparlay/pbbsbench](https://github.com/cmuparlay/pbbsbench) - New version of pbbs benchmarks
 - [brendangregg/wss](https://github.com/brendangregg/wss) - Working Set Size tools
 - [WireGuard/wireguard-linux-compat](https://github.com/WireGuard/wireguard-linux-compat) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux-compat
@@ -925,6 +927,7 @@
 
 ## powershell 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) - Easily move your WSL distros VHDX file to a new location.
 
 ## publishing 
