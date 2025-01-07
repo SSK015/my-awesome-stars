@@ -419,6 +419,7 @@
 
 ## Python 
 
+- [y9c/m5C-UBSseq](https://github.com/y9c/m5C-UBSseq) - Ultrafast bisulfite
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [L-M-Sherlock/ZhiHuLegend](https://github.com/L-M-Sherlock/ZhiHuLegend) - 知乎封神榜
 - [MPh-py/MPh](https://github.com/MPh-py/MPh) - Pythonic scripting interface for Comsol Multiphysics
