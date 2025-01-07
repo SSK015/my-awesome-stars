@@ -14,6 +14,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [backend](#backend)
+- [bioinformatics](#bioinformatics)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
@@ -184,6 +185,10 @@
 ## backend 
 
 - [phodal/growth-in-action](https://github.com/phodal/growth-in-action) - 全栈增长工程师实战
+
+## bioinformatics 
+
+- [y9c/m5C-UBSseq](https://github.com/y9c/m5C-UBSseq) - Ultrafast bisulfite
 
 ## c 
 
