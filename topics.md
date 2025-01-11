@@ -640,6 +640,7 @@
 
 ## others 
 
+- [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [shenango/caladan-policies](https://github.com/shenango/caladan-policies) - 
 - [Crazylqx/Crazylqx.github.io](https://github.com/Crazylqx/Crazylqx.github.io) - 
 - [AIFM-sys/AIFM](https://github.com/AIFM-sys/AIFM) - AIFM: High-Performance, Application-Integrated Far Memory
