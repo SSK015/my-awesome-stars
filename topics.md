@@ -294,6 +294,7 @@
 
 ## data-science 
 
+- [caserec/Datasets-for-Recommender-Systems](https://github.com/caserec/Datasets-for-Recommender-Systems) - This is a repository of a topic-centric public data sources in high quality for Recommender Systems (RS)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [SleepyLGod/hust-projects](https://github.com/SleepyLGod/hust-projects) - My labs in college of CS and some interesting projects at HUST.
 
@@ -312,6 +313,7 @@
 
 ## database 
 
+- [caserec/Datasets-for-Recommender-Systems](https://github.com/caserec/Datasets-for-Recommender-Systems) - This is a repository of a topic-centric public data sources in high quality for Recommender Systems (RS)
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [gvinciguerra/PGM-index](https://github.com/gvinciguerra/PGM-index) - 🏅State-of-the-art learned data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes
 - [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
