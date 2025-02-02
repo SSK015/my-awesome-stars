@@ -119,6 +119,7 @@
 
 ## C# # 
 
+- [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [lastweek/source-singularity](https://github.com/lastweek/source-singularity) - Clone of the MSR Singularity Project
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -141,6 +142,7 @@
 - [SNU-ARC/MERCI](https://github.com/SNU-ARC/MERCI) - 
 - [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 - [google/fleetbench](https://github.com/google/fleetbench) - Benchmarking suite for Google workloads
+- [RRZE-HPC/gpu-benches](https://github.com/RRZE-HPC/gpu-benches) - collection of benchmarks to measure basic GPU capabilities
 - [cmuparlay/pbbsbench](https://github.com/cmuparlay/pbbsbench) - New version of pbbs benchmarks
 - [uwsampa/grappa](https://github.com/uwsampa/grappa) - Grappa: scaling irregular applications on commodity clusters
 - [ooibc88/gam](https://github.com/ooibc88/gam) - Globally Addressable Memory management (efficient distributed memory management via RDMA and caching)
@@ -335,7 +337,6 @@
 
 - [caserec/Datasets-for-Recommender-Systems](https://github.com/caserec/Datasets-for-Recommender-Systems) - This is a repository of a topic-centric public data sources in high quality for Recommender Systems (RS)
 - [SamaRostami/Social-Network-Analysis](https://github.com/SamaRostami/Social-Network-Analysis) - A Python project developed for the final project of the Social Network Analysis course. It utilizes NetworkX and Matplotlib to analyze and visualize social network data, demonstrating various metrics 
-- [RRZE-HPC/gpu-benches](https://github.com/RRZE-HPC/gpu-benches) - collection of benchmarks to measure basic GPU capabilities
 - [Jellyfish042/uncheatable_eval](https://github.com/Jellyfish042/uncheatable_eval) - Evaluating LLMs with Dynamic Data
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 - [zackchase/mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at 
