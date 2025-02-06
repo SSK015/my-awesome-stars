@@ -119,7 +119,7 @@
 
 ## C# # 
 
-- [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
+- [dotnet/yarp](https://github.com/dotnet/yarp) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [lastweek/source-singularity](https://github.com/lastweek/source-singularity) - Clone of the MSR Singularity Project
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
