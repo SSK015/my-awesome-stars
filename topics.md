@@ -644,7 +644,7 @@
 
 ## others 
 
-- [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
+- [dotnet/yarp](https://github.com/dotnet/yarp) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [zacg/simplelib](https://github.com/zacg/simplelib) - Golang SWIG Example Project
 - [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [shenango/caladan-policies](https://github.com/shenango/caladan-policies) - 
