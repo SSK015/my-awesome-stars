@@ -732,7 +732,7 @@
 - [hujiese/C-background-development-interview-experience](https://github.com/hujiese/C-background-development-interview-experience) - C++后台开发面试经验
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [asterich/conv](https://github.com/asterich/conv) - 
-- [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [Jellyfish042/uncheatable_eval](https://github.com/Jellyfish042/uncheatable_eval) - Evaluating LLMs with Dynamic Data
 - [Jokeren/Awesome-GPU](https://github.com/Jokeren/Awesome-GPU) - Awesome resources for GPUs
 - [richenyunqi/CCF-CSP-and-PAT-solution](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution) - CCF CSP和PAT考试题解（使用C++14语法）
