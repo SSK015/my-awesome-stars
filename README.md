@@ -476,6 +476,7 @@
 
 ## Rust 
 
+- [microsoft/demikernel](https://github.com/microsoft/demikernel) - Kernel-Bypass LibOS Architecture
 - [tkob-vh/gfw-rs](https://github.com/tkob-vh/gfw-rs) - Rewrite OpenGFW in Rust, with web-ui.
 - [jonhoo/rust-ibverbs](https://github.com/jonhoo/rust-ibverbs) - Bindings for RDMA ibverbs through rdma-core
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
