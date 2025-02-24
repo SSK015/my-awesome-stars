@@ -140,6 +140,7 @@
 
 ## algorithm 
 
+- [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)
 - [puzzlef/louvain-communities-openmp](https://github.com/puzzlef/louvain-communities-openmp) - Design of OpenMP-based Parallel Louvain algorithm for community detection.
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [lecfab/volt](https://github.com/lecfab/volt) - Vertex Ordering to List Triangles: a fast C++ tool for triangle counting or listing in big graphs. See associated paper: https://arxiv.org/abs/2203.04774
@@ -330,6 +331,7 @@
 
 ## deep-learning 
 
+- [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)
 - [npxiaoying/Social-Recommendation](https://github.com/npxiaoying/Social-Recommendation) - Summary of social recommendation papers and codes
 - [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
@@ -968,6 +970,7 @@
 
 ## pytorch 
 
+- [wenqifan03/GraphRec-WWW19](https://github.com/wenqifan03/GraphRec-WWW19) - Graph Neural Networks for Social Recommendation, WWW'19
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1061,6 +1064,7 @@
 
 ## tensorflow 
 
+- [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
