@@ -128,6 +128,7 @@
 - [typescript](#typescript)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [windows](#windows)
@@ -895,7 +896,7 @@
 - [fly-lovest/HUST-CS-Digital-Circuits-and-Logic-Design](https://github.com/fly-lovest/HUST-CS-Digital-Circuits-and-Logic-Design) - HUST-CS-2019 数字电路与逻辑设计-数电
 - [Oliver-242/HUST-database-opengauss](https://github.com/Oliver-242/HUST-database-opengauss) - 华中科技大学2020级数据库（opengauss版）educoder
 - [ekesaitingg/hust-big-data-analysis2021](https://github.com/ekesaitingg/hust-big-data-analysis2021) - 华中科技大学大数据分析实验2019级
-- [huangrt01/CS-Notes](https://github.com/huangrt01/CS-Notes) - 我的自学笔记，终身更新，当前专注System基础、MLSys。
+- [huangrt01/CS-Notes](https://github.com/huangrt01/CS-Notes) - 我的自学笔记，终身更新
 - [Pold87/academic-keyword-occurrence](https://github.com/Pold87/academic-keyword-occurrence) - Extracts the historic word occurrence of a search term in academic papers
 - [cs-qyzhang/rdma-example](https://github.com/cs-qyzhang/rdma-example) - RDMA programming examples using Soft-RoCE
 - [water8394/flink-recommandSystem-demo](https://github.com/water8394/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。
@@ -1096,6 +1097,10 @@
 ## visual-studio-code 
 
 - [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
+
+## vpn 
+
+- [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
 
 ## vue 
 
