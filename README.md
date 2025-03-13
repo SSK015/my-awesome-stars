@@ -71,7 +71,6 @@
 - [clamchowder/Microbenchmarks](https://github.com/clamchowder/Microbenchmarks) - Trying to figure various CPU things out
 - [larryli/PuTTY](https://github.com/larryli/PuTTY) - PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。
 - [vmware/splinterdb](https://github.com/vmware/splinterdb) - High Performance Embedded Key-Value Store
-- [1a1a11a/libCacheSim](https://github.com/1a1a11a/libCacheSim) - a high performance library for building cache simulators
 - [wangchenxi7/Atlas](https://github.com/wangchenxi7/Atlas) - 
 - [RT-Thread-packages/lwext4](https://github.com/RT-Thread-packages/lwext4) - ext2/ext3/ext4 filesystem library for microcontrollers
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).
@@ -151,8 +150,9 @@
 - [ooibc88/gam](https://github.com/ooibc88/gam) - Globally Addressable Memory management (efficient distributed memory management via RDMA and caching)
 - [erpc-io/eRPC](https://github.com/erpc-io/eRPC) - Efficient RPCs for datacenter networks
 - [E3SM-Project/scorpio](https://github.com/E3SM-Project/scorpio) - A high-level Parallel I/O Library for structured grid applications
+- [1a1a11a/libCacheSim](https://github.com/1a1a11a/libCacheSim) - a high performance library for building cache simulators
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
-- [oneapi-src/oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [asterich/conv](https://github.com/asterich/conv) - 
 - [lecfab/volt](https://github.com/lecfab/volt) - Vertex Ordering to List Triangles: a fast C++ tool for triangle counting or listing in big graphs. See associated paper: https://arxiv.org/abs/2203.04774
 - [richenyunqi/CCF-CSP-and-PAT-solution](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution) - CCF CSP和PAT考试题解（使用C++14语法）
