@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [cmpxchg16/tsx.me](https://github.com/cmpxchg16/tsx.me) - Benchmark Intel TSX (Transactional Synchronization Extension) Hardware Transactional Memory on my sandbox
 - [AinsleySnow/Ginkgo](https://github.com/AinsleySnow/Ginkgo) - A toy C compiler that compatible with C23 and can do limited optimizations
 - [zacg/simplelib](https://github.com/zacg/simplelib) - Golang SWIG Example Project
 - [facebook/CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
@@ -265,6 +266,7 @@
 
 ## Go 
 
+- [JunctionOS/go](https://github.com/JunctionOS/go) - 
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [ServiceWeaver/workshops](https://github.com/ServiceWeaver/workshops) - Repository used during the Service Weaver workshops.
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
