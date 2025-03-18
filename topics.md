@@ -650,6 +650,7 @@
 
 ## others 
 
+- [google/cpu-check](https://github.com/google/cpu-check) - 
 - [JunctionOS/go](https://github.com/JunctionOS/go) - 
 - [cmpxchg16/tsx.me](https://github.com/cmpxchg16/tsx.me) - Benchmark Intel TSX (Transactional Synchronization Extension) Hardware Transactional Memory on my sandbox
 - [DependableSystemsLab/LLFI](https://github.com/DependableSystemsLab/LLFI) - LLFI is an LLVM based fault injection tool, that injects faults into the LLVM IR of the application source code.  The faults can be injected into specific program points, and the effect can be easily 
