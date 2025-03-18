@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [google/cpu-check](https://github.com/google/cpu-check) - 
 - [cmpxchg16/tsx.me](https://github.com/cmpxchg16/tsx.me) - Benchmark Intel TSX (Transactional Synchronization Extension) Hardware Transactional Memory on my sandbox
 - [AinsleySnow/Ginkgo](https://github.com/AinsleySnow/Ginkgo) - A toy C compiler that compatible with C23 and can do limited optimizations
 - [zacg/simplelib](https://github.com/zacg/simplelib) - Golang SWIG Example Project
