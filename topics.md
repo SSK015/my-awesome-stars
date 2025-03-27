@@ -555,6 +555,7 @@
 
 ## llm 
 
+- [thu-pacman/chitu](https://github.com/thu-pacman/chitu) - High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ## low-code 
@@ -978,6 +979,7 @@
 
 ## pytorch 
 
+- [thu-pacman/chitu](https://github.com/thu-pacman/chitu) - High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 - [wenqifan03/GraphRec-WWW19](https://github.com/wenqifan03/GraphRec-WWW19) - Graph Neural Networks for Social Recommendation, WWW'19
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -1063,7 +1065,7 @@
 ## sqlite 
 
 - [enpeizhao/duck_db](https://github.com/enpeizhao/duck_db) - c/c++ build a simple b+tree RDMS（利用c/c++ 开发基于B+树的小型关系型数据库 ）
-- [ls4154/YCSB-cpp](https://github.com/ls4154/YCSB-cpp) - YCSB written in C++ (for LevelDB, RocksDB, LMDB, WiredTiger, SQLite)
+- [ls4154/YCSB-cpp](https://github.com/ls4154/YCSB-cpp) - YCSB written in C++ for embedded databases. (supporting LevelDB, RocksDB, LMDB, WiredTiger, and SQLite)
 
 ## tailwindcss 
 
