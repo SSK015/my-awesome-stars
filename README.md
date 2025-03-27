@@ -223,7 +223,7 @@
 - [youngyangyang04/Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) - A tiny KV storage based on skiplist written in C++ language|  使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀
 - [Oliver-242/HUST-database-opengauss](https://github.com/Oliver-242/HUST-database-opengauss) - 华中科技大学2020级数据库（opengauss版）educoder
 - [ejunjsh/bustub](https://github.com/ejunjsh/bustub) - Database practice on cmu15-445 2022
-- [ls4154/YCSB-cpp](https://github.com/ls4154/YCSB-cpp) - YCSB written in C++ (for LevelDB, RocksDB, LMDB, WiredTiger, SQLite)
+- [ls4154/YCSB-cpp](https://github.com/ls4154/YCSB-cpp) - YCSB written in C++ for embedded databases. (supporting LevelDB, RocksDB, LMDB, WiredTiger, and SQLite)
 - [CGCL-codes/mioDB](https://github.com/CGCL-codes/mioDB) - MioDB: Devouring Data Byte-addressable LSM-based KV Stores for Hybrid Memory
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [thustorage/Sherman](https://github.com/thustorage/Sherman) - Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory
@@ -431,6 +431,7 @@
 
 ## Python 
 
+- [thu-pacman/chitu](https://github.com/thu-pacman/chitu) - High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [wenqifan03/GraphRec-WWW19](https://github.com/wenqifan03/GraphRec-WWW19) - Graph Neural Networks for Social Recommendation, WWW'19
 - [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)
