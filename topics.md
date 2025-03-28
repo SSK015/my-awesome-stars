@@ -1130,6 +1130,7 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+- [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) - Easily move your WSL distros VHDX file to a new location.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
