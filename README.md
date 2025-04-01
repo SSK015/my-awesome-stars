@@ -236,7 +236,6 @@
 
 ## CSS 
 
-- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 
 ## Cuda 
@@ -447,6 +446,7 @@
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [CGCL-codes/YiTu](https://github.com/CGCL-codes/YiTu) - YiTu is an easy-to-use runtime to fully exploit the hybrid parallelism of different hardwares (e.g., GPU) to efficiently support the execution of various kinds of graph algorithms (e.g., GNNs).
+- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
 - [cs-course/data-center-course](https://github.com/cs-course/data-center-course) - 
 - [OpenACC/openacc-best-practices-guide](https://github.com/OpenACC/openacc-best-practices-guide) - The sources for the OpenACC Programming and Best Practices Guide.
