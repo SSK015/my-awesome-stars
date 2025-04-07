@@ -196,7 +196,7 @@
 - [theoanab/SILK-USENIXATC2019](https://github.com/theoanab/SILK-USENIXATC2019) - Code for "SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores" published in USENIX ATC 19
 - [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [mindspore-ai/graphengine](https://github.com/mindspore-ai/graphengine) - A connecting link module between frontends and Ascend processors.
-- [CMU-SAFARI/MQSim](https://github.com/CMU-SAFARI/MQSim) - MQSim is a fast and accurate simulator modeling the performance of modern multi-queue (MQ) SSDs as well as traditional SATA based SSDs. MQSim faithfully models new high-bandwidth protocol implementati
+- [CMU-SAFARI/MQSim](https://github.com/CMU-SAFARI/MQSim) - MQSim is a fast & accurate simulator for modern multi-queue (MQ) and SATA SSDs. MQSim faithfully models new high-bandwidth protocol implementations, steady-state SSD conditions, and full end-to-end la
 - [gem5-graphics/gem5-graphics](https://github.com/gem5-graphics/gem5-graphics) - gem5 simulator with a gpgpu+graphics GPU model
 - [gem5/gem5](https://github.com/gem5/gem5) - The official repository for the gem5 computer-system architecture simulator.
 - [heptagonhust/NVIDIA_TensorRT_Hackathon_2023_Rematch](https://github.com/heptagonhust/NVIDIA_TensorRT_Hackathon_2023_Rematch) - NVIDIA_TensorRT_Hackathon_2023 (复赛)
