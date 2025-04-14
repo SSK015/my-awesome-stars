@@ -259,7 +259,7 @@
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [emeryberger/csconferences](https://github.com/emeryberger/csconferences) - Major CS conference publication stats (including accepted and submitted) by year.
-- [chenqianhe/LearnProfessionalBasicCoursesinComputerScience](https://github.com/chenqianhe/LearnProfessionalBasicCoursesinComputerScience) - Learn Professional Basic Courses in Computer Science计算机专业基础课程学习
+- [chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science](https://github.com/chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science) - Learn Professional Basic Courses in Computer Science计算机专业基础课程学习
 - [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
@@ -281,7 +281,7 @@
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
-- [chenqianhe/LearnProfessionalBasicCoursesinComputerScience](https://github.com/chenqianhe/LearnProfessionalBasicCoursesinComputerScience) - Learn Professional Basic Courses in Computer Science计算机专业基础课程学习
+- [chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science](https://github.com/chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science) - Learn Professional Basic Courses in Computer Science计算机专业基础课程学习
 - [SleepyLGod/hust-projects](https://github.com/SleepyLGod/hust-projects) - My labs in college of CS and some interesting projects at HUST.
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
@@ -648,7 +648,7 @@
 
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [WukLab/LegoOS](https://github.com/WukLab/LegoOS) - Disseminated, Distributed OS for Hardware Resource Disaggregation. USENIX OSDI 2018 Best Paper.
-- [chenqianhe/LearnProfessionalBasicCoursesinComputerScience](https://github.com/chenqianhe/LearnProfessionalBasicCoursesinComputerScience) - Learn Professional Basic Courses in Computer Science计算机专业基础课程学习
+- [chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science](https://github.com/chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science) - Learn Professional Basic Courses in Computer Science计算机专业基础课程学习
 - [AlexFanw/HUSTER-CS](https://github.com/AlexFanw/HUSTER-CS) - 华中科技大学 计算机科学与技术学院 课程与实验资料💾
 
 ## osint 
