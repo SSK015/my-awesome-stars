@@ -134,7 +134,7 @@
 - [facebook/CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
 - [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [madsys-dev/smart](https://github.com/madsys-dev/smart) - Scaling Up Memory Disaggregated Applications with SMART
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
 - [chenxin202/REEF3D](https://github.com/chenxin202/REEF3D) - REEF3D
 - [heptagonhust/about](https://github.com/heptagonhust/about) - 华科七边形，欢迎各位朋友的指导与交流。
