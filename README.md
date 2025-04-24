@@ -73,7 +73,7 @@
 - [vmware/splinterdb](https://github.com/vmware/splinterdb) - High Performance Embedded Key-Value Store
 - [wangchenxi7/Atlas](https://github.com/wangchenxi7/Atlas) - 
 - [RT-Thread-packages/lwext4](https://github.com/RT-Thread-packages/lwext4) - ext2/ext3/ext4 filesystem library for microcontrollers
-- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).
+- [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/
 - [shenango/shenango](https://github.com/shenango/shenango) - 
 - [Nu-NSDI23/Nu](https://github.com/Nu-NSDI23/Nu) - Nu is a new datacenter system that enables developers to build fungible applications that can use datacenter resources wherever they are.
 - [gkostka/lwext4](https://github.com/gkostka/lwext4) - ext2/ext3/ext4 filesystem library for microcontrollers
