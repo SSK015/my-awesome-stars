@@ -529,6 +529,7 @@
 
 ## TeX 
 
+- [SukunaShinmyoumaru-hust/template-of-thesis](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis) - 
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
 - [HauLiang/PhD-Application-Template](https://github.com/HauLiang/PhD-Application-Template) - LaTex Template for my PhD Application, including CV and RP...
 - [xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12) - 《Learn LLVM 12》的非专业个人翻译
