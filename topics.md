@@ -658,6 +658,7 @@
 
 ## others 
 
+- [SukunaShinmyoumaru-hust/template-of-thesis](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis) - 
 - [google/cpu-check](https://github.com/google/cpu-check) - 
 - [JunctionOS/go](https://github.com/JunctionOS/go) - 
 - [cmpxchg16/tsx.me](https://github.com/cmpxchg16/tsx.me) - Benchmark Intel TSX (Transactional Synchronization Extension) Hardware Transactional Memory on my sandbox
