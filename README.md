@@ -441,7 +441,7 @@
 - [MPh-py/MPh](https://github.com/MPh-py/MPh) - Pythonic scripting interface for Comsol Multiphysics
 - [intel/perfmon](https://github.com/intel/perfmon) - 
 - [miracleyoo/Markdown4Zhihu](https://github.com/miracleyoo/Markdown4Zhihu) - 一键解决知乎导入Markdown文件时图片和公式等问题。
-- [OpenGVLab/PhyGenBench](https://github.com/OpenGVLab/PhyGenBench) - The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
+- [OpenGVLab/PhyGenBench](https://github.com/OpenGVLab/PhyGenBench) - [ICML2025] The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
