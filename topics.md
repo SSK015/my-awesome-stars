@@ -197,7 +197,7 @@
 
 ## bioinformatics 
 
-- [y9c/m5C-UBSseq](https://github.com/y9c/m5C-UBSseq) - Ultrafast bisulfite
+- [y9c/m5C-UBSseq](https://github.com/y9c/m5C-UBSseq) - 🧪 Ultrafast bisulfite
 
 ## c 
 
