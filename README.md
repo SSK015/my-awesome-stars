@@ -435,7 +435,7 @@
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [wenqifan03/GraphRec-WWW19](https://github.com/wenqifan03/GraphRec-WWW19) - Graph Neural Networks for Social Recommendation, WWW'19
 - [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)
-- [y9c/m5C-UBSseq](https://github.com/y9c/m5C-UBSseq) - Ultrafast bisulfite
+- [y9c/m5C-UBSseq](https://github.com/y9c/m5C-UBSseq) - 🧪 Ultrafast bisulfite
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [L-M-Sherlock/ZhiHuLegend](https://github.com/L-M-Sherlock/ZhiHuLegend) - 知乎封神榜
 - [MPh-py/MPh](https://github.com/MPh-py/MPh) - Pythonic scripting interface for Comsol Multiphysics
