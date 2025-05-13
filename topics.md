@@ -121,6 +121,7 @@
 - [springboot](#springboot)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
@@ -128,6 +129,7 @@
 - [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
+- [ui](#ui)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
@@ -1075,6 +1077,10 @@
 - [enpeizhao/duck_db](https://github.com/enpeizhao/duck_db) - c/c++ build a simple b+tree RDMS（利用c/c++ 开发基于B+树的小型关系型数据库 ）
 - [ls4154/YCSB-cpp](https://github.com/ls4154/YCSB-cpp) - YCSB written in C++ for embedded databases. (supporting LevelDB, RocksDB, LMDB, WiredTiger, and SQLite)
 
+## tailwind 
+
+- [creativetimofficial/vue-notus](https://github.com/creativetimofficial/vue-notus) - Vue Notus: Free Tailwind CSS UI Kit and Admin
+
 ## tailwindcss 
 
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
@@ -1110,6 +1116,10 @@
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
+
+## ui 
+
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 
 ## vim 
 
