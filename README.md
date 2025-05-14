@@ -266,6 +266,7 @@
 
 ## Go 
 
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [JunctionOS/go](https://github.com/JunctionOS/go) - 
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [ServiceWeaver/workshops](https://github.com/ServiceWeaver/workshops) - Repository used during the Service Weaver workshops.
