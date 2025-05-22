@@ -781,7 +781,7 @@
 - [lvyufeng/step_into_mips](https://github.com/lvyufeng/step_into_mips) - 一步一步写MIPS CPU
 - [cs-course/data-center-course](https://github.com/cs-course/data-center-course) - 
 - [OpenACC/openacc-best-practices-guide](https://github.com/OpenACC/openacc-best-practices-guide) - The sources for the OpenACC Programming and Best Practices Guide.
-- [XinyiLiu577086410/hust-csapp](https://github.com/XinyiLiu577086410/hust-csapp) - 
+- [XinyiLiu577086410/Fork-hust-csapp](https://github.com/XinyiLiu577086410/Fork-hust-csapp) - 
 - [uclasystem/Semeru](https://github.com/uclasystem/Semeru) - A Memory-Disaggregated Managed Runtime.
 - [ManiaciaChao/yatm](https://github.com/ManiaciaChao/yatm) - yet another teachermate helper
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
