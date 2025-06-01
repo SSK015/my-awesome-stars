@@ -49,6 +49,7 @@
 
 ## C 
 
+- [SymbioticLab/Hydra](https://github.com/SymbioticLab/Hydra) - Hydra adds resilience and high availability to remote memory solutions.
 - [shenango/caladan-policies](https://github.com/shenango/caladan-policies) - 
 - [AIFM-sys/AIFM](https://github.com/AIFM-sys/AIFM) - AIFM: High-Performance, Application-Integrated Far Memory
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
@@ -127,6 +128,7 @@
 
 ## C++ 
 
+- [madsys-dev/sosp-paper19-ae](https://github.com/madsys-dev/sosp-paper19-ae) - The Artifact Evaluation Version of SOSP Paper #19
 - [google/cpu-check](https://github.com/google/cpu-check) - 
 - [cmpxchg16/tsx.me](https://github.com/cmpxchg16/tsx.me) - Benchmark Intel TSX (Transactional Synchronization Extension) Hardware Transactional Memory on my sandbox
 - [AinsleySnow/Ginkgo](https://github.com/AinsleySnow/Ginkgo) - A toy C compiler that compatible with C23 and can do limited optimizations
