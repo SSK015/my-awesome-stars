@@ -663,6 +663,8 @@
 
 ## others 
 
+- [madsys-dev/sosp-paper19-ae](https://github.com/madsys-dev/sosp-paper19-ae) - The Artifact Evaluation Version of SOSP Paper #19
+- [SymbioticLab/Hydra](https://github.com/SymbioticLab/Hydra) - Hydra adds resilience and high availability to remote memory solutions.
 - [SukunaShinmyoumaru-hust/template-of-thesis](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis) - 
 - [google/cpu-check](https://github.com/google/cpu-check) - 
 - [JunctionOS/go](https://github.com/JunctionOS/go) - 
