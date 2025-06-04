@@ -687,7 +687,6 @@
 - [ServiceWeaver/workshops](https://github.com/ServiceWeaver/workshops) - Repository used during the Service Weaver workshops.
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [dauzickaite/mpfgmres](https://github.com/dauzickaite/mpfgmres) - split-preconditioned FGMRES in four precisions
-- [L-M-Sherlock/ZhiHuLegend](https://github.com/L-M-Sherlock/ZhiHuLegend) - 知乎封神榜
 - [MPh-py/MPh](https://github.com/MPh-py/MPh) - Pythonic scripting interface for Comsol Multiphysics
 - [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
 - [petsc/petsc](https://github.com/petsc/petsc) - Mirror of https://gitlab.com/petsc/petsc
