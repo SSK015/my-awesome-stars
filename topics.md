@@ -567,6 +567,7 @@
 
 - [thu-pacman/chitu](https://github.com/thu-pacman/chitu) - High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 
 ## low-code 
 
@@ -904,7 +905,6 @@
 - [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 - [ypluo/EasyPlot](https://github.com/ypluo/EasyPlot) - Drawing Comparison Figures in Scientific Research Papers, includes lines and bars.
 - [yilinfang/LogisimProjects](https://github.com/yilinfang/LogisimProjects) - 华中科技大学数字逻辑与计算机设计基础实验
-- [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [kiwiloveskiwis/NJU_MachineLearning](https://github.com/kiwiloveskiwis/NJU_MachineLearning) - 
 - [dmemsys/FUSEE](https://github.com/dmemsys/FUSEE) - This is the implementation repository of our FAST'23 paper: FUSEE: A Fully Memory-Disaggregated Key-Value Store.
 - [ruihong123/dLSM](https://github.com/ruihong123/dLSM) - dLSM: An LSM-Based Index for RDMA-Enabled Memory Disaggregation
