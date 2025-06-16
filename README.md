@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [LPD-EPFL/mu](https://github.com/LPD-EPFL/mu) - Mu: Microsecond Consensus for Microsecond Applications
 - [madsys-dev/sosp-paper19-ae](https://github.com/madsys-dev/sosp-paper19-ae) - The Artifact Evaluation Version of SOSP Paper #19
 - [google/cpu-check](https://github.com/google/cpu-check) - 
 - [cmpxchg16/tsx.me](https://github.com/cmpxchg16/tsx.me) - Benchmark Intel TSX (Transactional Synchronization Extension) Hardware Transactional Memory on my sandbox
