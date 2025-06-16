@@ -102,6 +102,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [productivity](#productivity)
 - [publishing](#publishing)
 - [python](#python)
 - [pytorch](#pytorch)
@@ -665,6 +666,7 @@
 
 ## others 
 
+- [LPD-EPFL/mu](https://github.com/LPD-EPFL/mu) - Mu: Microsecond Consensus for Microsecond Applications
 - [ADSL-EC/MicroEC](https://github.com/ADSL-EC/MicroEC) - 
 - [madsys-dev/sosp-paper19-ae](https://github.com/madsys-dev/sosp-paper19-ae) - The Artifact Evaluation Version of SOSP Paper #19
 - [SymbioticLab/Hydra](https://github.com/SymbioticLab/Hydra) - Hydra adds resilience and high availability to remote memory solutions.
@@ -969,6 +971,12 @@
 
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) - Easily move your WSL distros VHDX file to a new location.
+
+## productivity 
+
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
 ## publishing 
 
