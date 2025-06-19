@@ -290,7 +290,6 @@
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) - 🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes
 - [gushouchuanzhi1/2023_hust_datavisualization](https://github.com/gushouchuanzhi1/2023_hust_datavisualization) - 2023秋华中科技大学数据可视化
 - [TsukihimeCN/TsukihimeCN.github.io](https://github.com/TsukihimeCN/TsukihimeCN.github.io) - 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Oliver-242/HUST-CS-Computer-Communication-and-Networking](https://github.com/Oliver-242/HUST-CS-Computer-Communication-and-Networking) - 华科CS2020级计算机网络课程及其实验
 - [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
 - [Pfzuo/pfzuo.github.io](https://github.com/Pfzuo/pfzuo.github.io) - My blog and homepage (https://pfzuo.github.io)
@@ -329,6 +328,7 @@
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [bojone/papers.cool](https://github.com/bojone/papers.cool) - Cool Papers - Immersive Paper Discovery
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [virus010101/linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|App论坛|PC端圈子社区论坛系统是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS社区论坛系统，包括论坛图文帖视频圈子聊天支付签到充值等圈子论坛小程序论坛App功能
 - [OmegaXYZ/Carrot-Hole](https://github.com/OmegaXYZ/Carrot-Hole) - 树洞
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
