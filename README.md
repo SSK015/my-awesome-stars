@@ -22,6 +22,7 @@
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [MATLAB](#matlab)
@@ -49,6 +50,7 @@
 
 ## C 
 
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [ADSL-EC/MicroEC](https://github.com/ADSL-EC/MicroEC) - 
 - [SymbioticLab/Hydra](https://github.com/SymbioticLab/Hydra) - Hydra adds resilience and high availability to remote memory solutions.
 - [shenango/caladan-policies](https://github.com/shenango/caladan-policies) - 
@@ -270,6 +272,7 @@
 
 ## Go 
 
+- [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [JunctionOS/go](https://github.com/JunctionOS/go) - 
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
@@ -358,6 +361,10 @@
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [kiwiloveskiwis/NJU_MachineLearning](https://github.com/kiwiloveskiwis/NJU_MachineLearning) - 
 - [SukunaShinmyoumaru-hust/Hust-opensource-Xuejie](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) - 一个华科计算机学院的资料集合
+
+## Kotlin 
+
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
 ## LLVM 
 
