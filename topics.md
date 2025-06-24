@@ -161,6 +161,7 @@
 
 ## android 
 
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
 - [gem5-graphics/gem5-graphics](https://github.com/gem5-graphics/gem5-graphics) - gem5 simulator with a gpgpu+graphics GPU model
 
@@ -666,6 +667,8 @@
 
 ## others 
 
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
+- [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
 - [LPD-EPFL/mu](https://github.com/LPD-EPFL/mu) - Mu: Microsecond Consensus for Microsecond Applications
 - [ADSL-EC/MicroEC](https://github.com/ADSL-EC/MicroEC) - 
 - [madsys-dev/sosp-paper19-ae](https://github.com/madsys-dev/sosp-paper19-ae) - The Artifact Evaluation Version of SOSP Paper #19
@@ -1144,6 +1147,7 @@
 
 ## vpn 
 
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
 
 ## vue 
