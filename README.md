@@ -50,6 +50,7 @@
 
 ## C 
 
+- [Mingyu-Liang/Ditto](https://github.com/Mingyu-Liang/Ditto) - 
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [ADSL-EC/MicroEC](https://github.com/ADSL-EC/MicroEC) - 
 - [SymbioticLab/Hydra](https://github.com/SymbioticLab/Hydra) - Hydra adds resilience and high availability to remote memory solutions.
