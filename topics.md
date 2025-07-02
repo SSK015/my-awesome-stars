@@ -667,6 +667,7 @@
 
 ## others 
 
+- [YahooArchive/pasc](https://github.com/YahooArchive/pasc) - Practical Arbitrary State Corruptions
 - [Mingyu-Liang/Ditto](https://github.com/Mingyu-Liang/Ditto) - 
 - [facebookresearch/DCPerf](https://github.com/facebookresearch/DCPerf) - DCPerf benchmark suite for hyperscale cloud applications
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
@@ -737,7 +738,7 @@
 - [serping/serp-checker](https://github.com/serping/serp-checker) - 
 - [vaaandark/socker](https://github.com/vaaandark/socker) - A tool for capturing unix socket packets using eBPF written in the aya-rs framework
 - [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享
-- [kraj/musl](https://github.com/kraj/musl) - musl - an implementation of the standard library for Linux-based systems
+- [kraj/musl](https://github.com/kraj/musl) - musl - an implementation of the standard library for Linux-based systems ( mirror )
 - [clamchowder/Microbenchmarks](https://github.com/clamchowder/Microbenchmarks) - Trying to figure various CPU things out
 - [erpc-io/eRPC](https://github.com/erpc-io/eRPC) - Efficient RPCs for datacenter networks
 - [larryli/PuTTY](https://github.com/larryli/PuTTY) - PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。
