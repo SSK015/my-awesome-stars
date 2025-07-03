@@ -72,7 +72,7 @@
 - [jeffhammond/STREAM](https://github.com/jeffhammond/STREAM) - STREAM benchmark
 - [brendangregg/wss](https://github.com/brendangregg/wss) - Working Set Size tools
 - [WireGuard/wireguard-linux-compat](https://github.com/WireGuard/wireguard-linux-compat) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux-compat
-- [kraj/musl](https://github.com/kraj/musl) - musl - an implementation of the standard library for Linux-based systems ( mirror )
+- [kraj/musl](https://github.com/kraj/musl) - musl - an implementation of the standard library for Linux-based systems - ( Downstream )
 - [clamchowder/Microbenchmarks](https://github.com/clamchowder/Microbenchmarks) - Trying to figure various CPU things out
 - [larryli/PuTTY](https://github.com/larryli/PuTTY) - PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。
 - [vmware/splinterdb](https://github.com/vmware/splinterdb) - High Performance Embedded Key-Value Store
