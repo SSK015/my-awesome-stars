@@ -738,7 +738,7 @@
 - [serping/serp-checker](https://github.com/serping/serp-checker) - 
 - [vaaandark/socker](https://github.com/vaaandark/socker) - A tool for capturing unix socket packets using eBPF written in the aya-rs framework
 - [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享
-- [kraj/musl](https://github.com/kraj/musl) - musl - an implementation of the standard library for Linux-based systems ( mirror )
+- [kraj/musl](https://github.com/kraj/musl) - musl - an implementation of the standard library for Linux-based systems - ( Downstream )
 - [clamchowder/Microbenchmarks](https://github.com/clamchowder/Microbenchmarks) - Trying to figure various CPU things out
 - [erpc-io/eRPC](https://github.com/erpc-io/eRPC) - Efficient RPCs for datacenter networks
 - [larryli/PuTTY](https://github.com/larryli/PuTTY) - PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。
