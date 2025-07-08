@@ -286,6 +286,7 @@
 
 ## HTML 
 
+- [LiShengkai01/LiShengkai](https://github.com/LiShengkai01/LiShengkai) - My academic page
 - [Crazylqx/Crazylqx.github.io](https://github.com/Crazylqx/Crazylqx.github.io) - 
 - [MoatLab/Pond](https://github.com/MoatLab/Pond) - Pond: CXL-Based Memory Pooling Systems for Cloud Platforms (ASPLOS'23)
 - [xiaolai/100-Very-Short-Sentences-in-American-English](https://github.com/xiaolai/100-Very-Short-Sentences-in-American-English) - 100 Very Short Sentences in American English
@@ -388,6 +389,7 @@
 
 ## Others 
 
+- [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 - [npxiaoying/Social-Recommendation](https://github.com/npxiaoying/Social-Recommendation) - Summary of social recommendation papers and codes
 - [MicrosoftDocs/cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) - C++ Documentation
 - [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
