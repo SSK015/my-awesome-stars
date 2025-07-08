@@ -667,6 +667,8 @@
 
 ## others 
 
+- [LiShengkai01/LiShengkai](https://github.com/LiShengkai01/LiShengkai) - My academic page
+- [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 - [YahooArchive/pasc](https://github.com/YahooArchive/pasc) - Practical Arbitrary State Corruptions
 - [Mingyu-Liang/Ditto](https://github.com/Mingyu-Liang/Ditto) - 
 - [facebookresearch/DCPerf](https://github.com/facebookresearch/DCPerf) - DCPerf benchmark suite for hyperscale cloud applications
