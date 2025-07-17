@@ -447,6 +447,7 @@
 
 ## Python 
 
+- [HKUST-SING/srnic-simulation-public](https://github.com/HKUST-SING/srnic-simulation-public) - 
 - [facebookresearch/DCPerf](https://github.com/facebookresearch/DCPerf) - DCPerf benchmark suite for hyperscale cloud applications
 - [intelligent-machine-learning/dlrover](https://github.com/intelligent-machine-learning/dlrover) - DLRover: An Automatic Distributed Deep Learning System
 - [aws-samples/aws-serverless-ecommerce-platform](https://github.com/aws-samples/aws-serverless-ecommerce-platform) - Serverless Ecommerce Platform is a sample implementation of a serverless backend for an e-commerce website. This sample is not meant to be used as an e-commerce platform as-is, but as an inspiration o
