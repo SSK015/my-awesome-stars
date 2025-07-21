@@ -885,7 +885,7 @@
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [kberkay/Cuda-Matrix-Multiplication](https://github.com/kberkay/Cuda-Matrix-Multiplication) - Matrix Multiplication on GPU using Shared Memory considering Coalescing and Bank Conflicts
 - [Chu-Wang/Lab-ComputerOrganization](https://github.com/Chu-Wang/Lab-ComputerOrganization) - 华中科技大学计算机组成原理实验，lab of computer organization in HUST CS School.
-- [Pfzuo/pfzuo.github.io](https://github.com/Pfzuo/pfzuo.github.io) - My blog and homepage (https://pfzuo.github.io)
+- [Pfzuo/pfzuo.github.io.old](https://github.com/Pfzuo/pfzuo.github.io.old) - My blog and homepage (https://pfzuo.github.io)
 - [dmemsys/SMART](https://github.com/dmemsys/SMART) - This is the implementation repository of our OSDI'23 paper: SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [moyigeek/hust_digital_wire_design](https://github.com/moyigeek/hust_digital_wire_design) - 2022年华中科技大学数字电路逻辑设计实验
