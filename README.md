@@ -281,7 +281,7 @@
 - [ServiceWeaver/workshops](https://github.com/ServiceWeaver/workshops) - Repository used during the Service Weaver workshops.
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
-- [lcpu-club/hpcgame_1st_problems](https://github.com/lcpu-club/hpcgame_1st_problems) - Repository for HPCGame 1st Problems.
+- [hpcgame/hpcgame_1st_problems](https://github.com/hpcgame/hpcgame_1st_problems) - Repository for HPCGame 1st Problems.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [YushuaiJi/Distribution-System](https://github.com/YushuaiJi/Distribution-System) - 分布式系统学习
 
@@ -472,7 +472,7 @@
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [lcpu-club/hpc-wiki](https://github.com/lcpu-club/hpc-wiki) - Wiki fo HPC
+- [hpcgame/hpc-wiki](https://github.com/hpcgame/hpc-wiki) - Wiki fo HPC
 - [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道全自动 三月七小助手
 - [emeryberger/csconferences](https://github.com/emeryberger/csconferences) - Major CS conference publication stats (including accepted and submitted) by year.
 - [aesareen/Learned-Indexes-with-Insertions](https://github.com/aesareen/Learned-Indexes-with-Insertions) - 
