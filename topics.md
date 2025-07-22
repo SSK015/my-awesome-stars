@@ -807,7 +807,7 @@
 - [jmrosinski/GPTL](https://github.com/jmrosinski/GPTL) - General Purpose Timing Library
 - [heptagonhust/ASC24-Final-GoMars](https://github.com/heptagonhust/ASC24-Final-GoMars) - Hello Fortran 2024!
 - [KDE/heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux
-- [lcpu-club/hpcgame_1st_problems](https://github.com/lcpu-club/hpcgame_1st_problems) - Repository for HPCGame 1st Problems.
+- [hpcgame/hpcgame_1st_problems](https://github.com/hpcgame/hpcgame_1st_problems) - Repository for HPCGame 1st Problems.
 - [laylalaisy/TOEFL_laylalaisy](https://github.com/laylalaisy/TOEFL_laylalaisy) - 备考托福的一丢丢经验+资料~祝小可爱和大佬们都早日和托福大魔王分手(o゜▽゜)o☆
 - [TOEFL-win/TOEFL](https://github.com/TOEFL-win/TOEFL) - 托福王炸福利包，托福雅思gre，gmat资料，百度网盘，威学，张巍gre，新东方，fiona，黎老师写作，考满分，微臣onepass，张艳听力，孟一博，吴克亮，杨帅，黄翰生，顾加北，杜仕明，何琼，王陆，周璐
 - [marvis/word_remember](https://github.com/marvis/word_remember) - 
@@ -821,7 +821,7 @@
 - [emperorlu/Learned-RocksDB](https://github.com/emperorlu/Learned-RocksDB) - 
 - [jerrysjin/Exponential_Smoothing](https://github.com/jerrysjin/Exponential_Smoothing) - A Simple C++ Template of Exponential Smoothing
 - [zackchase/mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at 
-- [lcpu-club/hpc-wiki](https://github.com/lcpu-club/hpc-wiki) - Wiki fo HPC
+- [hpcgame/hpc-wiki](https://github.com/hpcgame/hpc-wiki) - Wiki fo HPC
 - [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [OpenCAEPlus/OpenCAEPoro_ASC2024](https://github.com/OpenCAEPlus/OpenCAEPoro_ASC2024) - OpenCAEPoro for ASC 2024
