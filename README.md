@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [LPD-EPFL/swarm-kv](https://github.com/LPD-EPFL/swarm-kv) - A fault-tolerant RDMA-based disaggregated key-value store with 1-RTT UPDATEs and GETs thanks to the SWARM replication protocol
 - [LPD-EPFL/mu](https://github.com/LPD-EPFL/mu) - Mu: Microsecond Consensus for Microsecond Applications
 - [madsys-dev/sosp-paper19-ae](https://github.com/madsys-dev/sosp-paper19-ae) - The Artifact Evaluation Version of SOSP Paper #19
 - [google/cpu-check](https://github.com/google/cpu-check) - 
