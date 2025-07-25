@@ -1044,6 +1044,7 @@
 
 ## rust 
 
+- [IcicleF/Nos](https://github.com/IcicleF/Nos) - [OSDI'25] Stripeless Data Placement for Erasure-Coded In-Memory Storage.
 - [tkob-vh/gfw-rs](https://github.com/tkob-vh/gfw-rs) - Rewrite OpenGFW in Rust, with web-ui.
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [utsaslab/squirrelfs](https://github.com/utsaslab/squirrelfs) - SquirrelFS: A crash-consistent Rust file system for persistent memory (OSDI 24)
