@@ -50,6 +50,7 @@
 
 ## C 
 
+- [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository
 - [SymbioticLab/frdma_benchmark](https://github.com/SymbioticLab/frdma_benchmark) - 
 - [Mingyu-Liang/Ditto](https://github.com/Mingyu-Liang/Ditto) - 
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
