@@ -138,6 +138,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -672,6 +673,7 @@
 
 ## others 
 
+- [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository
 - [jim90247/rdma_ubench](https://github.com/jim90247/rdma_ubench) - A micro-benchmark to measure RDMA READ and RDMA WRITE throughput (IOPS).
 - [LPD-EPFL/swarm-kv](https://github.com/LPD-EPFL/swarm-kv) - A fault-tolerant RDMA-based disaggregated key-value store with 1-RTT UPDATEs and GETs thanks to the SWARM replication protocol
 - [HKUST-SING/srnic-simulation-public](https://github.com/HKUST-SING/srnic-simulation-public) - 
@@ -1189,6 +1191,11 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+
+## zsh 
+
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [tkob-vh/dotfiles](https://github.com/tkob-vh/dotfiles) - My dotfiles including configurations of nvim, tmux, zsh, hyprland, rofi...
 
 
 ## License
