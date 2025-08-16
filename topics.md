@@ -139,7 +139,6 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [windows](#windows)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -1197,11 +1196,6 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
-
-## zsh 
-
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [tkob-vh/dotfiles](https://github.com/tkob-vh/dotfiles) - My dotfiles including configurations of nvim, tmux, zsh, hyprland, rofi...
 
 
 ## License
