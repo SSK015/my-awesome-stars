@@ -175,7 +175,7 @@
 
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 
 ## awesome 
 
@@ -673,6 +673,7 @@
 
 ## others 
 
+- [kyleshu/draid-spdk](https://github.com/kyleshu/draid-spdk) - 
 - [OpenQuant-Community/quant-fund](https://github.com/OpenQuant-Community/quant-fund) - 量化开源基金会
 - [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository
 - [jim90247/rdma_ubench](https://github.com/jim90247/rdma_ubench) - A micro-benchmark to measure RDMA READ and RDMA WRITE throughput (IOPS).
