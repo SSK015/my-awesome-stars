@@ -50,6 +50,7 @@
 
 ## C 
 
+- [kyleshu/draid-spdk](https://github.com/kyleshu/draid-spdk) - 
 - [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository
 - [SymbioticLab/frdma_benchmark](https://github.com/SymbioticLab/frdma_benchmark) - 
 - [Mingyu-Liang/Ditto](https://github.com/Mingyu-Liang/Ditto) - 
@@ -592,7 +593,7 @@
 - [Murked/vue-tailwind-admin](https://github.com/Murked/vue-tailwind-admin) - A basic admin dashboard template built using Tailwind & Vue.js.
 - [creativetimofficial/vue-notus](https://github.com/creativetimofficial/vue-notus) - Vue Notus: Free Tailwind CSS UI Kit and Admin
 - [huzhushan/vue3-element-admin](https://github.com/huzhushan/vue3-element-admin) - vue3-element-admin后台管理系统前端解决方案
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 
 
 ## License
