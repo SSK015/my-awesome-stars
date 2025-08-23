@@ -331,6 +331,7 @@
 
 ## JavaScript 
 
+- [sansyrox/cursor-neovim](https://github.com/sansyrox/cursor-neovim) - Customise Cursor to resemble Neovim in a few commands.
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [CGCL-codes/gengar](https://github.com/CGCL-codes/gengar) - Gengar, a distributed shared hybrid memory pool with RDMA support. Gengar allows applications to access remote DRAM/NVM in a large and global memory space through a client/server model.
@@ -381,6 +382,8 @@
 
 ## Lua 
 
+- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [delimitrou/DeathStarBench](https://github.com/delimitrou/DeathStarBench) - Open-source benchmark suite for cloud microservices
 
 ## MATLAB 
