@@ -80,6 +80,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [low-code](#low-code)
+- [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -87,6 +88,7 @@
 - [microsoft](#microsoft)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
+- [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -582,6 +584,10 @@
 
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 
+## lua 
+
+- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
+
 ## mac 
 
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -626,6 +632,10 @@
 
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+
+## neovim 
+
+- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 
 ## neural-network 
 
@@ -673,6 +683,8 @@
 
 ## others 
 
+- [sansyrox/cursor-neovim](https://github.com/sansyrox/cursor-neovim) - Customise Cursor to resemble Neovim in a few commands.
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [kyleshu/draid-spdk](https://github.com/kyleshu/draid-spdk) - 
 - [OpenQuant-Community/quant-fund](https://github.com/OpenQuant-Community/quant-fund) - 量化开源基金会
 - [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository
