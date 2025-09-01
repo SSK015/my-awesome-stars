@@ -901,7 +901,7 @@
 - [aplyc1a/blogs](https://github.com/aplyc1a/blogs) - PentestNotes
 - [linux-rdma/infiniband-diags](https://github.com/linux-rdma/infiniband-diags) - InfiniBand Diagnostic Tools (DEPRECATED, part of rdma-core)
 - [zweix123/jyyslide-md](https://github.com/zweix123/jyyslide-md) - 使用Markdown制作和蒋炎岩老师幻灯片同一主题的Web幻灯片框架(Base on Reveal.js)
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [Mellanox/sockperf](https://github.com/Mellanox/sockperf) - Network Benchmarking Utility
 - [tukl-msd/DRAMSys](https://github.com/tukl-msd/DRAMSys) - DRAMSys a SystemC TLM-2.0 based DRAM simulator.
 - [opengauss-mirror/openGauss-server](https://github.com/opengauss-mirror/openGauss-server) - openGauss kernel
