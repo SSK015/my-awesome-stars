@@ -683,6 +683,7 @@
 
 ## others 
 
+- [urcs-sync/Montage](https://github.com/urcs-sync/Montage) - Montage is a system for building fast buffered persistent data structures on nonvolatile memory.
 - [dassl-uiuc/compute-side-log](https://github.com/dassl-uiuc/compute-side-log) - Transparent fault-tolerance for storage-centric applications in disaggregated data centers
 - [sansyrox/cursor-neovim](https://github.com/sansyrox/cursor-neovim) - Customise Cursor to resemble Neovim in a few commands.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
