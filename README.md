@@ -135,6 +135,7 @@
 
 ## C++ 
 
+- [urcs-sync/Montage](https://github.com/urcs-sync/Montage) - Montage is a system for building fast buffered persistent data structures on nonvolatile memory.
 - [dassl-uiuc/compute-side-log](https://github.com/dassl-uiuc/compute-side-log) - Transparent fault-tolerance for storage-centric applications in disaggregated data centers
 - [jim90247/rdma_ubench](https://github.com/jim90247/rdma_ubench) - A micro-benchmark to measure RDMA READ and RDMA WRITE throughput (IOPS).
 - [LPD-EPFL/swarm-kv](https://github.com/LPD-EPFL/swarm-kv) - A fault-tolerant RDMA-based disaggregated key-value store with 1-RTT UPDATEs and GETs thanks to the SWARM replication protocol
