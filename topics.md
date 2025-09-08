@@ -945,7 +945,7 @@
 - [kiwiloveskiwis/NJU_MachineLearning](https://github.com/kiwiloveskiwis/NJU_MachineLearning) - 
 - [dmemsys/FUSEE](https://github.com/dmemsys/FUSEE) - This is the implementation repository of our FAST'23 paper: FUSEE: A Fully Memory-Disaggregated Key-Value Store.
 - [ruihong123/dLSM](https://github.com/ruihong123/dLSM) - dLSM: An LSM-Based Index for RDMA-Enabled Memory Disaggregation
-- [SukunaShinmyoumaru-hust/Hust-opensource-Xuejie](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) - 一个华科计算机学院的资料集合
+- [SukunaShinmyoumaru-hust/Hust-opensource-Xuejie](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) - 一个华科计算机学院的资料集合 https://yuhangchen1.github.io/HUST_OPEN_SOURCE/
 - [fly-lovest/HUST-CS-Database-system-principle](https://github.com/fly-lovest/HUST-CS-Database-system-principle) - HUST-CS-2019 数据库系统原理及其实验
 - [zerofishnoodles/HUST-CS](https://github.com/zerofishnoodles/HUST-CS) - This is a collection of my courses and projects in HUST
 - [DengYiKang/dataAnalysis](https://github.com/DengYiKang/dataAnalysis) - 数据分析助教准备工作
