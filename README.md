@@ -371,7 +371,7 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [kiwiloveskiwis/NJU_MachineLearning](https://github.com/kiwiloveskiwis/NJU_MachineLearning) - 
-- [SukunaShinmyoumaru-hust/Hust-opensource-Xuejie](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) - 一个华科计算机学院的资料集合
+- [SukunaShinmyoumaru-hust/Hust-opensource-Xuejie](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) - 一个华科计算机学院的资料集合 https://yuhangchen1.github.io/HUST_OPEN_SOURCE/
 
 ## Kotlin 
 
