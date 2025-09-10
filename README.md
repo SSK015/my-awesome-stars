@@ -50,6 +50,7 @@
 
 ## C 
 
+- [ybedbug/snap-rdma](https://github.com/ybedbug/snap-rdma) - 
 - [kyleshu/draid-spdk](https://github.com/kyleshu/draid-spdk) - 
 - [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository
 - [SymbioticLab/frdma_benchmark](https://github.com/SymbioticLab/frdma_benchmark) - 
