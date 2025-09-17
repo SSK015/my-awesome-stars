@@ -319,6 +319,7 @@
 
 ## data-structures 
 
+- [Daniel-Liu-c0deb0t/UMICollapse](https://github.com/Daniel-Liu-c0deb0t/UMICollapse) - Accelerating the deduplication and collapsing process for reads with Unique Molecular Identifiers (UMI). Heavily optimized for scalability and orders of magnitude faster than a previous tool.
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [gvinciguerra/PGM-index](https://github.com/gvinciguerra/PGM-index) - 🏅State-of-the-art learned data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes
@@ -497,6 +498,7 @@
 
 ## java 
 
+- [Daniel-Liu-c0deb0t/UMICollapse](https://github.com/Daniel-Liu-c0deb0t/UMICollapse) - Accelerating the deduplication and collapsing process for reads with Unique Molecular Identifiers (UMI). Heavily optimized for scalability and orders of magnitude faster than a previous tool.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [virus010101/linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|App论坛|PC端圈子社区论坛系统是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS社区论坛系统，包括论坛图文帖视频圈子聊天支付签到充值等圈子论坛小程序论坛App功能
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
