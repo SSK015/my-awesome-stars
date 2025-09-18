@@ -685,6 +685,7 @@
 
 ## others 
 
+- [QuickServerLab/QuickCached](https://github.com/QuickServerLab/QuickCached) - QuickCached is a memcached server implementation in Java based on QuickServer
 - [ybedbug/snap-rdma](https://github.com/ybedbug/snap-rdma) - 
 - [urcs-sync/Montage](https://github.com/urcs-sync/Montage) - Montage is a system for building fast buffered persistent data structures on nonvolatile memory.
 - [dassl-uiuc/compute-side-log](https://github.com/dassl-uiuc/compute-side-log) - Transparent fault-tolerance for storage-centric applications in disaggregated data centers
