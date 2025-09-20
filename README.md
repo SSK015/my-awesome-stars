@@ -130,7 +130,7 @@
 - [zmjack/PortProxyGUI](https://github.com/zmjack/PortProxyGUI) - A manager of netsh interface portproxy which is to evaluate TCP/IP port redirect on windows.
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [dotnet/yarp](https://github.com/dotnet/yarp) - A toolkit for developing high-performance HTTP reverse proxy applications.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [lastweek/source-singularity](https://github.com/lastweek/source-singularity) - Clone of the MSR Singularity Project
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
