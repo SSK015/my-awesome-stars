@@ -107,6 +107,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [productivity](#productivity)
+- [programming-language](#programming-language)
 - [publishing](#publishing)
 - [python](#python)
 - [pytorch](#pytorch)
@@ -685,6 +686,7 @@
 
 ## others 
 
+- [linbox-team/givaro](https://github.com/linbox-team/givaro) - Givaro - C++ library for arithmetic and algebraic computations
 - [QuickServerLab/QuickCached](https://github.com/QuickServerLab/QuickCached) - QuickCached is a memcached server implementation in Java based on QuickServer
 - [ybedbug/snap-rdma](https://github.com/ybedbug/snap-rdma) - 
 - [urcs-sync/Montage](https://github.com/urcs-sync/Montage) - Montage is a system for building fast buffered persistent data structures on nonvolatile memory.
@@ -1020,6 +1022,10 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
+## programming-language 
+
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 
 ## publishing 
 
