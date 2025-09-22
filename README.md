@@ -136,6 +136,7 @@
 
 ## C++ 
 
+- [linbox-team/givaro](https://github.com/linbox-team/givaro) - Givaro - C++ library for arithmetic and algebraic computations
 - [urcs-sync/Montage](https://github.com/urcs-sync/Montage) - Montage is a system for building fast buffered persistent data structures on nonvolatile memory.
 - [dassl-uiuc/compute-side-log](https://github.com/dassl-uiuc/compute-side-log) - Transparent fault-tolerance for storage-centric applications in disaggregated data centers
 - [jim90247/rdma_ubench](https://github.com/jim90247/rdma_ubench) - A micro-benchmark to measure RDMA READ and RDMA WRITE throughput (IOPS).
