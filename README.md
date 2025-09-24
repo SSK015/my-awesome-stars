@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -47,6 +48,10 @@
 
 - [Starrylay/awesome-HUST-CS-MIPS-CPU](https://github.com/Starrylay/awesome-HUST-CS-MIPS-CPU) - HUST CS 19级组原课设/华中科技大学计算机组成原理课程设计/MIPS五段流水CPU/华中科技大学计算机组成原理课程设计/华科组原课设/MIPS-CPU/单周期/流水线/分支预测。来自学长的溺爱x，让你copy的明白。
 - [yilinfang/LogisimProjects](https://github.com/yilinfang/LogisimProjects) - 华中科技大学数字逻辑与计算机设计基础实验
+
+## Batchfile 
+
+- [cs-course/data-center-course](https://github.com/cs-course/data-center-course) - 
 
 ## C 
 
@@ -418,7 +423,6 @@
 - [AmadeusChan/Awesome-LLM-System-Papers](https://github.com/AmadeusChan/Awesome-LLM-System-Papers) - 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [WUYANXIUSHI/BLACK_NEWS](https://github.com/WUYANXIUSHI/BLACK_NEWS) - 北京邮电大学郑凤事件完整pdf
-- [cs-course/data-center-course](https://github.com/cs-course/data-center-course) - 
 - [uclasystem/Semeru](https://github.com/uclasystem/Semeru) - A Memory-Disaggregated Managed Runtime.
 - [laylalaisy/TOEFL_laylalaisy](https://github.com/laylalaisy/TOEFL_laylalaisy) - 备考托福的一丢丢经验+资料~祝小可爱和大佬们都早日和托福大魔王分手(o゜▽゜)o☆
 - [TOEFL-win/TOEFL](https://github.com/TOEFL-win/TOEFL) - 托福王炸福利包，托福雅思gre，gmat资料，百度网盘，威学，张巍gre，新东方，fiona，黎老师写作，考满分，微臣onepass，张艳听力，孟一博，吴克亮，杨帅，黄翰生，顾加北，杜仕明，何琼，王陆，周璐
@@ -478,7 +482,7 @@
 - [OpenGVLab/PhyGenBench](https://github.com/OpenGVLab/PhyGenBench) - [ICML2025] The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agent workflows.
 - [CGCL-codes/YiTu](https://github.com/CGCL-codes/YiTu) - YiTu is an easy-to-use runtime to fully exploit the hybrid parallelism of different hardwares (e.g., GPU) to efficiently support the execution of various kinds of graph algorithms (e.g., GNNs).
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
