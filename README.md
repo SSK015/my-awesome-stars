@@ -55,6 +55,7 @@
 
 ## C 
 
+- [ANLAB-KAIST/dilos](https://github.com/ANLAB-KAIST/dilos) - Source code for "DiLOS: Do Not Trade Compatibility for Performance in Memory Disaggregation (EuroSys'23)"
 - [ybedbug/snap-rdma](https://github.com/ybedbug/snap-rdma) - 
 - [kyleshu/draid-spdk](https://github.com/kyleshu/draid-spdk) - 
 - [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository
