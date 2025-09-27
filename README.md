@@ -6,7 +6,6 @@
 ## Contents
 
 - [Assembly](#assembly)
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -48,10 +47,6 @@
 
 - [Starrylay/awesome-HUST-CS-MIPS-CPU](https://github.com/Starrylay/awesome-HUST-CS-MIPS-CPU) - HUST CS 19级组原课设/华中科技大学计算机组成原理课程设计/MIPS五段流水CPU/华中科技大学计算机组成原理课程设计/华科组原课设/MIPS-CPU/单周期/流水线/分支预测。来自学长的溺爱x，让你copy的明白。
 - [yilinfang/LogisimProjects](https://github.com/yilinfang/LogisimProjects) - 华中科技大学数字逻辑与计算机设计基础实验
-
-## Batchfile 
-
-- [cs-course/data-center-course](https://github.com/cs-course/data-center-course) - 
 
 ## C 
 
@@ -483,7 +478,7 @@
 - [OpenGVLab/PhyGenBench](https://github.com/OpenGVLab/PhyGenBench) - [ICML2025] The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agent workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 - [CGCL-codes/YiTu](https://github.com/CGCL-codes/YiTu) - YiTu is an easy-to-use runtime to fully exploit the hybrid parallelism of different hardwares (e.g., GPU) to efficiently support the execution of various kinds of graph algorithms (e.g., GNNs).
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
@@ -561,6 +556,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [tkob-vh/dotfiles](https://github.com/tkob-vh/dotfiles) - My dotfiles including configurations of nvim, tmux, zsh, hyprland, rofi...
 - [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
+- [cs-course/data-center-course](https://github.com/cs-course/data-center-course) - 
 - [marvis/word_remember](https://github.com/marvis/word_remember) - 
 - [xrp-project/XRP](https://github.com/xrp-project/XRP) - XRP: In-Kernel Storage Functions with eBPF
 - [jyi2ya/nekocharm](https://github.com/jyi2ya/nekocharm) - 超快的配环境
