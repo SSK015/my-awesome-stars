@@ -283,6 +283,7 @@
 
 ## Go 
 
+- [cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) - A high performance inter-process communication golang library developed by CloudWeGo
 - [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [JunctionOS/go](https://github.com/JunctionOS/go) - 
