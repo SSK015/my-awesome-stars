@@ -693,6 +693,7 @@
 
 ## others 
 
+- [cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) - A high performance inter-process communication golang library developed by CloudWeGo
 - [ANLAB-KAIST/dilos](https://github.com/ANLAB-KAIST/dilos) - Source code for "DiLOS: Do Not Trade Compatibility for Performance in Memory Disaggregation (EuroSys'23)"
 - [linbox-team/givaro](https://github.com/linbox-team/givaro) - Givaro - C++ library for arithmetic and algebraic computations
 - [QuickServerLab/QuickCached](https://github.com/QuickServerLab/QuickCached) - QuickCached is a memcached server implementation in Java based on QuickServer
