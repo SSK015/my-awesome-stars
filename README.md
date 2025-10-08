@@ -230,7 +230,7 @@
 - [ruihong123/SharedMemRocks](https://github.com/ruihong123/SharedMemRocks) - A key-value store over disaggregated memory  based on RocksDB
 - [xdu-database/rucbase-lab](https://github.com/xdu-database/rucbase-lab) - 
 - [ruc-deke/rucbase-lab](https://github.com/ruc-deke/rucbase-lab) - RUC Educational Database Project open lab
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science](https://github.com/chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science) - Learn Professional Basic Courses in Computer Science计算机专业基础课程学习
 - [enpeizhao/duck_db](https://github.com/enpeizhao/duck_db) - c/c++ build a simple b+tree RDMS（利用c/c++ 开发基于B+树的小型关系型数据库 ）
 - [dmemsys/FUSEE](https://github.com/dmemsys/FUSEE) - This is the implementation repository of our FAST'23 paper: FUSEE: A Fully Memory-Disaggregated Key-Value Store.
