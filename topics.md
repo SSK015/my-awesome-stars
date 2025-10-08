@@ -298,7 +298,7 @@
 - [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science](https://github.com/chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science) - Learn Professional Basic Courses in Computer Science计算机专业基础课程学习
 - [SleepyLGod/hust-projects](https://github.com/SleepyLGod/hust-projects) - My labs in college of CS and some interesting projects at HUST.
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
@@ -364,7 +364,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 
 ## design 
 
@@ -1054,7 +1054,7 @@
 - [moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [paulross/skiplist](https://github.com/paulross/skiplist) - A C++ skip list with Python bindings. This can be used to calculate a rolling median - fast!
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
