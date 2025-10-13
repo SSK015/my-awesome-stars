@@ -50,6 +50,7 @@
 
 ## C 
 
+- [madsys-dev/DSA-2LM](https://github.com/madsys-dev/DSA-2LM) - The Artifact Evaluation Version of ATC'25 Paper #395 DSA-2LM: A CPU-Free Tiered Memory Architecture with Intel DSA
 - [ANLAB-KAIST/dilos](https://github.com/ANLAB-KAIST/dilos) - Source code for "DiLOS: Do Not Trade Compatibility for Performance in Memory Disaggregation (EuroSys'23)"
 - [ybedbug/snap-rdma](https://github.com/ybedbug/snap-rdma) - 
 - [kyleshu/draid-spdk](https://github.com/kyleshu/draid-spdk) - 
@@ -137,6 +138,7 @@
 
 ## C++ 
 
+- [sbeamer/gapbs](https://github.com/sbeamer/gapbs) - GAP Benchmark Suite
 - [linbox-team/givaro](https://github.com/linbox-team/givaro) - Givaro - C++ library for arithmetic and algebraic computations
 - [urcs-sync/Montage](https://github.com/urcs-sync/Montage) - Montage is a system for building fast buffered persistent data structures on nonvolatile memory.
 - [dassl-uiuc/compute-side-log](https://github.com/dassl-uiuc/compute-side-log) - Transparent fault-tolerance for storage-centric applications in disaggregated data centers
@@ -463,6 +465,7 @@
 
 ## Python 
 
+- [ProjectMitosisOS/dmerge-eurosys24-ae](https://github.com/ProjectMitosisOS/dmerge-eurosys24-ae) - Artifact evaluation repo for EuroSys'24.
 - [HKUST-SING/srnic-simulation-public](https://github.com/HKUST-SING/srnic-simulation-public) - 
 - [facebookresearch/DCPerf](https://github.com/facebookresearch/DCPerf) - DCPerf benchmark suite for hyperscale cloud applications
 - [intelligent-machine-learning/dlrover](https://github.com/intelligent-machine-learning/dlrover) - DLRover: An Automatic Distributed Deep Learning System
