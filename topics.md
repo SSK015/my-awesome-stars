@@ -694,6 +694,9 @@
 
 ## others 
 
+- [ProjectMitosisOS/dmerge-eurosys24-ae](https://github.com/ProjectMitosisOS/dmerge-eurosys24-ae) - Artifact evaluation repo for EuroSys'24.
+- [madsys-dev/DSA-2LM](https://github.com/madsys-dev/DSA-2LM) - The Artifact Evaluation Version of ATC'25 Paper #395 DSA-2LM: A CPU-Free Tiered Memory Architecture with Intel DSA
+- [sbeamer/gapbs](https://github.com/sbeamer/gapbs) - GAP Benchmark Suite
 - [cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) - A high performance inter-process communication golang library developed by CloudWeGo
 - [ANLAB-KAIST/dilos](https://github.com/ANLAB-KAIST/dilos) - Source code for "DiLOS: Do Not Trade Compatibility for Performance in Memory Disaggregation (EuroSys'23)"
 - [linbox-team/givaro](https://github.com/linbox-team/givaro) - Givaro - C++ library for arithmetic and algebraic computations
