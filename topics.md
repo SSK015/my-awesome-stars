@@ -1066,6 +1066,7 @@
 
 ## pytorch 
 
+- [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - OpenMMLab Semantic Segmentation Toolbox and Benchmark.
 - [thu-pacman/chitu](https://github.com/thu-pacman/chitu) - High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 - [wenqifan03/GraphRec-WWW19](https://github.com/wenqifan03/GraphRec-WWW19) - Graph Neural Networks for Social Recommendation, WWW'19
 - [oneapi-src/oneAPI-samples](https://github.com/oneapi-src/oneAPI-samples) - Samples for Intel® oneAPI Toolkits
