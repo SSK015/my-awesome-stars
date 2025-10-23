@@ -465,6 +465,7 @@
 
 ## Python 
 
+- [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - OpenMMLab Semantic Segmentation Toolbox and Benchmark.
 - [ProjectMitosisOS/dmerge-eurosys24-ae](https://github.com/ProjectMitosisOS/dmerge-eurosys24-ae) - Artifact evaluation repo for EuroSys'24.
 - [HKUST-SING/srnic-simulation-public](https://github.com/HKUST-SING/srnic-simulation-public) - 
 - [facebookresearch/DCPerf](https://github.com/facebookresearch/DCPerf) - DCPerf benchmark suite for hyperscale cloud applications
