@@ -351,7 +351,6 @@
 - [bojone/papers.cool](https://github.com/bojone/papers.cool) - Cool Papers - Immersive Paper Discovery
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [virus010101/linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|App论坛|PC端圈子社区论坛系统是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS社区论坛系统，包括论坛图文帖视频圈子聊天支付签到充值等圈子论坛小程序论坛App功能
 - [OmegaXYZ/Carrot-Hole](https://github.com/OmegaXYZ/Carrot-Hole) - 树洞
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
@@ -465,6 +464,7 @@
 
 ## Python 
 
+- [ovg-project/kvcached](https://github.com/ovg-project/kvcached) - Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond
 - [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - OpenMMLab Semantic Segmentation Toolbox and Benchmark.
 - [ProjectMitosisOS/dmerge-eurosys24-ae](https://github.com/ProjectMitosisOS/dmerge-eurosys24-ae) - Artifact evaluation repo for EuroSys'24.
 - [HKUST-SING/srnic-simulation-public](https://github.com/HKUST-SING/srnic-simulation-public) - 
@@ -542,7 +542,7 @@
 - [emmatyping/cce](https://github.com/emmatyping/cce) - commandline compiler explorer - use https://godbolt.org from your terminal!
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 
 ## SCSS 
@@ -606,6 +606,7 @@
 
 ## Vue 
 
+- [virus010101/linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|App论坛|PC端圈子社区论坛系统是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS社区论坛系统，包括论坛图文帖视频圈子聊天支付签到充值等圈子论坛小程序论坛App功能
 - [Murked/vue-tailwind-admin](https://github.com/Murked/vue-tailwind-admin) - A basic admin dashboard template built using Tailwind & Vue.js.
 - [creativetimofficial/vue-notus](https://github.com/creativetimofficial/vue-notus) - Vue Notus: Free Tailwind CSS UI Kit and Admin
 - [huzhushan/vue3-element-admin](https://github.com/huzhushan/vue3-element-admin) - vue3-element-admin后台管理系统前端解决方案
