@@ -696,6 +696,7 @@
 
 ## others 
 
+- [opensmartnic/awesome-smartnic](https://github.com/opensmartnic/awesome-smartnic) - A curated list of awesome smartnic tutorials, papers and projects.
 - [ProjectMitosisOS/dmerge-eurosys24-ae](https://github.com/ProjectMitosisOS/dmerge-eurosys24-ae) - Artifact evaluation repo for EuroSys'24.
 - [madsys-dev/DSA-2LM](https://github.com/madsys-dev/DSA-2LM) - The Artifact Evaluation Version of ATC'25 Paper #395 DSA-2LM: A CPU-Free Tiered Memory Architecture with Intel DSA
 - [sbeamer/gapbs](https://github.com/sbeamer/gapbs) - GAP Benchmark Suite
