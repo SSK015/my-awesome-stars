@@ -50,6 +50,7 @@
 
 ## C 
 
+- [lingfenghsiang/Nomad](https://github.com/lingfenghsiang/Nomad) - OSDI'24 Nomad implementation
 - [madsys-dev/DSA-2LM](https://github.com/madsys-dev/DSA-2LM) - The Artifact Evaluation Version of ATC'25 Paper #395 DSA-2LM: A CPU-Free Tiered Memory Architecture with Intel DSA
 - [ANLAB-KAIST/dilos](https://github.com/ANLAB-KAIST/dilos) - Source code for "DiLOS: Do Not Trade Compatibility for Performance in Memory Disaggregation (EuroSys'23)"
 - [ybedbug/snap-rdma](https://github.com/ybedbug/snap-rdma) - 
