@@ -696,6 +696,7 @@
 
 ## others 
 
+- [Mellanox/bfb-build](https://github.com/Mellanox/bfb-build) - BFB (BlueField boot stream and OS installer) build environment
 - [lingfenghsiang/Nomad](https://github.com/lingfenghsiang/Nomad) - OSDI'24 Nomad implementation
 - [CXLMemUring/CXLMemUring](https://github.com/CXLMemUring/CXLMemUring) - CXL remote offloading data movement aware compiler
 - [opensmartnic/awesome-smartnic](https://github.com/opensmartnic/awesome-smartnic) - A curated list of awesome smartnic tutorials, papers and projects.
