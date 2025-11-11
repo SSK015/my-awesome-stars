@@ -696,6 +696,8 @@
 
 ## others 
 
+- [intel/isa-l](https://github.com/intel/isa-l) - Intelligent Storage Acceleration Library
+- [hpcgame/hpcgame-problems-2nd](https://github.com/hpcgame/hpcgame-problems-2nd) - 
 - [Mellanox/bfb-build](https://github.com/Mellanox/bfb-build) - BFB (BlueField boot stream and OS installer) build environment
 - [lingfenghsiang/Nomad](https://github.com/lingfenghsiang/Nomad) - OSDI'24 Nomad implementation
 - [CXLMemUring/CXLMemUring](https://github.com/CXLMemUring/CXLMemUring) - CXL remote offloading data movement aware compiler
