@@ -50,6 +50,7 @@
 
 ## C 
 
+- [intel/isa-l](https://github.com/intel/isa-l) - Intelligent Storage Acceleration Library
 - [lingfenghsiang/Nomad](https://github.com/lingfenghsiang/Nomad) - OSDI'24 Nomad implementation
 - [madsys-dev/DSA-2LM](https://github.com/madsys-dev/DSA-2LM) - The Artifact Evaluation Version of ATC'25 Paper #395 DSA-2LM: A CPU-Free Tiered Memory Architecture with Intel DSA
 - [ANLAB-KAIST/dilos](https://github.com/ANLAB-KAIST/dilos) - Source code for "DiLOS: Do Not Trade Compatibility for Performance in Memory Disaggregation (EuroSys'23)"
@@ -139,6 +140,7 @@
 
 ## C++ 
 
+- [hpcgame/hpcgame-problems-2nd](https://github.com/hpcgame/hpcgame-problems-2nd) - 
 - [CXLMemUring/CXLMemUring](https://github.com/CXLMemUring/CXLMemUring) - CXL remote offloading data movement aware compiler
 - [sbeamer/gapbs](https://github.com/sbeamer/gapbs) - GAP Benchmark Suite
 - [linbox-team/givaro](https://github.com/linbox-team/givaro) - Givaro - C++ library for arithmetic and algebraic computations
