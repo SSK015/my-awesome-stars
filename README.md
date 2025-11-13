@@ -50,6 +50,7 @@
 
 ## C 
 
+- [Open-CAS/open-cas-linux](https://github.com/Open-CAS/open-cas-linux) - Open CAS Linux
 - [intel/isa-l](https://github.com/intel/isa-l) - Intelligent Storage Acceleration Library
 - [lingfenghsiang/Nomad](https://github.com/lingfenghsiang/Nomad) - OSDI'24 Nomad implementation
 - [madsys-dev/DSA-2LM](https://github.com/madsys-dev/DSA-2LM) - The Artifact Evaluation Version of ATC'25 Paper #395 DSA-2LM: A CPU-Free Tiered Memory Architecture with Intel DSA
@@ -140,6 +141,7 @@
 
 ## C++ 
 
+- [IcicleF/cx5-ec-offload](https://github.com/IcicleF/cx5-ec-offload) - A brief code example to Mellanox CX-5+ erasure coding offload.
 - [hpcgame/hpcgame-problems-2nd](https://github.com/hpcgame/hpcgame-problems-2nd) - 
 - [CXLMemUring/CXLMemUring](https://github.com/CXLMemUring/CXLMemUring) - CXL remote offloading data movement aware compiler
 - [sbeamer/gapbs](https://github.com/sbeamer/gapbs) - GAP Benchmark Suite
