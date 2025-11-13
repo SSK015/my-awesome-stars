@@ -696,6 +696,8 @@
 
 ## others 
 
+- [Open-CAS/open-cas-linux](https://github.com/Open-CAS/open-cas-linux) - Open CAS Linux
+- [IcicleF/cx5-ec-offload](https://github.com/IcicleF/cx5-ec-offload) - A brief code example to Mellanox CX-5+ erasure coding offload.
 - [intel/isa-l](https://github.com/intel/isa-l) - Intelligent Storage Acceleration Library
 - [hpcgame/hpcgame-problems-2nd](https://github.com/hpcgame/hpcgame-problems-2nd) - 
 - [Mellanox/bfb-build](https://github.com/Mellanox/bfb-build) - BFB (BlueField boot stream and OS installer) build environment
