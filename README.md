@@ -141,6 +141,7 @@
 
 ## C++ 
 
+- [intel/iaa-plugin-rocksdb](https://github.com/intel/iaa-plugin-rocksdb) - 
 - [IcicleF/cx5-ec-offload](https://github.com/IcicleF/cx5-ec-offload) - A brief code example to Mellanox CX-5+ erasure coding offload.
 - [hpcgame/hpcgame-problems-2nd](https://github.com/hpcgame/hpcgame-problems-2nd) - 
 - [CXLMemUring/CXLMemUring](https://github.com/CXLMemUring/CXLMemUring) - CXL remote offloading data movement aware compiler
