@@ -696,6 +696,7 @@
 
 ## others 
 
+- [MrGeek-zrh/Nomad](https://github.com/MrGeek-zrh/Nomad) - OSDI'24 Nomad implementation
 - [intel/iaa-plugin-rocksdb](https://github.com/intel/iaa-plugin-rocksdb) - 
 - [Open-CAS/open-cas-linux](https://github.com/Open-CAS/open-cas-linux) - Open CAS Linux
 - [IcicleF/cx5-ec-offload](https://github.com/IcicleF/cx5-ec-offload) - A brief code example to Mellanox CX-5+ erasure coding offload.
