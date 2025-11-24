@@ -50,6 +50,7 @@
 
 ## C 
 
+- [NVIDIA-DOCA/doca-samples](https://github.com/NVIDIA-DOCA/doca-samples) - 
 - [MrGeek-zrh/Nomad](https://github.com/MrGeek-zrh/Nomad) - OSDI'24 Nomad implementation
 - [Open-CAS/open-cas-linux](https://github.com/Open-CAS/open-cas-linux) - Open CAS Linux
 - [intel/isa-l](https://github.com/intel/isa-l) - Intelligent Storage Acceleration Library
