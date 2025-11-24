@@ -701,6 +701,7 @@
 
 ## others 
 
+- [NVIDIA-DOCA/doca-samples](https://github.com/NVIDIA-DOCA/doca-samples) - 
 - [yale-nova/spirit](https://github.com/yale-nova/spirit) - 
 - [RC4ML/BenchBF3](https://github.com/RC4ML/BenchBF3) - Demystifying Datapath Accelerator Enhanced Off-path SmartNIC [ICNP24]
 - [MrGeek-zrh/Nomad](https://github.com/MrGeek-zrh/Nomad) - OSDI'24 Nomad implementation
