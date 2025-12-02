@@ -274,6 +274,7 @@
 
 ## cloud 
 
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [teamssix/twiki](https://github.com/teamssix/twiki) - T Wiki 云安全知识文库，可能是国内首个云安全知识文库？
 
@@ -355,6 +356,7 @@
 
 ## database 
 
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [caserec/Datasets-for-Recommender-Systems](https://github.com/caserec/Datasets-for-Recommender-Systems) - This is a repository of a topic-centric public data sources in high quality for Recommender Systems (RS)
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
 - [gvinciguerra/PGM-index](https://github.com/gvinciguerra/PGM-index) - 🏅State-of-the-art learned data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes
@@ -395,7 +397,7 @@
 ## docker 
 
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
 
 ## dotfiles 
@@ -494,7 +496,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [intelligent-machine-learning/dlrover](https://github.com/intelligent-machine-learning/dlrover) - DLRover: An Automatic Distributed Deep Learning System
 - [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [Unidata/netcdf-fortran](https://github.com/Unidata/netcdf-fortran) - Official GitHub repository for netCDF-Fortran libraries, which depend on the netCDF C library.  Install the netCDF C library first.
 - [Unidata/netcdf-c](https://github.com/Unidata/netcdf-c) - Official GitHub repository for netCDF-C libraries and utilities.
@@ -515,12 +517,13 @@
 
 ## iot 
 
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/
 
 ## java 
 
 - [Daniel-Liu-c0deb0t/UMICollapse](https://github.com/Daniel-Liu-c0deb0t/UMICollapse) - Accelerating the deduplication and collapsing process for reads with Unique Molecular Identifiers (UMI). Heavily optimized for scalability and orders of magnitude faster than a previous tool.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [virus010101/linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|App论坛|PC端圈子社区论坛系统是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS社区论坛系统，包括论坛图文帖视频圈子聊天支付签到充值等圈子论坛小程序论坛App功能
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [oddfar/campus-example](https://github.com/oddfar/campus-example) - campus项目例子——校园论坛、博客、树洞、信息墙、表白墙、万能墙。SpringBoot前后端分离项目，Web 端使用 Vue + ElementUi，仿微博UI布局。 移动端使用 uni-app 和 uview，后端使用  SpringBoot + Mybatis-Plus进行开发
@@ -714,6 +717,7 @@
 
 ## others 
 
+- [overleaf-workshop/Overleaf-Workshop](https://github.com/overleaf-workshop/Overleaf-Workshop) - Open Overleaf/ShareLaTex projects in vscode, with full collaboration support.
 - [NVIDIA-DOCA/doca-samples](https://github.com/NVIDIA-DOCA/doca-samples) - 
 - [yale-nova/spirit](https://github.com/yale-nova/spirit) - 
 - [RC4ML/BenchBF3](https://github.com/RC4ML/BenchBF3) - Demystifying Datapath Accelerator Enhanced Off-path SmartNIC [ICNP24]
@@ -1182,6 +1186,7 @@
 
 ## sql 
 
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [wx-chevalier/Database-Notes](https://github.com/wx-chevalier/Database-Notes) - 📚深入浅出数据库存储：数据库理论、关系型数据库、文档型数据库、键值型数据库、New SQL、搜索引擎、数据仓库与 OLAP、大数据与数据中台
 
