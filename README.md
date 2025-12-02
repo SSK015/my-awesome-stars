@@ -335,11 +335,12 @@
 
 ## Java 
 
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [QuickServerLab/QuickCached](https://github.com/QuickServerLab/QuickCached) - QuickCached is a memcached server implementation in Java based on QuickServer
 - [Daniel-Liu-c0deb0t/UMICollapse](https://github.com/Daniel-Liu-c0deb0t/UMICollapse) - Accelerating the deduplication and collapsing process for reads with Unique Molecular Identifiers (UMI). Heavily optimized for scalability and orders of magnitude faster than a previous tool.
 - [YahooArchive/pasc](https://github.com/YahooArchive/pasc) - Practical Arbitrary State Corruptions
 - [DependableSystemsLab/LLFI](https://github.com/DependableSystemsLab/LLFI) - LLFI is an LLVM based fault injection tool, that injects faults into the LLVM IR of the application source code.  The faults can be injected into specific program points, and the effect can be easily 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [openjdk/jdk21u](https://github.com/openjdk/jdk21u) - https://openjdk.org/projects/jdk-updates
 - [ldbc/ldbc_snb_datagen_hadoop](https://github.com/ldbc/ldbc_snb_datagen_hadoop) - The Hadoop-based variant of the SNB Datagen
 - [jiguanglizipao/ldbc_snb_implementations](https://github.com/jiguanglizipao/ldbc_snb_implementations) - LiveGraph implementations for ldbc_snb
@@ -590,6 +591,7 @@
 
 ## TypeScript 
 
+- [overleaf-workshop/Overleaf-Workshop](https://github.com/overleaf-workshop/Overleaf-Workshop) - Open Overleaf/ShareLaTex projects in vscode, with full collaboration support.
 - [tecosaur/LaTeX-Utilities](https://github.com/tecosaur/LaTeX-Utilities) - An add-on to LaTeX Workshop that provides some features that go beyond the bare essentials
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
