@@ -302,7 +302,7 @@
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [ServiceWeaver/workshops](https://github.com/ServiceWeaver/workshops) - Repository used during the Service Weaver workshops.
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
-- [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
+- [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
 - [hpcgame/hpcgame_1st_problems](https://github.com/hpcgame/hpcgame_1st_problems) - Repository for HPCGame 1st Problems.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [YushuaiJi/Distribution-System](https://github.com/YushuaiJi/Distribution-System) - 分布式系统学习
