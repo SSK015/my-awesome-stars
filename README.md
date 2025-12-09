@@ -336,6 +336,8 @@
 
 ## Java 
 
+- [OpenHFT/Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) - Replicate your Key Value Store across your network, with consistency, persistance and performance.
+- [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
 - [DescartesResearch/TeaStore](https://github.com/DescartesResearch/TeaStore) - A micro-service reference test application for model extraction, cloud management, energy efficiency, power prediction, single- and multi-tier auto-scaling
 - [FudanSELab/train-ticket](https://github.com/FudanSELab/train-ticket) - Train Ticket - A Benchmark Microservice System
 - [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
