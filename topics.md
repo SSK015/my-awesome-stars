@@ -529,6 +529,7 @@
 
 ## java 
 
+- [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
 - [Daniel-Liu-c0deb0t/UMICollapse](https://github.com/Daniel-Liu-c0deb0t/UMICollapse) - Accelerating the deduplication and collapsing process for reads with Unique Molecular Identifiers (UMI). Heavily optimized for scalability and orders of magnitude faster than a previous tool.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
@@ -727,6 +728,9 @@
 
 ## others 
 
+- [akka/akka-core](https://github.com/akka/akka-core) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+- [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
+- [dacapobench/dacapobench](https://github.com/dacapobench/dacapobench) - The DaCapo benchmark suite
 - [OpenHFT/Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) - Replicate your Key Value Store across your network, with consistency, persistance and performance.
 - [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
 - [DescartesResearch/TeaStore](https://github.com/DescartesResearch/TeaStore) - A micro-service reference test application for model extraction, cloud management, energy efficiency, power prediction, single- and multi-tier auto-scaling
