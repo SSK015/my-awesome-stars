@@ -235,7 +235,6 @@
 - [Chu-Wang/Lab-ComputerOrganization](https://github.com/Chu-Wang/Lab-ComputerOrganization) - 华中科技大学计算机组成原理实验，lab of computer organization in HUST CS School.
 - [dmemsys/SMART](https://github.com/dmemsys/SMART) - This is the implementation repository of our OSDI'23 paper: SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.
 - [heptagonhust/recruitment-2023-spring-autotest](https://github.com/heptagonhust/recruitment-2023-spring-autotest) - 测试仓库！
-- [IntelLabs/SpMP](https://github.com/IntelLabs/SpMP) - sparse matrix pre-processing library
 - [heptagonhust/CPC2023-Preliminary](https://github.com/heptagonhust/CPC2023-Preliminary) - 
 - [prishitakadam/TimberSaw2021](https://github.com/prishitakadam/TimberSaw2021) - A RDMA native LSM tree
 - [ruihong123/RDMA_test](https://github.com/ruihong123/RDMA_test) - 
@@ -610,7 +609,7 @@
 - [ManiaciaChao/yatm](https://github.com/ManiaciaChao/yatm) - yet another teachermate helper
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
