@@ -423,7 +423,7 @@
 
 ## electron 
 
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 
@@ -472,7 +472,7 @@
 
 ## github 
 
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done
 - [phodal/growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
 
 ## go 
@@ -1272,7 +1272,7 @@
 
 ## vue 
 
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done
 - [virus010101/linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|App论坛|PC端圈子社区论坛系统是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS社区论坛系统，包括论坛图文帖视频圈子聊天支付签到充值等圈子论坛小程序论坛App功能
 - [creativetimofficial/vue-notus](https://github.com/creativetimofficial/vue-notus) - Vue Notus: Free Tailwind CSS UI Kit and Admin
 - [oddfar/campus-example](https://github.com/oddfar/campus-example) - campus项目例子——校园论坛、博客、树洞、信息墙、表白墙、万能墙。SpringBoot前后端分离项目，Web 端使用 Vue + ElementUi，仿微博UI布局。 移动端使用 uni-app 和 uview，后端使用  SpringBoot + Mybatis-Plus进行开发
