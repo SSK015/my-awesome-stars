@@ -89,6 +89,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
@@ -657,6 +658,10 @@
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+## microservices 
+
+- [aws-samples/aws-serverless-ecommerce-platform](https://github.com/aws-samples/aws-serverless-ecommerce-platform) - Serverless Ecommerce Platform is a sample implementation of a serverless backend for an e-commerce website. This sample is not meant to be used as an e-commerce platform as-is, but as an inspiration o
 
 ## microsoft 
 
