@@ -293,6 +293,7 @@
 
 ## compiler 
 
+- [flang-compiler/flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
