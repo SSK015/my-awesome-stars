@@ -192,6 +192,7 @@
 - [richenyunqi/CCF-CSP-and-PAT-solution](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution) - CCF CSP和PAT考试题解（使用C++14语法）
 - [heptagonhust/recruitment-2024-spring](https://github.com/heptagonhust/recruitment-2024-spring) - 锵锵，2024 春招笔试题
 - [hpcgarage/spatter](https://github.com/hpcgarage/spatter) - Benchmark for measuring the performance of sparse and irregular memory access.
+- [CGCL-codes/YiTu](https://github.com/CGCL-codes/YiTu) - YiTu is an easy-to-use runtime to fully exploit the hybrid parallelism of different hardwares (e.g., GPU) to efficiently support the execution of various kinds of graph algorithms (e.g., GNNs).
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [thu-scc/relion](https://github.com/thu-scc/relion) - Tsinghua opt for ASC18
 - [thu-pacman/LiveGraph-Binary](https://github.com/thu-pacman/LiveGraph-Binary) - LiveGraph: a transactional graph storage system with purely sequential adjacency list scans
@@ -506,7 +507,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-- [CGCL-codes/YiTu](https://github.com/CGCL-codes/YiTu) - YiTu is an easy-to-use runtime to fully exploit the hybrid parallelism of different hardwares (e.g., GPU) to efficiently support the execution of various kinds of graph algorithms (e.g., GNNs).
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
 - [OpenACC/openacc-best-practices-guide](https://github.com/OpenACC/openacc-best-practices-guide) - The sources for the OpenACC Programming and Best Practices Guide.
