@@ -741,6 +741,7 @@
 
 ## others 
 
+- [sjp38/masim](https://github.com/sjp38/masim) - memory access workload simulator
 - [kevins981/hybridtier-asplos25-artifact](https://github.com/kevins981/hybridtier-asplos25-artifact) - 
 - [cosmoss-jigu/memtis](https://github.com/cosmoss-jigu/memtis) - Tiered memory management
 - [akka/akka-core](https://github.com/akka/akka-core) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
