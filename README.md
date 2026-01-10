@@ -50,6 +50,7 @@
 
 ## C 
 
+- [sjp38/masim](https://github.com/sjp38/masim) - memory access workload simulator
 - [flang-compiler/flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
 - [cosmoss-jigu/memtis](https://github.com/cosmoss-jigu/memtis) - Tiered memory management
 - [NVIDIA-DOCA/doca-samples](https://github.com/NVIDIA-DOCA/doca-samples) - 
