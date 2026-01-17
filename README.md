@@ -37,6 +37,7 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Typst](#typst)
@@ -50,6 +51,7 @@
 
 ## C 
 
+- [zondie17/UCAS_HPCS](https://github.com/zondie17/UCAS_HPCS) - UCAS High Performance Computing System 国科大高性能计算系统复习及试题
 - [sjp38/masim](https://github.com/sjp38/masim) - memory access workload simulator
 - [flang-compiler/flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
 - [cosmoss-jigu/memtis](https://github.com/cosmoss-jigu/memtis) - Tiered memory management
@@ -487,6 +489,7 @@
 
 ## Python 
 
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [yale-nova/spirit](https://github.com/yale-nova/spirit) - 
 - [ovg-project/kvcached](https://github.com/ovg-project/kvcached) - Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond
 - [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - OpenMMLab Semantic Segmentation Toolbox and Benchmark.
@@ -592,6 +595,10 @@
 - [jyi2ya/nekocharm](https://github.com/jyi2ya/nekocharm) - 超快的配环境
 - [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+
+## Swift 
+
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 
 ## TeX 
 
