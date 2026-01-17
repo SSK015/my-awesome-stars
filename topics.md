@@ -741,6 +741,8 @@
 
 ## others 
 
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
+- [zondie17/UCAS_HPCS](https://github.com/zondie17/UCAS_HPCS) - UCAS High Performance Computing System 国科大高性能计算系统复习及试题
 - [sjp38/masim](https://github.com/sjp38/masim) - memory access workload simulator
 - [kevins981/hybridtier-asplos25-artifact](https://github.com/kevins981/hybridtier-asplos25-artifact) - 
 - [cosmoss-jigu/memtis](https://github.com/cosmoss-jigu/memtis) - Tiered memory management
@@ -1144,6 +1146,7 @@
 
 ## qt 
 
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [SleepyLGod/hust-projects](https://github.com/SleepyLGod/hust-projects) - My labs in college of CS and some interesting projects at HUST.
 
 ## react 
