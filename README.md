@@ -414,6 +414,7 @@
 
 ## Lua 
 
+- [linrongbin16/lin.nvim](https://github.com/linrongbin16/lin.nvim) - Lin Rongbin's Neovim Distribution
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
