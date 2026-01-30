@@ -556,6 +556,8 @@
 
 ## Rust 
 
+- [XiangpengHao/liquid-cache](https://github.com/XiangpengHao/liquid-cache) - Distributed pushdown cache for DataFusion
+- [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
 - [IcicleF/Nos](https://github.com/IcicleF/Nos) - [OSDI'25] Stripeless Data Placement for Erasure-Coded In-Memory Storage.
 - [microsoft/demikernel](https://github.com/microsoft/demikernel) - Kernel-Bypass LibOS Architecture
 - [tkob-vh/gfw-rs](https://github.com/tkob-vh/gfw-rs) - Rewrite OpenGFW in Rust, with web-ui.
