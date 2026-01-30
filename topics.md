@@ -749,6 +749,8 @@
 
 ## others 
 
+- [XiangpengHao/liquid-cache](https://github.com/XiangpengHao/liquid-cache) - Distributed pushdown cache for DataFusion
+- [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [MoatLab/SoarAlto](https://github.com/MoatLab/SoarAlto) - Tiered Memory Management Beyond Hotness (OSDI'25)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
