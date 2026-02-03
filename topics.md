@@ -749,6 +749,7 @@
 
 ## others 
 
+- [OrderLab/phoenix](https://github.com/OrderLab/phoenix) - Phoenix project main repository
 - [XiangpengHao/liquid-cache](https://github.com/XiangpengHao/liquid-cache) - Distributed pushdown cache for DataFusion
 - [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -1051,7 +1052,7 @@
 - [ruihong123/dLSM](https://github.com/ruihong123/dLSM) - dLSM: An LSM-Based Index for RDMA-Enabled Memory Disaggregation
 - [SukunaShinmyoumaru-hust/Hust-opensource-Xuejie](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) - 一个华科计算机学院的资料集合 https://yuhangchen1.github.io/HUST_OPEN_SOURCE/
 - [fly-lovest/HUST-CS-Database-system-principle](https://github.com/fly-lovest/HUST-CS-Database-system-principle) - HUST-CS-2019 数据库系统原理及其实验
-- [zerofishnoodles/HUST-CS](https://github.com/zerofishnoodles/HUST-CS) - This is a collection of my courses and projects in HUST
+- [ruizhang0101/HUST-CS](https://github.com/ruizhang0101/HUST-CS) - This is a collection of my courses and projects in HUST
 - [DengYiKang/dataAnalysis](https://github.com/DengYiKang/dataAnalysis) - 数据分析助教准备工作
 - [L-LYR/Big-Data-Analysis-Labs](https://github.com/L-LYR/Big-Data-Analysis-Labs) - HUST Big Data Analysis Labs
 - [Gumi-presentation-by-Dzh/mioDB](https://github.com/Gumi-presentation-by-Dzh/mioDB) - MioDB: Devouring Data Byte-addressable LSM-based KV Stores for Hybrid Memory
@@ -1328,7 +1329,7 @@
 
 ## windows 
 
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
