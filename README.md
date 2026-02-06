@@ -561,6 +561,7 @@
 
 ## Rust 
 
+- [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
 - [XiangpengHao/liquid-cache](https://github.com/XiangpengHao/liquid-cache) - Distributed pushdown cache for DataFusion
 - [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
 - [IcicleF/Nos](https://github.com/IcicleF/Nos) - [OSDI'25] Stripeless Data Placement for Erasure-Coded In-Memory Storage.
