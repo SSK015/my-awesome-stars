@@ -26,7 +26,6 @@
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [MATLAB](#matlab)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Others](#others)
 - [PHP](#php)
@@ -327,6 +326,7 @@
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) - 🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes
 - [gushouchuanzhi1/2023_hust_datavisualization](https://github.com/gushouchuanzhi1/2023_hust_datavisualization) - 2023秋华中科技大学数据可视化
 - [TsukihimeCN/TsukihimeCN.github.io](https://github.com/TsukihimeCN/TsukihimeCN.github.io) - 
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Oliver-242/HUST-CS-Computer-Communication-and-Networking](https://github.com/Oliver-242/HUST-CS-Computer-Communication-and-Networking) - 华科CS2020级计算机网络课程及其实验
 - [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
 - [Pfzuo/pfzuo.github.io.old](https://github.com/Pfzuo/pfzuo.github.io.old) - My blog and homepage (https://pfzuo.github.io)
@@ -425,10 +425,6 @@
 
 - [dauzickaite/mpfgmres](https://github.com/dauzickaite/mpfgmres) - split-preconditioned FGMRES in four precisions
 - [hliangzhao/Mathematical-Model-Implementation](https://github.com/hliangzhao/Mathematical-Model-Implementation) - MATLAB code for classic mathematical modeling.
-
-## MDX 
-
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
