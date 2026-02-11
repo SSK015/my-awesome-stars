@@ -149,6 +149,7 @@
 
 ## C++ 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [kevins981/hybridtier-asplos25-artifact](https://github.com/kevins981/hybridtier-asplos25-artifact) - 
 - [RC4ML/BenchBF3](https://github.com/RC4ML/BenchBF3) - Demystifying Datapath Accelerator Enhanced Off-path SmartNIC [ICNP24]
 - [intel/iaa-plugin-rocksdb](https://github.com/intel/iaa-plugin-rocksdb) - 
@@ -492,6 +493,7 @@
 
 ## Python 
 
+- [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
