@@ -759,6 +759,7 @@
 
 ## others 
 
+- [SSK015/Hachimiku](https://github.com/SSK015/Hachimiku) - 
 - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
 - [OrderLab/phoenix](https://github.com/OrderLab/phoenix) - Phoenix project main repository
 - [XiangpengHao/liquid-cache](https://github.com/XiangpengHao/liquid-cache) - Distributed pushdown cache for DataFusion
