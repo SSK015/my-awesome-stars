@@ -68,6 +68,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [html](#html)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -258,6 +259,7 @@
 
 ## c-plus-plus 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [pomerol-ed/pomerol](https://github.com/pomerol-ed/pomerol) - Exact diagonalization, Lehmann's representation, Two-particle Green's functions
 - [sengelha/streaming-percentiles](https://github.com/sengelha/streaming-percentiles) - Cross-platform, multi-language implementation of multiple streaming percentile algorithms
 - [vpetrigo/caches](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
@@ -274,6 +276,7 @@
 
 ## chrome 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 
 ## chrome-extension 
@@ -351,6 +354,7 @@
 
 ## css 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) - 🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes
 
 ## data-analysis 
@@ -441,6 +445,7 @@
 
 ## electron 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -535,6 +540,10 @@
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
+## html 
+
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
 ## ios 
 
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
@@ -560,6 +569,7 @@
 
 ## javascript 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [sengelha/streaming-percentiles](https://github.com/sengelha/streaming-percentiles) - Cross-platform, multi-language implementation of multiple streaming percentile algorithms
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -724,6 +734,7 @@
 
 ## nodejs 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [oddfar/campus-example](https://github.com/oddfar/campus-example) - campus项目例子——校园论坛、博客、树洞、信息墙、表白墙、万能墙。SpringBoot前后端分离项目，Web 端使用 Vue + ElementUi，仿微博UI布局。 移动端使用 uni-app 和 uview，后端使用  SpringBoot + Mybatis-Plus进行开发
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 
@@ -763,6 +774,8 @@
 
 ## others 
 
+- [coccinelle/coccinelle](https://github.com/coccinelle/coccinelle) - Source code of the Coccinelle project (mirror of the main Coccinelle repository located at Inria)
+- [subhamX/overleaf_sync_with_git](https://github.com/subhamX/overleaf_sync_with_git) - 🤖 Automatically sync and backup your Overleaf projects to Git - works with online, self-hosted, and other LaTeX editors
 - [SSK015/Hachimiku](https://github.com/SSK015/Hachimiku) - 
 - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
 - [OrderLab/phoenix](https://github.com/OrderLab/phoenix) - Phoenix project main repository
