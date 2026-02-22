@@ -27,6 +27,7 @@
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
+- [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
 - [PostScript](#postscript)
@@ -149,6 +150,7 @@
 
 ## C++ 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [kevins981/hybridtier-asplos25-artifact](https://github.com/kevins981/hybridtier-asplos25-artifact) - 
 - [RC4ML/BenchBF3](https://github.com/RC4ML/BenchBF3) - Demystifying Datapath Accelerator Enhanced Off-path SmartNIC [ICNP24]
@@ -432,6 +434,10 @@
 
 - [starfive-tech/VisionFive2](https://github.com/starfive-tech/VisionFive2) - 
 
+## OCaml 
+
+- [coccinelle/coccinelle](https://github.com/coccinelle/coccinelle) - Source code of the Coccinelle project (mirror of the main Coccinelle repository located at Inria)
+
 ## Others 
 
 - [SkywalkerJi/Clash-Rules](https://github.com/SkywalkerJi/Clash-Rules) - Clash策略组及规则
@@ -595,6 +601,7 @@
 
 ## Shell 
 
+- [subhamX/overleaf_sync_with_git](https://github.com/subhamX/overleaf_sync_with_git) - 🤖 Automatically sync and backup your Overleaf projects to Git - works with online, self-hosted, and other LaTeX editors
 - [OrderLab/phoenix](https://github.com/OrderLab/phoenix) - Phoenix project main repository
 - [Mellanox/bfb-build](https://github.com/Mellanox/bfb-build) - BFB (BlueField boot stream and OS installer) build environment
 - [codediy/DriverTestDoc](https://github.com/codediy/DriverTestDoc) - 驾照考试文档总结
