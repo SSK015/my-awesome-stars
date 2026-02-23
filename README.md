@@ -44,6 +44,7 @@
 - [Typst](#typst)
 - [Verilog](#verilog)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -567,6 +568,7 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
 - [XiangpengHao/liquid-cache](https://github.com/XiangpengHao/liquid-cache) - Distributed pushdown cache for DataFusion
 - [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
@@ -667,6 +669,10 @@
 - [Murked/vue-tailwind-admin](https://github.com/Murked/vue-tailwind-admin) - A basic admin dashboard template built using Tailwind & Vue.js.
 - [creativetimofficial/vue-notus](https://github.com/creativetimofficial/vue-notus) - Vue Notus: Free Tailwind CSS UI Kit and Admin
 - [huzhushan/vue3-element-admin](https://github.com/huzhushan/vue3-element-admin) - vue3-element-admin后台管理系统前端解决方案
+
+## Zig 
+
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 
 ## License
