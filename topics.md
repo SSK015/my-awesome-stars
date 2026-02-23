@@ -147,6 +147,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [v2ray](#v2ray)
+- [verilog](#verilog)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
@@ -774,6 +775,8 @@
 
 ## others 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [coccinelle/coccinelle](https://github.com/coccinelle/coccinelle) - Source code of the Coccinelle project (mirror of the main Coccinelle repository located at Inria)
 - [subhamX/overleaf_sync_with_git](https://github.com/subhamX/overleaf_sync_with_git) - 🤖 Automatically sync and backup your Overleaf projects to Git - works with online, self-hosted, and other LaTeX editors
 - [SSK015/Hachimiku](https://github.com/SSK015/Hachimiku) - 
@@ -953,7 +956,6 @@
 - [thu-pacman/LiveGraph-Binary](https://github.com/thu-pacman/LiveGraph-Binary) - LiveGraph: a transactional graph storage system with purely sequential adjacency list scans
 - [facebookarchive/linkbench](https://github.com/facebookarchive/linkbench) - Facebook Graph Benchmark
 - [thu-pacman/LiveGraph](https://github.com/thu-pacman/LiveGraph) - LiveGraph: a transactional graph storage system with purely sequential adjacency list scans
-- [lvyufeng/step_into_mips](https://github.com/lvyufeng/step_into_mips) - 一步一步写MIPS CPU
 - [cs-course/data-center-course](https://github.com/cs-course/data-center-course) - 
 - [OpenACC/openacc-best-practices-guide](https://github.com/OpenACC/openacc-best-practices-guide) - The sources for the OpenACC Programming and Best Practices Guide.
 - [XinyiLiu577086410/Fork-hust-csapp](https://github.com/XinyiLiu577086410/Fork-hust-csapp) - 
@@ -1335,6 +1337,11 @@
 
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
+
+## verilog 
+
+- [lvyufeng/step_into_mips](https://github.com/lvyufeng/step_into_mips) - 一步一步写MIPS CPU
+- [chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science](https://github.com/chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science) - Learn Professional Basic Courses in Computer Science计算机专业基础课程学习
 
 ## vim 
 
