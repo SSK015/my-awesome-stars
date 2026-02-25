@@ -330,7 +330,7 @@
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) - 🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes
 - [gushouchuanzhi1/2023_hust_datavisualization](https://github.com/gushouchuanzhi1/2023_hust_datavisualization) - 2023秋华中科技大学数据可视化
 - [TsukihimeCN/TsukihimeCN.github.io](https://github.com/TsukihimeCN/TsukihimeCN.github.io) - 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Oliver-242/HUST-CS-Computer-Communication-and-Networking](https://github.com/Oliver-242/HUST-CS-Computer-Communication-and-Networking) - 华科CS2020级计算机网络课程及其实验
 - [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
 - [Pfzuo/pfzuo.github.io.old](https://github.com/Pfzuo/pfzuo.github.io.old) - My blog and homepage (https://pfzuo.github.io)
@@ -448,7 +448,7 @@
 - [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 - [npxiaoying/Social-Recommendation](https://github.com/npxiaoying/Social-Recommendation) - Summary of social recommendation papers and codes
 - [MicrosoftDocs/cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) - C++ Documentation
-- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
+- [qmonnet/awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享
 - [Compute-Express-Link/CXLPapers](https://github.com/Compute-Express-Link/CXLPapers) - 
 - [guaguaupup/cpp_interview](https://github.com/guaguaupup/cpp_interview) - c++后台服务器开发面经或八股总结！(有深度有广度，和仅有概念的总结文章不同！)
