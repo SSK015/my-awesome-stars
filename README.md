@@ -371,6 +371,7 @@
 
 ## JavaScript 
 
+- [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [BlankRain/ebooks](https://github.com/BlankRain/ebooks) - Some E-books From Internet~
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [sansyrox/cursor-neovim](https://github.com/sansyrox/cursor-neovim) - Customise Cursor to resemble Neovim in a few commands.
