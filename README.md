@@ -443,6 +443,7 @@
 
 ## Others 
 
+- [llm2014/llm_benchmark](https://github.com/llm2014/llm_benchmark) - 
 - [SkywalkerJi/Clash-Rules](https://github.com/SkywalkerJi/Clash-Rules) - Clash策略组及规则
 - [opensmartnic/awesome-smartnic](https://github.com/opensmartnic/awesome-smartnic) - A curated list of awesome smartnic tutorials, papers and projects.
 - [OpenQuant-Community/quant-fund](https://github.com/OpenQuant-Community/quant-fund) - 量化开源基金会
