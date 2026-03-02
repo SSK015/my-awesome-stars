@@ -527,7 +527,7 @@
 - [intel/perfmon](https://github.com/intel/perfmon) - 
 - [miracleyoo/Markdown4Zhihu](https://github.com/miracleyoo/Markdown4Zhihu) - 一键解决知乎导入Markdown文件时图片和公式等问题。
 - [OpenGVLab/PhyGenBench](https://github.com/OpenGVLab/PhyGenBench) - [ICML2025] The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
