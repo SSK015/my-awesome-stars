@@ -151,6 +151,7 @@
 
 ## C++ 
 
+- [dmtcp/dmtcp](https://github.com/dmtcp/dmtcp) - DMTCP: Distributed MultiThreaded CheckPointing
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [kevins981/hybridtier-asplos25-artifact](https://github.com/kevins981/hybridtier-asplos25-artifact) - 
