@@ -505,6 +505,7 @@
 
 ## Python 
 
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [SSK015/Hachimiku](https://github.com/SSK015/Hachimiku) - 
 - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
@@ -608,6 +609,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [subhamX/overleaf_sync_with_git](https://github.com/subhamX/overleaf_sync_with_git) - 🤖 Automatically sync and backup your Overleaf projects to Git - works with online, self-hosted, and other LaTeX editors
 - [OrderLab/phoenix](https://github.com/OrderLab/phoenix) - Phoenix project main repository
 - [Mellanox/bfb-build](https://github.com/Mellanox/bfb-build) - BFB (BlueField boot stream and OS installer) build environment
