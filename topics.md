@@ -410,6 +410,7 @@
 
 ## deep-learning 
 
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based)
 - [npxiaoying/Social-Recommendation](https://github.com/npxiaoying/Social-Recommendation) - Summary of social recommendation papers and codes
 - [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
@@ -649,6 +650,7 @@
 
 ## llm 
 
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [ovg-project/kvcached](https://github.com/ovg-project/kvcached) - Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond
@@ -674,6 +676,7 @@
 
 ## machine-learning 
 
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [QuantumBFS/Yao.jl](https://github.com/QuantumBFS/Yao.jl) - Extensible, Efficient Quantum Algorithm Design for Humans.
@@ -701,6 +704,7 @@
 
 ## mcp 
 
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,304+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -771,6 +775,7 @@
 
 ## openai 
 
+- [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [PaperDebugger/paperdebugger](https://github.com/PaperDebugger/paperdebugger) - A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
