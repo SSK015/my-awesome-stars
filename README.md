@@ -114,7 +114,7 @@
 - [uclasystem/canvas](https://github.com/uclasystem/canvas) - Canvas: Isolated and Adaptive Swapping for Multi-Applications on Remote Memory
 - [jmrosinski/GPTL](https://github.com/jmrosinski/GPTL) - General Purpose Timing Library
 - [Unidata/netcdf-c](https://github.com/Unidata/netcdf-c) - Official GitHub repository for netCDF-C libraries and utilities.
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [tidwall/btree.c](https://github.com/tidwall/btree.c) - B-tree implementation in C
 - [wiredtiger/wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger's source tree
 - [CARV-ICS-FORTH/tebis](https://github.com/CARV-ICS-FORTH/tebis) - An efficient distributed key value store for fast storage devices and RDMA networks
