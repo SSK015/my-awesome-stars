@@ -372,7 +372,7 @@
 
 ## cryptography 
 
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
 ## csharp 
 
