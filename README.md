@@ -539,7 +539,7 @@
 - [OpenGVLab/PhyGenBench](https://github.com/OpenGVLab/PhyGenBench) - [ICML2025] The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [Toblerity/Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
 - [OpenACC/openacc-best-practices-guide](https://github.com/OpenACC/openacc-best-practices-guide) - The sources for the OpenACC Programming and Best Practices Guide.
