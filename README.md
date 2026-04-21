@@ -318,7 +318,7 @@
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
 - [hpcgame/hpcgame_1st_problems](https://github.com/hpcgame/hpcgame_1st_problems) - Repository for HPCGame 1st Problems.
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [YushuaiJi/Distribution-System](https://github.com/YushuaiJi/Distribution-System) - 分布式系统学习
 
 ## HTML 
