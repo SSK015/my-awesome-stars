@@ -134,6 +134,7 @@
 - [scikit-learn](#scikit-learn)
 - [security](#security)
 - [security-tools](#security-tools)
+- [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
@@ -1315,6 +1316,10 @@
 
 - [Lucifer1993/SatanSword](https://github.com/Lucifer1993/SatanSword) - 红队综合渗透框架
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
+
+## self-hosted 
+
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 ## serverless 
 
