@@ -416,6 +416,8 @@
 
 ## Kotlin 
 
+- [rohanarun/phoneclaw](https://github.com/rohanarun/phoneclaw) - A version of openClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone.
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
 ## LLVM 
