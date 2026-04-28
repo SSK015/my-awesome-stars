@@ -827,6 +827,8 @@
 
 ## others 
 
+- [rohanarun/phoneclaw](https://github.com/rohanarun/phoneclaw) - A version of openClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone.
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
