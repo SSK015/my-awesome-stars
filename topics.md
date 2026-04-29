@@ -22,6 +22,7 @@
 - [bioinformatics](#bioinformatics)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -285,6 +286,10 @@
 - [vpetrigo/caches](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
 - [Kronuz/cpp-btree](https://github.com/Kronuz/cpp-btree) - Modern C++ B-tree containers
 - [paulross/skiplist](https://github.com/paulross/skiplist) - A C++ skip list with Python bindings. This can be used to calculate a rolling median - fast!
+
+## c-sharp 
+
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 ## chatgpt 
 
@@ -634,7 +639,7 @@
 
 ## json 
 
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 欢迎参加飞书AI先锋诗活动  https://bytedance.aiforce.cloud/app/app_4jvnd48x7khm1
 
 ## julia 
 
@@ -910,7 +915,6 @@
 - [cmpxchg16/tsx.me](https://github.com/cmpxchg16/tsx.me) - Benchmark Intel TSX (Transactional Synchronization Extension) Hardware Transactional Memory on my sandbox
 - [DependableSystemsLab/LLFI](https://github.com/DependableSystemsLab/LLFI) - LLFI is an LLVM based fault injection tool, that injects faults into the LLVM IR of the application source code.  The faults can be injected into specific program points, and the effect can be easily 
 - [zmjack/PortProxyGUI](https://github.com/zmjack/PortProxyGUI) - A manager of netsh interface portproxy which is to evaluate TCP/IP port redirect on windows.
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [dotnet/yarp](https://github.com/dotnet/yarp) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [zacg/simplelib](https://github.com/zacg/simplelib) - Golang SWIG Example Project
 - [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
