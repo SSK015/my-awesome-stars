@@ -584,6 +584,7 @@
 
 ## Rust 
 
+- [ggssh/claude-token-monitor](https://github.com/ggssh/claude-token-monitor) - A lightweight macOS menu bar app for monitoring Claude Code token usage in real time — with activity heatmap, session breakdown, daily trends, and dynamic tray indicators.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
