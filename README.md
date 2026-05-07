@@ -630,7 +630,7 @@
 - [Mellanox/bfb-build](https://github.com/Mellanox/bfb-build) - BFB (BlueField boot stream and OS installer) build environment
 - [codediy/DriverTestDoc](https://github.com/codediy/DriverTestDoc) - 驾照考试文档总结
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [tkob-vh/dotfiles](https://github.com/tkob-vh/dotfiles) - My dotfiles including configurations of nvim, tmux, zsh, hyprland, rofi...
 - [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
 - [cs-course/data-center-course](https://github.com/cs-course/data-center-course) - 
@@ -646,7 +646,7 @@
 
 ## TeX 
 
-- [SukunaShinmyoumaru-hust/template-of-thesis](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis) - 
+- [SukunaShinmyoumaru-hust/template-of-thesis](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis) - 华中科技大学计算机科学与技术学院本科生毕业论文LaTeX模版
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
 - [HauLiang/PhD-Application-Template](https://github.com/HauLiang/PhD-Application-Template) - LaTex Template for my PhD Application, including CV and RP...
 - [xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12) - 《Learn LLVM 12》的非专业个人翻译
