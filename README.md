@@ -478,7 +478,7 @@
 - [Renbangbang/CN-exercises](https://github.com/Renbangbang/CN-exercises) - 计算机网络：自顶向下方法 （原书第七版）陈鸣译 课后习题参考答案（中文版+英文版）
 - [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新） http://mysql.taobao.org/monthly/
 - [heptagonhust/career_plan](https://github.com/heptagonhust/career_plan) - 职业计划&华科计算机飞跃手册 （编写中）
-- [chenflux/blogs](https://github.com/chenflux/blogs) - PentestNotes
+- [chenflux/blogs](https://github.com/chenflux/blogs) - 
 - [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
