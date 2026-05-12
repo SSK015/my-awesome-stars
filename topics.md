@@ -1129,7 +1129,7 @@
 - [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
 - [linux-rdma/qperf](https://github.com/linux-rdma/qperf) - 
 - [iris1114/react-typescript-todo-app](https://github.com/iris1114/react-typescript-todo-app) - https://react-typescript-todo-appp.netlify.app/
-- [chenflux/blogs](https://github.com/chenflux/blogs) - PentestNotes
+- [chenflux/blogs](https://github.com/chenflux/blogs) - 
 - [linux-rdma/infiniband-diags](https://github.com/linux-rdma/infiniband-diags) - InfiniBand Diagnostic Tools (DEPRECATED, part of rdma-core)
 - [zweix123/jyyslide-md](https://github.com/zweix123/jyyslide-md) - 使用Markdown制作和蒋炎岩老师幻灯片同一主题的Web幻灯片框架(Base on Reveal.js)
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
