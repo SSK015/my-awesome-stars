@@ -269,7 +269,7 @@
 - [CGCL-codes/mioDB](https://github.com/CGCL-codes/mioDB) - MioDB: Devouring Data Byte-addressable LSM-based KV Stores for Hybrid Memory
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [thustorage/Sherman](https://github.com/thustorage/Sherman) - Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory
-- [huangrt01/TCP-Lab](https://github.com/huangrt01/TCP-Lab) - Stanford computer networking lab, an elegant TCP/IP implementation
+- [huangruiteng/TCP-Lab](https://github.com/huangruiteng/TCP-Lab) - Stanford computer networking lab, an elegant TCP/IP implementation
 - [HUSTERGS/HUSTCS](https://github.com/HUSTERGS/HUSTCS) - 华中科技大学CS文件存留，包含相关资料，代码以及报告
 
 ## CMake 
@@ -571,7 +571,7 @@
 - [DengYiKang/dataAnalysis](https://github.com/DengYiKang/dataAnalysis) - 数据分析助教准备工作
 - [L-LYR/Big-Data-Analysis-Labs](https://github.com/L-LYR/Big-Data-Analysis-Labs) - HUST Big Data Analysis Labs
 - [ekesaitingg/hust-big-data-analysis2021](https://github.com/ekesaitingg/hust-big-data-analysis2021) - 华中科技大学大数据分析实验2019级
-- [huangrt01/CS-Notes](https://github.com/huangrt01/CS-Notes) - 我的自学笔记，终身更新
+- [huangruiteng/CS-Notes](https://github.com/huangruiteng/CS-Notes) - 我的自学笔记，终身更新
 - [Pold87/academic-keyword-occurrence](https://github.com/Pold87/academic-keyword-occurrence) - Extracts the historic word occurrence of a search term in academic papers
 - [jsxzs/Adaboost-Algorithm-Implementation](https://github.com/jsxzs/Adaboost-Algorithm-Implementation) - The Final Project of Machine Learning course of HUST: Implement AdaBoost Algorithm using Logistic Regression and Tree Stump as basic classifiers
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss
