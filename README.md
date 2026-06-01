@@ -630,6 +630,7 @@
 
 ## Shell 
 
+- [aloth/overleaf-skill](https://github.com/aloth/overleaf-skill) - Agent Skill for Overleaf — Automate LaTeX project management, sync, and compilation for AI assistants
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [subhamX/overleaf_sync_with_git](https://github.com/subhamX/overleaf_sync_with_git) - 🤖 Automatically sync and backup your Overleaf projects to Git - works with online, self-hosted, and other LaTeX editors
 - [OrderLab/phoenix](https://github.com/OrderLab/phoenix) - Phoenix project main repository
