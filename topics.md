@@ -860,6 +860,8 @@
 
 ## others 
 
+- [baojie/shiji-kb](https://github.com/baojie/shiji-kb) - 
+- [travisdowns/uarch-bench](https://github.com/travisdowns/uarch-bench) - A benchmark for low-level CPU micro-architectural features
 - [TianheMICALab/SimCXL](https://github.com/TianheMICALab/SimCXL) - A full-system, cycle-level simulator based on gem5 that provides complete support for all three CXL sub-protocols and all three types of CXL devices.
 - [v2rayA/dist-v2ray-rules-dat](https://github.com/v2rayA/dist-v2ray-rules-dat) - Distribution of `Loyalsoldier/v2ray-rules-dat`. Sync with the upstream every weeks.
 - [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
