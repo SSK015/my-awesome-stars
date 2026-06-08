@@ -152,6 +152,7 @@
 
 ## C++ 
 
+- [travisdowns/uarch-bench](https://github.com/travisdowns/uarch-bench) - A benchmark for low-level CPU micro-architectural features
 - [TianheMICALab/SimCXL](https://github.com/TianheMICALab/SimCXL) - A full-system, cycle-level simulator based on gem5 that provides complete support for all three CXL sub-protocols and all three types of CXL devices.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [dmtcp/dmtcp](https://github.com/dmtcp/dmtcp) - DMTCP: Distributed MultiThreaded CheckPointing
@@ -329,6 +330,7 @@
 
 ## HTML 
 
+- [baojie/shiji-kb](https://github.com/baojie/shiji-kb) - 
 - [LiShengkai01/LiShengkai](https://github.com/LiShengkai01/LiShengkai) - My academic page
 - [Crazylqx/Crazylqx.github.io](https://github.com/Crazylqx/Crazylqx.github.io) - 
 - [MoatLab/Pond](https://github.com/MoatLab/Pond) - Pond: CXL-Based Memory Pooling Systems for Cloud Platforms (ASPLOS'23)
