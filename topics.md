@@ -861,6 +861,7 @@
 
 ## others 
 
+- [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南
 - [baojie/shiji-kb](https://github.com/baojie/shiji-kb) - 
 - [travisdowns/uarch-bench](https://github.com/travisdowns/uarch-bench) - A benchmark for low-level CPU micro-architectural features
 - [TianheMICALab/SimCXL](https://github.com/TianheMICALab/SimCXL) - A full-system, cycle-level simulator based on gem5 that provides complete support for all three CXL sub-protocols and all three types of CXL devices.
