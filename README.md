@@ -455,6 +455,7 @@
 
 ## Others 
 
+- [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南
 - [v2rayA/dist-v2ray-rules-dat](https://github.com/v2rayA/dist-v2ray-rules-dat) - Distribution of `Loyalsoldier/v2ray-rules-dat`. Sync with the upstream every weeks.
 - [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
 - [llm2014/llm_benchmark](https://github.com/llm2014/llm_benchmark) - 
