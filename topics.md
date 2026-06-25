@@ -921,7 +921,7 @@
 - [hpcgame/hpcgame-problems-2nd](https://github.com/hpcgame/hpcgame-problems-2nd) - 
 - [Mellanox/bfb-build](https://github.com/Mellanox/bfb-build) - BFB (BlueField boot stream and OS installer) build environment
 - [lingfenghsiang/Nomad](https://github.com/lingfenghsiang/Nomad) - OSDI'24 Nomad implementation
-- [CXLMemUring/CXLMemUring](https://github.com/CXLMemUring/CXLMemUring) - CXL remote offloading data movement aware compiler
+- [Zettai-US/CXLMemUring](https://github.com/Zettai-US/CXLMemUring) - CXL remote offloading data movement aware compiler
 - [opensmartnic/awesome-smartnic](https://github.com/opensmartnic/awesome-smartnic) - A curated list of awesome smartnic tutorials, papers and projects.
 - [ProjectMitosisOS/dmerge-eurosys24-ae](https://github.com/ProjectMitosisOS/dmerge-eurosys24-ae) - Artifact evaluation repo for EuroSys'24.
 - [madsys-dev/DSA-2LM](https://github.com/madsys-dev/DSA-2LM) - The Artifact Evaluation Version of ATC'25 Paper #395 DSA-2LM: A CPU-Free Tiered Memory Architecture with Intel DSA
