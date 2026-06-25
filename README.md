@@ -163,7 +163,7 @@
 - [intel/iaa-plugin-rocksdb](https://github.com/intel/iaa-plugin-rocksdb) - 
 - [IcicleF/cx5-ec-offload](https://github.com/IcicleF/cx5-ec-offload) - A brief code example to Mellanox CX-5+ erasure coding offload.
 - [hpcgame/hpcgame-problems-2nd](https://github.com/hpcgame/hpcgame-problems-2nd) - 
-- [CXLMemUring/CXLMemUring](https://github.com/CXLMemUring/CXLMemUring) - CXL remote offloading data movement aware compiler
+- [Zettai-US/CXLMemUring](https://github.com/Zettai-US/CXLMemUring) - CXL remote offloading data movement aware compiler
 - [sbeamer/gapbs](https://github.com/sbeamer/gapbs) - GAP Benchmark Suite
 - [linbox-team/givaro](https://github.com/linbox-team/givaro) - Givaro - C++ library for arithmetic and algebraic computations
 - [urcs-sync/Montage](https://github.com/urcs-sync/Montage) - Montage is a system for building fast buffered persistent data structures on nonvolatile memory.
