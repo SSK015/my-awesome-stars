@@ -992,7 +992,6 @@
 - [ece-fast-lab/cxl_type3_tests](https://github.com/ece-fast-lab/cxl_type3_tests) - This is the respository that holds the artifacts of MICRO'23 -- Demystifying CXL Memory with True CXL-Ready Systems and CXL Memory Devices
 - [SNU-ARC/MERCI](https://github.com/SNU-ARC/MERCI) - 
 - [miracleyoo/Markdown4Zhihu](https://github.com/miracleyoo/Markdown4Zhihu) - 一键解决知乎导入Markdown文件时图片和公式等问题。
-- [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - 古诗文起名: 利用诗经 楚辞 唐诗 宋词等给小朋友起名字
 - [intel/lmbench](https://github.com/intel/lmbench) - 
 - [torvalds/test-tlb](https://github.com/torvalds/test-tlb) - Stupid memory latency and TLB tester
 - [FedeParola/memory-latency](https://github.com/FedeParola/memory-latency) - Memory latency test
@@ -1325,6 +1324,7 @@
 
 ## react 
 
+- [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - Chinese baby name generator from classical poems and ancient texts
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
@@ -1458,6 +1458,7 @@
 - [aloth/overleaf-skill](https://github.com/aloth/overleaf-skill) - Agent Skill for Overleaf — Automate LaTeX project management, sync, and compilation for AI assistants
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+- [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - Chinese baby name generator from classical poems and ancient texts
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
