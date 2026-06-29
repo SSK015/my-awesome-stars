@@ -456,6 +456,7 @@
 
 ## Others 
 
+- [OpenDataBox/awesome-agent-memory](https://github.com/OpenDataBox/awesome-agent-memory) - Paper List of Agent Memory Systems along Four Axes
 - [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南
 - [v2rayA/dist-v2ray-rules-dat](https://github.com/v2rayA/dist-v2ray-rules-dat) - Distribution of `Loyalsoldier/v2ray-rules-dat`. Sync with the upstream every weeks.
 - [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
@@ -520,6 +521,7 @@
 
 ## Python 
 
+- [OpenDataBox/MemoryData](https://github.com/OpenDataBox/MemoryData) - A Unified Memory Benchmark Suite for Memory-Augmented Agents
 - [zsyggg/paper-craft-skills](https://github.com/zsyggg/paper-craft-skills) - Claude Code skills for academic papers: deep analysis, comics, summaries | 论文工艺：深度解读、漫画生成、速览总结
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
@@ -659,6 +661,7 @@
 
 ## TeX 
 
+- [Chasing1020/agentic-ai-guide-zh](https://github.com/Chasing1020/agentic-ai-guide-zh) - The Hitchhiker's Guide to Agentic AI: From Foundations to Systems | 智能体 AI 漫游指南：从基础到系统（中文翻译版）
 - [SukunaShinmyoumaru-hust/template-of-thesis](https://github.com/SukunaShinmyoumaru-hust/template-of-thesis) - 华中科技大学计算机科学与技术学院本科生毕业论文LaTeX模版
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
 - [HauLiang/PhD-Application-Template](https://github.com/HauLiang/PhD-Application-Template) - LaTex Template for my PhD Application, including CV and RP...
