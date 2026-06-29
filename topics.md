@@ -170,6 +170,8 @@
 
 ## agent 
 
+- [OpenDataBox/awesome-agent-memory](https://github.com/OpenDataBox/awesome-agent-memory) - Paper List of Agent Memory Systems along Four Axes
+- [OpenDataBox/MemoryData](https://github.com/OpenDataBox/MemoryData) - A Unified Memory Benchmark Suite for Memory-Augmented Agents
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [PaperDebugger/paperdebugger](https://github.com/PaperDebugger/paperdebugger) - A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing
@@ -724,6 +726,8 @@
 
 ## llm 
 
+- [OpenDataBox/awesome-agent-memory](https://github.com/OpenDataBox/awesome-agent-memory) - Paper List of Agent Memory Systems along Four Axes
+- [OpenDataBox/MemoryData](https://github.com/OpenDataBox/MemoryData) - A Unified Memory Benchmark Suite for Memory-Augmented Agents
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -880,6 +884,7 @@
 
 ## others 
 
+- [Chasing1020/agentic-ai-guide-zh](https://github.com/Chasing1020/agentic-ai-guide-zh) - The Hitchhiker's Guide to Agentic AI: From Foundations to Systems | 智能体 AI 漫游指南：从基础到系统（中文翻译版）
 - [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南
 - [baojie/shiji-kb](https://github.com/baojie/shiji-kb) - 
 - [travisdowns/uarch-bench](https://github.com/travisdowns/uarch-bench) - A benchmark for low-level CPU micro-architectural features
