@@ -330,6 +330,7 @@
 
 ## HTML 
 
+- [19PINE-AI/aoi](https://github.com/19PINE-AI/aoi) - AOI: a model-agnostic perception layer giving computer-use agents adaptive video + audio perception with zero retraining, plus DynaCU-Bench (100 dynamic browser tasks). Paper + benchmark + code.
 - [baojie/shiji-kb](https://github.com/baojie/shiji-kb) - 
 - [LiShengkai01/LiShengkai](https://github.com/LiShengkai01/LiShengkai) - My academic page
 - [Crazylqx/Crazylqx.github.io](https://github.com/Crazylqx/Crazylqx.github.io) - 
@@ -521,6 +522,7 @@
 
 ## Python 
 
+- [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [OpenDataBox/MemoryData](https://github.com/OpenDataBox/MemoryData) - A Unified Memory Benchmark Suite for Memory-Augmented Agents
 - [zsyggg/paper-craft-skills](https://github.com/zsyggg/paper-craft-skills) - Claude Code skills for academic papers: deep analysis, comics, summaries | 论文工艺：深度解读、漫画生成、速览总结
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
