@@ -601,6 +601,7 @@
 
 ## Rust 
 
+- [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ggssh/claude-token-monitor](https://github.com/ggssh/claude-token-monitor) - A lightweight macOS menu bar app for monitoring Claude Code token usage in real time — with activity heatmap, session breakdown, daily trends, and dynamic tray indicators.
@@ -671,6 +672,8 @@
 
 ## TypeScript 
 
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
+- [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
