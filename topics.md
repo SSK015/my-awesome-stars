@@ -908,6 +908,8 @@
 
 ## others 
 
+- [BigDawnGhost/wenyi](https://github.com/BigDawnGhost/wenyi) - 将被语言阻隔的作品，带到读者的语言中。Bringing literature into your language.
+- [huangyibo/SwiftRDMA](https://github.com/huangyibo/SwiftRDMA) - SwiftRDMA -- Exposing RDMA NIC Resources for Software-Defined RDMA Scheduling
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [Chasing1020/agentic-ai-guide-zh](https://github.com/Chasing1020/agentic-ai-guide-zh) - The Hitchhiker's Guide to Agentic AI: From Foundations to Systems | 智能体 AI 漫游指南：从基础到系统（中文翻译版）
 - [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南
