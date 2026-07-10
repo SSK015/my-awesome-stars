@@ -523,6 +523,7 @@
 
 ## Python 
 
+- [uw-syfi/TraceLab](https://github.com/uw-syfi/TraceLab) - An open toolkit and public dataset hub for collecting, sanitizing, analyzing, and visualizing coding agent traces.
 - [aiming-lab/ClawArena](https://github.com/aiming-lab/ClawArena) - 
 - [BigDawnGhost/wenyi](https://github.com/BigDawnGhost/wenyi) - 将被语言阻隔的作品，带到读者的语言中。Bringing literature into your language.
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
@@ -537,7 +538,7 @@
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f
 - [MoveCloudROY/ecs-agent](https://github.com/MoveCloudROY/ecs-agent) - An Entity-Component-System architecture for composable AI agents.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
 - [SSK015/Hachimiku](https://github.com/SSK015/Hachimiku) - 
 - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
