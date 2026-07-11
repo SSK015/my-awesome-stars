@@ -910,7 +910,6 @@
 
 - [uw-syfi/TraceLab](https://github.com/uw-syfi/TraceLab) - An open toolkit and public dataset hub for collecting, sanitizing, analyzing, and visualizing coding agent traces.
 - [aiming-lab/ClawArena](https://github.com/aiming-lab/ClawArena) - 
-- [BigDawnGhost/wenyi](https://github.com/BigDawnGhost/wenyi) - 将被语言阻隔的作品，带到读者的语言中。Bringing literature into your language.
 - [huangyibo/SwiftRDMA](https://github.com/huangyibo/SwiftRDMA) - SwiftRDMA -- Exposing RDMA NIC Resources for Software-Defined RDMA Scheduling
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [Chasing1020/agentic-ai-guide-zh](https://github.com/Chasing1020/agentic-ai-guide-zh) - The Hitchhiker's Guide to Agentic AI: From Foundations to Systems | 智能体 AI 漫游指南：从基础到系统（中文翻译版）
@@ -1323,6 +1322,7 @@
 
 ## python 
 
+- [BigDawnGhost/wenyi](https://github.com/BigDawnGhost/wenyi) - 将被语言阻隔的作品，带到读者的语言中。Bringing literature into your language.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
