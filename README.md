@@ -525,6 +525,7 @@
 
 ## Python 
 
+- [MEIOU-and-Taxes/MnT-EU5](https://github.com/MEIOU-and-Taxes/MnT-EU5) - MEIOU and Taxes mod for Europa Universalis V
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [Westlake-AGI-Lab/AppAgentX](https://github.com/Westlake-AGI-Lab/AppAgentX) - Official implementation of AppAgentX: Evolving GUI Agents as Proficient Smartphone Users
 - [uw-syfi/TraceLab](https://github.com/uw-syfi/TraceLab) - An open toolkit and public dataset hub for collecting, sanitizing, analyzing, and visualizing coding agent traces.
