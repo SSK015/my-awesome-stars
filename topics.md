@@ -934,6 +934,7 @@
 
 ## others 
 
+- [jyyang621/DailyArXiv](https://github.com/jyyang621/DailyArXiv) - Thanks to https://github.com/zezhishao/DailyArXiv.git
 - [MEIOU-and-Taxes/MnT-EU5](https://github.com/MEIOU-and-Taxes/MnT-EU5) - MEIOU and Taxes mod for Europa Universalis V
 - [Westlake-AGI-Lab/AppAgentX](https://github.com/Westlake-AGI-Lab/AppAgentX) - Official implementation of AppAgentX: Evolving GUI Agents as Proficient Smartphone Users
 - [PlatformLab/HomaModule](https://github.com/PlatformLab/HomaModule) - A Linux kernel module that implements the Homa transport protocol.
