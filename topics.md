@@ -502,6 +502,7 @@
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
+- [ruc-deke/rucbase-lab](https://github.com/ruc-deke/rucbase-lab) - RUC Educational Database Project open lab
 - [enpeizhao/duck_db](https://github.com/enpeizhao/duck_db) - c/c++ build a simple b+tree RDMS（利用c/c++ 开发基于B+树的小型关系型数据库 ）
 - [SleepyLGod/hust-projects](https://github.com/SleepyLGod/hust-projects) - My labs in college of CS and some interesting projects at HUST.
 - [ejunjsh/bustub](https://github.com/ejunjsh/bustub) - Database practice on cmu15-445 2022
@@ -1260,7 +1261,6 @@
 - [ruihong123/RDMA_test](https://github.com/ruihong123/RDMA_test) - 
 - [ruihong123/SharedMemRocks](https://github.com/ruihong123/SharedMemRocks) - A key-value store over disaggregated memory  based on RocksDB
 - [xdu-database/rucbase-lab](https://github.com/xdu-database/rucbase-lab) - 
-- [ruc-deke/rucbase-lab](https://github.com/ruc-deke/rucbase-lab) - RUC Educational Database Project open lab
 - [hamsterwk/whucs-beamer](https://github.com/hamsterwk/whucs-beamer) - Beamer Template for Computer Science Academy of Wuhan University (WHU-CS) 武汉大学计算机学院beamer模板（答辩，汇报）
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [lemonchann/lemonchann.github.io](https://github.com/lemonchann/lemonchann.github.io) - 可 fork 的博客教程模板
