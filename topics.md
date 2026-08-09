@@ -950,6 +950,8 @@
 
 ## others 
 
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [microsoft/Orchard](https://github.com/microsoft/Orchard) - Orchard: An Open-Source Agentic Modeling Framework
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - A vector indexing library to bring fast, fresh and filtered search to your database
 - [jyyang621/DailyArXiv](https://github.com/jyyang621/DailyArXiv) - Thanks to https://github.com/zezhishao/DailyArXiv.git
