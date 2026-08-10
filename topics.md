@@ -950,6 +950,7 @@
 
 ## others 
 
+- [BAIGUANGMEI/zhihu-cli](https://github.com/BAIGUANGMEI/zhihu-cli) - 知乎命令行工具 — 在终端搜索问题、查看回答、发布文章、提问、想法（支持图文）、浏览热榜，支持二维码登录与Cookie登录
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [microsoft/Orchard](https://github.com/microsoft/Orchard) - Orchard: An Open-Source Agentic Modeling Framework
