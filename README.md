@@ -153,6 +153,7 @@
 
 ## C++ 
 
+- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 - [huangyibo/SwiftRDMA](https://github.com/huangyibo/SwiftRDMA) - SwiftRDMA -- Exposing RDMA NIC Resources for Software-Defined RDMA Scheduling
 - [travisdowns/uarch-bench](https://github.com/travisdowns/uarch-bench) - A benchmark for low-level CPU micro-architectural features
 - [TianheMICALab/SimCXL](https://github.com/TianheMICALab/SimCXL) - A full-system, cycle-level simulator based on gem5 that provides complete support for all three CXL sub-protocols and all three types of CXL devices.
@@ -526,6 +527,11 @@
 
 ## Python 
 
+- [MineDojo/NitroGen](https://github.com/MineDojo/NitroGen) - A Foundation Model for Generalist Gaming Agents
+- [tile-ai/DeepStack](https://github.com/tile-ai/DeepStack) - DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference. Includes the MICRO 2026 AE artifact.
+- [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [microsoft/vidur](https://github.com/microsoft/vidur) - Accurate, large-scale, and extensible simulator for LLM inference Systems
 - [BAIGUANGMEI/zhihu-cli](https://github.com/BAIGUANGMEI/zhihu-cli) - 知乎命令行工具 — 在终端搜索问题、查看回答、发布文章、提问、想法（支持图文）、浏览热榜，支持二维码登录与Cookie登录
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
@@ -690,7 +696,7 @@
 ## TypeScript 
 
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
-- [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Automated Agent Builder. Create Self-Evolving Agents in One Click (DeepSeek/Kimi/GPT/Claude/Gemini)
+- [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Create Your Self-Evolving Agents in One Click with DeepSeek/Kimi/GPT/Claude/Gemini
 - [hikariming/ghfind](https://github.com/hikariming/ghfind) - Discover the best developers — and become one. Drop a GitHub handle for a 0–100 value & trust score in 30s: see your gaps, discover top devs, get found. Exposes PR farmers, AI bots & fork-hoarders. De
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
