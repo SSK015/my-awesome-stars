@@ -153,6 +153,7 @@
 
 ## C++ 
 
+- [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 - [huangyibo/SwiftRDMA](https://github.com/huangyibo/SwiftRDMA) - SwiftRDMA -- Exposing RDMA NIC Resources for Software-Defined RDMA Scheduling
 - [travisdowns/uarch-bench](https://github.com/travisdowns/uarch-bench) - A benchmark for low-level CPU micro-architectural features
@@ -527,6 +528,8 @@
 
 ## Python 
 
+- [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-
+- [CraftJarvis/JarvisVLA](https://github.com/CraftJarvis/JarvisVLA) - Official Implementation of "JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse"
 - [MineDojo/NitroGen](https://github.com/MineDojo/NitroGen) - A Foundation Model for Generalist Gaming Agents
 - [tile-ai/DeepStack](https://github.com/tile-ai/DeepStack) - DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference. Includes the MICRO 2026 AE artifact.
 - [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 
@@ -664,6 +667,7 @@
 
 ## Shell 
 
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [aloth/overleaf-skill](https://github.com/aloth/overleaf-skill) - Agent Skill for Overleaf — Automate LaTeX project management, sync, and compilation for AI assistants
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [subhamX/overleaf_sync_with_git](https://github.com/subhamX/overleaf_sync_with_git) - 🤖 Automatically sync and backup your Overleaf projects to Git - works with online, self-hosted, and other LaTeX editors
@@ -696,7 +700,7 @@
 ## TypeScript 
 
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
-- [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Create Your Self-Evolving Agents in One Click with DeepSeek/Kimi/GPT/Claude/Gemini
+- [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Harness for RSI. AI Build Better AI
 - [hikariming/ghfind](https://github.com/hikariming/ghfind) - Discover the best developers — and become one. Drop a GitHub handle for a 0–100 value & trust score in 30s: see your gaps, discover top devs, get found. Exposes PR farmers, AI bots & fork-hoarders. De
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
