@@ -700,7 +700,7 @@
 ## TypeScript 
 
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
-- [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Harness for RSI. AI Build Better AI
+- [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Harness for RSI. Let AI Build AI
 - [hikariming/ghfind](https://github.com/hikariming/ghfind) - Discover the best developers — and become one. Drop a GitHub handle for a 0–100 value & trust score in 30s: see your gaps, discover top devs, get found. Exposes PR farmers, AI bots & fork-hoarders. De
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
