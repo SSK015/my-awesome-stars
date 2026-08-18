@@ -811,6 +811,7 @@
 
 ## llm 
 
+- [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) - A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.
 - [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 - [microsoft/vidur](https://github.com/microsoft/vidur) - Accurate, large-scale, and extensible simulator for LLM inference Systems
@@ -984,6 +985,7 @@
 
 ## others 
 
+- [OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core) - Low level access to native memory, JVM and OS.
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
 - [FIND-Lab/AgentWard](https://github.com/FIND-Lab/AgentWard) - AgentWard – Built for all, hardened for OpenClaw.
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
