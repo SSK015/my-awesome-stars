@@ -1077,7 +1077,7 @@
 - [urcs-sync/Montage](https://github.com/urcs-sync/Montage) - Montage is a system for building fast buffered persistent data structures on nonvolatile memory.
 - [dassl-uiuc/compute-side-log](https://github.com/dassl-uiuc/compute-side-log) - Transparent fault-tolerance for storage-centric applications in disaggregated data centers
 - [sansyrox/cursor-neovim](https://github.com/sansyrox/cursor-neovim) - Customise Cursor to resemble Neovim in a few commands.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [kyleshu/draid-spdk](https://github.com/kyleshu/draid-spdk) - 
 - [OpenQuant-Community/quant-fund](https://github.com/OpenQuant-Community/quant-fund) - 量化开源基金会
 - [krb5/krb5](https://github.com/krb5/krb5) - mirror of MIT krb5 repository
