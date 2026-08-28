@@ -820,7 +820,7 @@
 
 ## llm 
 
-- [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) - A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.
+- [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) - A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.
 - [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 - [microsoft/vidur](https://github.com/microsoft/vidur) - Accurate, large-scale, and extensible simulator for LLM inference Systems
