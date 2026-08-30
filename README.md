@@ -153,6 +153,7 @@
 
 ## C++ 
 
+- [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [driPyf/OMEGA](https://github.com/driPyf/OMEGA) - OMEGA is an adaptive approximate nearest neighbor (ANN) search system that dynamically adjusts search effort per query with minimal preprocessing cost. It achieves significant speedups by using machin
 - [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
