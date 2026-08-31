@@ -93,6 +93,7 @@
 - [jquery](#jquery)
 - [json](#json)
 - [julia](#julia)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [latex](#latex)
@@ -268,6 +269,7 @@
 
 ## android 
 
+- [bojieli/DoNotType](https://github.com/bojieli/DoNotType) - Voice input that transcribes what you said, grounded in what's on your screen. macOS, Windows, Android, iOS.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
@@ -585,6 +587,7 @@
 
 ## dotnet 
 
+- [bojieli/DoNotType](https://github.com/bojieli/DoNotType) - Voice input that transcribes what you said, grounded in what's on your screen. macOS, Windows, Android, iOS.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## dsh-plugin 
@@ -717,6 +720,7 @@
 
 ## ios 
 
+- [bojieli/DoNotType](https://github.com/bojieli/DoNotType) - Voice input that transcribes what you said, grounded in what's on your screen. macOS, Windows, Android, iOS.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
@@ -775,6 +779,10 @@
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 
+## kotlin 
+
+- [bojieli/DoNotType](https://github.com/bojieli/DoNotType) - Voice input that transcribes what you said, grounded in what's on your screen. macOS, Windows, Android, iOS.
+
 ## kubernetes 
 
 - [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
@@ -820,6 +828,7 @@
 
 ## llm 
 
+- [bojieli/DoNotType](https://github.com/bojieli/DoNotType) - Voice input that transcribes what you said, grounded in what's on your screen. macOS, Windows, Android, iOS.
 - [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) - A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.
 - [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
@@ -874,6 +883,7 @@
 
 ## macos 
 
+- [bojieli/DoNotType](https://github.com/bojieli/DoNotType) - Voice input that transcribes what you said, grounded in what's on your screen. macOS, Windows, Android, iOS.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -995,6 +1005,7 @@
 
 ## others 
 
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) - 微信公众号转RSS
 - [driPyf/OMEGA](https://github.com/driPyf/OMEGA) - OMEGA is an adaptive approximate nearest neighbor (ANN) search system that dynamically adjusts search effort per query with minimal preprocessing cost. It achieves significant speedups by using machin
@@ -1583,6 +1594,7 @@
 
 ## swift 
 
+- [bojieli/DoNotType](https://github.com/bojieli/DoNotType) - Voice input that transcribes what you said, grounded in what's on your screen. macOS, Windows, Android, iOS.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 
 ## tailwind 
@@ -1680,6 +1692,7 @@
 
 ## windows 
 
+- [bojieli/DoNotType](https://github.com/bojieli/DoNotType) - Voice input that transcribes what you said, grounded in what's on your screen. macOS, Windows, Android, iOS.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
