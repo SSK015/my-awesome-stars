@@ -414,6 +414,7 @@
 
 ## cli 
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
@@ -437,6 +438,7 @@
 
 ## command-line 
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 
 ## compiler 
@@ -746,6 +748,7 @@
 
 ## javascript 
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [sengelha/streaming-percentiles](https://github.com/sengelha/streaming-percentiles) - Cross-platform, multi-language implementation of multiple streaming percentile algorithms
@@ -1495,6 +1498,7 @@
 
 ## react 
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - Chinese baby name generator from classical poems and ancient texts
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
