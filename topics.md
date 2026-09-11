@@ -1008,6 +1008,7 @@
 
 ## others 
 
+- [I-ESC/Project-Ava](https://github.com/I-ESC/Project-Ava) - An implementation of Paper "Empowering Agentic Video Analytics Systems with Video Language Models"
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
@@ -1353,7 +1354,7 @@
 - [kiwiloveskiwis/NJU_MachineLearning](https://github.com/kiwiloveskiwis/NJU_MachineLearning) - 
 - [dmemsys/FUSEE](https://github.com/dmemsys/FUSEE) - This is the implementation repository of our FAST'23 paper: FUSEE: A Fully Memory-Disaggregated Key-Value Store.
 - [ruihong123/dLSM](https://github.com/ruihong123/dLSM) - dLSM: An LSM-Based Index for RDMA-Enabled Memory Disaggregation
-- [SukunaShinmyoumaru-hust/Hust-opensource-Xuejie](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) - 一个华科计算机学院的资料集合 https://yuhangchen1.github.io/HUST_OPEN_SOURCE/
+- [SukunaShinmyoumaru-hust/Hust-opensource-Xuejie](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie) - 一个华科计算机学院的资料集合
 - [fly-lovest/HUST-CS-Database-system-principle](https://github.com/fly-lovest/HUST-CS-Database-system-principle) - HUST-CS-2019 数据库系统原理及其实验
 - [ruizhang0101/HUST-CS](https://github.com/ruizhang0101/HUST-CS) - This is a collection of my courses and projects in HUST
 - [DengYiKang/dataAnalysis](https://github.com/DengYiKang/dataAnalysis) - 数据分析助教准备工作
