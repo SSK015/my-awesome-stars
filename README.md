@@ -657,6 +657,7 @@
 - [vaaandark/socker](https://github.com/vaaandark/socker) - A tool for capturing unix socket packets using eBPF written in the aya-rs framework
 - [os-module/visionfive2-sd](https://github.com/os-module/visionfive2-sd) - 
 - [uclasystem/DRust](https://github.com/uclasystem/DRust) - 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [jyi2ya/tc-lab](https://github.com/jyi2ya/tc-lab) - 一起来数三角形吧！
 - [tikv/minstant](https://github.com/tikv/minstant) - Performant time measuring in Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -731,7 +732,6 @@
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - Chinese baby name generator from classical poems and ancient texts
 - [serping/serp-checker](https://github.com/serping/serp-checker) - 
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [ManiaciaChao/yatm](https://github.com/ManiaciaChao/yatm) - yet another teachermate helper
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
