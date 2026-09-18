@@ -381,6 +381,7 @@
 - [Daniel-Liu-c0deb0t/UMICollapse](https://github.com/Daniel-Liu-c0deb0t/UMICollapse) - Accelerating the deduplication and collapsing process for reads with Unique Molecular Identifiers (UMI). Heavily optimized for scalability and orders of magnitude faster than a previous tool.
 - [YahooArchive/pasc](https://github.com/YahooArchive/pasc) - Practical Arbitrary State Corruptions
 - [DependableSystemsLab/LLFI](https://github.com/DependableSystemsLab/LLFI) - LLFI is an LLVM based fault injection tool, that injects faults into the LLVM IR of the application source code.  The faults can be injected into specific program points, and the effect can be easily 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [openjdk/jdk21u](https://github.com/openjdk/jdk21u) - https://openjdk.org/projects/jdk-updates
 - [ldbc/ldbc_snb_datagen_hadoop](https://github.com/ldbc/ldbc_snb_datagen_hadoop) - The Hadoop-based variant of the SNB Datagen
 - [jiguanglizipao/ldbc_snb_implementations](https://github.com/jiguanglizipao/ldbc_snb_implementations) - LiveGraph implementations for ldbc_snb
@@ -534,6 +535,7 @@
 
 ## Python 
 
+- [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
 - [I-ESC/Project-Ava](https://github.com/I-ESC/Project-Ava) - An implementation of Paper "Empowering Agentic Video Analytics Systems with Video Language Models"
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
@@ -645,7 +647,7 @@
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [asterinas/asterinas](https://github.com/asterinas/asterinas) - Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
-- [XiangpengHao/liquid-cache](https://github.com/XiangpengHao/liquid-cache) - Pushdown cache for DataFusion
+- [datafusion-contrib/liquid-cache](https://github.com/datafusion-contrib/liquid-cache) - Pushdown cache for DataFusion
 - [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
 - [IcicleF/Nos](https://github.com/IcicleF/Nos) - [OSDI'25] Stripeless Data Placement for Erasure-Coded In-Memory Storage.
 - [microsoft/demikernel](https://github.com/microsoft/demikernel) - Kernel-Bypass LibOS Architecture
@@ -732,7 +734,6 @@
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - Chinese baby name generator from classical poems and ancient texts
 - [serping/serp-checker](https://github.com/serping/serp-checker) - 
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ManiaciaChao/yatm](https://github.com/ManiaciaChao/yatm) - yet another teachermate helper
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
