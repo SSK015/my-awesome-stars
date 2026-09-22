@@ -381,7 +381,6 @@
 - [Daniel-Liu-c0deb0t/UMICollapse](https://github.com/Daniel-Liu-c0deb0t/UMICollapse) - Accelerating the deduplication and collapsing process for reads with Unique Molecular Identifiers (UMI). Heavily optimized for scalability and orders of magnitude faster than a previous tool.
 - [YahooArchive/pasc](https://github.com/YahooArchive/pasc) - Practical Arbitrary State Corruptions
 - [DependableSystemsLab/LLFI](https://github.com/DependableSystemsLab/LLFI) - LLFI is an LLVM based fault injection tool, that injects faults into the LLVM IR of the application source code.  The faults can be injected into specific program points, and the effect can be easily 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [openjdk/jdk21u](https://github.com/openjdk/jdk21u) - https://openjdk.org/projects/jdk-updates
 - [ldbc/ldbc_snb_datagen_hadoop](https://github.com/ldbc/ldbc_snb_datagen_hadoop) - The Hadoop-based variant of the SNB Datagen
 - [jiguanglizipao/ldbc_snb_implementations](https://github.com/jiguanglizipao/ldbc_snb_implementations) - LiveGraph implementations for ldbc_snb
@@ -626,7 +625,7 @@
 - [Pold87/academic-keyword-occurrence](https://github.com/Pold87/academic-keyword-occurrence) - Extracts the historic word occurrence of a search term in academic papers
 - [jsxzs/Adaboost-Algorithm-Implementation](https://github.com/jsxzs/Adaboost-Algorithm-Implementation) - The Final Project of Machine Learning course of HUST: Implement AdaBoost Algorithm using Logistic Regression and Tree Stump as basic classifiers
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss
-- [LNLT/HUST_data-analyze](https://github.com/LNLT/HUST_data-analyze) - 华科大数据分析实验
+- [LNLT/HUST_data-analyze](https://github.com/LNLT/HUST_data-analyze) - 
 - [rspeer/wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
 - [adityashrm21/Pdf-Word-Count](https://github.com/adityashrm21/Pdf-Word-Count) - Get the count of words in a pdf file
 - [SSK015/Welcome-To-DS-For-Undergraduates](https://github.com/SSK015/Welcome-To-DS-For-Undergraduates) - I am an undergraduate student from Huazhong University of Science and Technology (HUST) majoring in data science (enrolled in 2021), and I want to share my experience of self-learning data science and
@@ -734,6 +733,7 @@
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - Chinese baby name generator from classical poems and ancient texts
 - [serping/serp-checker](https://github.com/serping/serp-checker) - 
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ManiaciaChao/yatm](https://github.com/ManiaciaChao/yatm) - yet another teachermate helper
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
