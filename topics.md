@@ -1379,7 +1379,7 @@
 - [cs-qyzhang/rdma-example](https://github.com/cs-qyzhang/rdma-example) - RDMA programming examples using Soft-RoCE
 - [water8394/flink-recommandSystem-demo](https://github.com/water8394/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。
 - [ultraji/linux-0.12](https://github.com/ultraji/linux-0.12) - 《Linux内核完全剖析》linux0.12源码及实验环境
-- [LNLT/HUST_data-analyze](https://github.com/LNLT/HUST_data-analyze) - 华科大数据分析实验
+- [LNLT/HUST_data-analyze](https://github.com/LNLT/HUST_data-analyze) - 
 - [yifengyou/linux-0.12](https://github.com/yifengyou/linux-0.12) - 赵炯老师《linux-0.12 内核完全剖析》读书笔记及linux-0.12注释源码
 - [gaoxinge/distributed-system](https://github.com/gaoxinge/distributed-system) - 
 - [woai3c/MIT6.828](https://github.com/woai3c/MIT6.828) - 实现一个操作系统内核
