@@ -94,7 +94,7 @@
 - [jeffhammond/STREAM](https://github.com/jeffhammond/STREAM) - STREAM benchmark
 - [brendangregg/wss](https://github.com/brendangregg/wss) - Working Set Size tools
 - [WireGuard/wireguard-linux-compat](https://github.com/WireGuard/wireguard-linux-compat) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux-compat
-- [kraj/musl](https://github.com/kraj/musl) - musl - an implementation of the standard library for Linux-based systems - ( Downstream )
+- [kraj/musl](https://github.com/kraj/musl) - musl - an implementation of the standard library for Linux-based systems - ( Downstream ) submit patches to mailing list
 - [clamchowder/Microbenchmarks](https://github.com/clamchowder/Microbenchmarks) - Trying to figure various CPU things out
 - [larryli/PuTTY](https://github.com/larryli/PuTTY) - PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。
 - [vmware/splinterdb](https://github.com/vmware/splinterdb) - High Performance Embedded Key-Value Store
@@ -535,6 +535,7 @@
 
 ## Python 
 
+- [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 - [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
 - [I-ESC/Project-Ava](https://github.com/I-ESC/Project-Ava) - An implementation of Paper "Empowering Agentic Video Analytics Systems with Video Language Models"
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
@@ -667,7 +668,7 @@
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track ccf-ranked & worldwide conference deadlines (Website, Python Cli, Wechat Applet)
 
 ## SCSS 
 
