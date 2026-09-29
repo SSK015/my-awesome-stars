@@ -263,7 +263,7 @@
 - [ruihong123/RDMA_test](https://github.com/ruihong123/RDMA_test) - 
 - [ruihong123/SharedMemRocks](https://github.com/ruihong123/SharedMemRocks) - A key-value store over disaggregated memory  based on RocksDB
 - [xdu-database/rucbase-lab](https://github.com/xdu-database/rucbase-lab) - 
-- [ruc-deke/rucbase-lab](https://github.com/ruc-deke/rucbase-lab) - RUC Educational Database Project open lab
+- [ruc-dbsys/rucbase-lab](https://github.com/ruc-dbsys/rucbase-lab) - RUC Educational Database Project open lab
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science](https://github.com/chenqianhe/Learn-Professional-Basic-Courses-in-Computer-Science) - Learn Professional Basic Courses in Computer Science计算机专业基础课程学习
 - [enpeizhao/duck_db](https://github.com/enpeizhao/duck_db) - c/c++ build a simple b+tree RDMS（利用c/c++ 开发基于B+树的小型关系型数据库 ）
@@ -469,7 +469,6 @@
 ## Others 
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
-- [microsoft/Orchard](https://github.com/microsoft/Orchard) - Orchard: An Open-Source Agentic Modeling Framework
 - [OpenDataBox/awesome-agent-memory](https://github.com/OpenDataBox/awesome-agent-memory) - Paper List of Agent Memory Systems along Four Axes
 - [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南
 - [v2rayA/dist-v2ray-rules-dat](https://github.com/v2rayA/dist-v2ray-rules-dat) - Distribution of `Loyalsoldier/v2ray-rules-dat`. Sync with the upstream every weeks.
@@ -540,7 +539,7 @@
 - [I-ESC/Project-Ava](https://github.com/I-ESC/Project-Ava) - An implementation of Paper "Empowering Agentic Video Analytics Systems with Video Language Models"
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
-- [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) - A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.   LoongForge is named after the traditional Chinese loong boat (龙舟), a symbol of co
+- [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) - A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.  （LoongForge is named after the traditional Chinese loong boat (龙舟), a symbol of co
 - [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-
 - [CraftJarvis/JarvisVLA](https://github.com/CraftJarvis/JarvisVLA) - Official Implementation of "JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse"
 - [MineDojo/NitroGen](https://github.com/MineDojo/NitroGen) - A Foundation Model for Generalist Gaming Agents
@@ -551,6 +550,7 @@
 - [microsoft/vidur](https://github.com/microsoft/vidur) - Accurate, large-scale, and extensible simulator for LLM inference Systems
 - [BAIGUANGMEI/zhihu-cli](https://github.com/BAIGUANGMEI/zhihu-cli) - 知乎命令行工具 — 在终端搜索问题、查看回答、发布文章、提问、想法（支持图文）、浏览热榜，支持二维码登录与Cookie登录
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+- [microsoft/Orchard-Agentic](https://github.com/microsoft/Orchard-Agentic) - Orchard-Agentic is a collection of open-source work on agentic modeling
 - [jyyang621/DailyArXiv](https://github.com/jyyang621/DailyArXiv) - Thanks to https://github.com/zezhishao/DailyArXiv.git
 - [MEIOU-and-Taxes/MnT-EU5](https://github.com/MEIOU-and-Taxes/MnT-EU5) - MEIOU and Taxes mod for Europa Universalis V
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
