@@ -550,7 +550,7 @@
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
-- [ruc-deke/rucbase-lab](https://github.com/ruc-deke/rucbase-lab) - RUC Educational Database Project open lab
+- [ruc-dbsys/rucbase-lab](https://github.com/ruc-dbsys/rucbase-lab) - RUC Educational Database Project open lab
 - [enpeizhao/duck_db](https://github.com/enpeizhao/duck_db) - c/c++ build a simple b+tree RDMS（利用c/c++ 开发基于B+树的小型关系型数据库 ）
 - [SleepyLGod/hust-projects](https://github.com/SleepyLGod/hust-projects) - My labs in college of CS and some interesting projects at HUST.
 - [ejunjsh/bustub](https://github.com/ejunjsh/bustub) - Database practice on cmu15-445 2022
@@ -855,7 +855,7 @@
 ## llm 
 
 - [bojieli/DoNotType](https://github.com/bojieli/DoNotType) - Voice input that transcribes what you said, grounded in what's on your screen. macOS, Windows, Android, iOS.
-- [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) - A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.   LoongForge is named after the traditional Chinese loong boat (龙舟), a symbol of co
+- [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) - A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.  （LoongForge is named after the traditional Chinese loong boat (龙舟), a symbol of co
 - [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices
 - [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 - [microsoft/vidur](https://github.com/microsoft/vidur) - Accurate, large-scale, and extensible simulator for LLM inference Systems
@@ -1051,7 +1051,7 @@
 - [BAIGUANGMEI/zhihu-cli](https://github.com/BAIGUANGMEI/zhihu-cli) - 知乎命令行工具 — 在终端搜索问题、查看回答、发布文章、提问、想法（支持图文）、浏览热榜，支持二维码登录与Cookie登录
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-- [microsoft/Orchard](https://github.com/microsoft/Orchard) - Orchard: An Open-Source Agentic Modeling Framework
+- [microsoft/Orchard-Agentic](https://github.com/microsoft/Orchard-Agentic) - Orchard-Agentic is a collection of open-source work on agentic modeling
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - A vector indexing library to bring fast, fresh and filtered search to your database
 - [jyyang621/DailyArXiv](https://github.com/jyyang621/DailyArXiv) - Thanks to https://github.com/zezhishao/DailyArXiv.git
 - [MEIOU-and-Taxes/MnT-EU5](https://github.com/MEIOU-and-Taxes/MnT-EU5) - MEIOU and Taxes mod for Europa Universalis V
