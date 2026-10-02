@@ -205,7 +205,7 @@
 - [E3SM-Project/scorpio](https://github.com/E3SM-Project/scorpio) - A high-level Parallel I/O Library for structured grid applications
 - [1a1a11a/libCacheSim](https://github.com/1a1a11a/libCacheSim) - a high performance library for building cache simulators
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
-- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - High-performance implementations of AI kernels for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Powers PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 - [asterich/conv](https://github.com/asterich/conv) - 
 - [lecfab/volt](https://github.com/lecfab/volt) - Vertex Ordering to List Triangles: a fast C++ tool for triangle counting or listing in big graphs. See associated paper: https://arxiv.org/abs/2203.04774
 - [richenyunqi/CCF-CSP-and-PAT-solution](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution) - CCF CSP和PAT考试题解（使用C++14语法）
