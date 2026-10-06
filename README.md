@@ -205,7 +205,7 @@
 - [E3SM-Project/scorpio](https://github.com/E3SM-Project/scorpio) - A high-level Parallel I/O Library for structured grid applications
 - [1a1a11a/libCacheSim](https://github.com/1a1a11a/libCacheSim) - a high performance library for building cache simulators
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
-- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - High-performance implementations of AI kernels for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Powers PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 - [asterich/conv](https://github.com/asterich/conv) - 
 - [lecfab/volt](https://github.com/lecfab/volt) - Vertex Ordering to List Triangles: a fast C++ tool for triangle counting or listing in big graphs. See associated paper: https://arxiv.org/abs/2203.04774
 - [richenyunqi/CCF-CSP-and-PAT-solution](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution) - CCF CSP和PAT考试题解（使用C++14语法）
@@ -381,7 +381,6 @@
 - [Daniel-Liu-c0deb0t/UMICollapse](https://github.com/Daniel-Liu-c0deb0t/UMICollapse) - Accelerating the deduplication and collapsing process for reads with Unique Molecular Identifiers (UMI). Heavily optimized for scalability and orders of magnitude faster than a previous tool.
 - [YahooArchive/pasc](https://github.com/YahooArchive/pasc) - Practical Arbitrary State Corruptions
 - [DependableSystemsLab/LLFI](https://github.com/DependableSystemsLab/LLFI) - LLFI is an LLVM based fault injection tool, that injects faults into the LLVM IR of the application source code.  The faults can be injected into specific program points, and the effect can be easily 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [openjdk/jdk21u](https://github.com/openjdk/jdk21u) - https://openjdk.org/projects/jdk-updates
 - [ldbc/ldbc_snb_datagen_hadoop](https://github.com/ldbc/ldbc_snb_datagen_hadoop) - The Hadoop-based variant of the SNB Datagen
 - [jiguanglizipao/ldbc_snb_implementations](https://github.com/jiguanglizipao/ldbc_snb_implementations) - LiveGraph implementations for ldbc_snb
@@ -735,6 +734,7 @@
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - Chinese baby name generator from classical poems and ancient texts
 - [serping/serp-checker](https://github.com/serping/serp-checker) - 
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ManiaciaChao/yatm](https://github.com/ManiaciaChao/yatm) - yet another teachermate helper
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
