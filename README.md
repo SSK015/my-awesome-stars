@@ -54,6 +54,7 @@
 
 ## C 
 
+- [CMU-SAFARI/Ariadne](https://github.com/CMU-SAFARI/Ariadne) - Ariadne is a new compressed swap scheme for mobile devices that reduces application relaunch latency and CPU usage while increasing the number of live applications for enhanced user experience. Descri
 - [PlatformLab/HomaModule](https://github.com/PlatformLab/HomaModule) - A Linux kernel module that implements the Homa transport protocol.
 - [MoatLab/SoarAlto](https://github.com/MoatLab/SoarAlto) - Tiered Memory Management Beyond Hotness (OSDI'25)
 - [zondie17/UCAS_HPCS](https://github.com/zondie17/UCAS_HPCS) - UCAS High Performance Computing System 国科大高性能计算系统复习及试题
@@ -435,6 +436,7 @@
 
 ## Kotlin 
 
+- [system-pclub/mobile-mcp](https://github.com/system-pclub/mobile-mcp) - 
 - [rohanarun/phoneclaw](https://github.com/rohanarun/phoneclaw) - A version of openClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone.
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
@@ -467,6 +469,7 @@
 
 ## Others 
 
+- [NVlabs/kda](https://github.com/NVlabs/kda) - Kernel Design Agents (KDA) is a agent-centric workflow to write high-performance CUDA Kernels.
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
 - [OpenDataBox/awesome-agent-memory](https://github.com/OpenDataBox/awesome-agent-memory) - Paper List of Agent Memory Systems along Four Axes
 - [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南
