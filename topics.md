@@ -1042,6 +1042,9 @@
 
 ## others 
 
+- [NVlabs/kda](https://github.com/NVlabs/kda) - Kernel Design Agents (KDA) is a agent-centric workflow to write high-performance CUDA Kernels.
+- [CMU-SAFARI/Ariadne](https://github.com/CMU-SAFARI/Ariadne) - Ariadne is a new compressed swap scheme for mobile devices that reduces application relaunch latency and CPU usage while increasing the number of live applications for enhanced user experience. Descri
+- [system-pclub/mobile-mcp](https://github.com/system-pclub/mobile-mcp) - 
 - [I-ESC/Project-Ava](https://github.com/I-ESC/Project-Ava) - An implementation of Paper "Empowering Agentic Video Analytics Systems with Video Language Models"
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
