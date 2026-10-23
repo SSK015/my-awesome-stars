@@ -239,7 +239,7 @@
 - [minghust/motor](https://github.com/minghust/motor) - [OSDI 2024] Motor: Enabling Multi-Versioning for Distributed Transactions on Disaggregated Memory
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [heptagonhust/recruitment-2023-autumn](https://github.com/heptagonhust/recruitment-2023-autumn) - 
-- [Kronuz/cpp-btree](https://github.com/Kronuz/cpp-btree) - Modern C++ B-tree containers
+- [Kronuz/btree](https://github.com/Kronuz/btree) - Modern C++ B-tree containers
 - [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 - [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件
 - [zhiyyyu/Computer_Network_Lab](https://github.com/zhiyyyu/Computer_Network_Lab) - HUST Computer Network Lab.
@@ -249,7 +249,6 @@
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction
 - [theoanab/SILK-USENIXATC2019](https://github.com/theoanab/SILK-USENIXATC2019) - Code for "SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores" published in USENIX ATC 19
 - [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [mindspore-ai/graphengine](https://github.com/mindspore-ai/graphengine) - A connecting link module between frontends and Ascend processors.
 - [CMU-SAFARI/MQSim](https://github.com/CMU-SAFARI/MQSim) - MQSim is a fast & accurate simulator for modern multi-queue (MQ) and SATA SSDs. MQSim faithfully models new high-bandwidth protocol implementations, steady-state SSD conditions, and full end-to-end la
 - [gem5-graphics/gem5-graphics](https://github.com/gem5-graphics/gem5-graphics) - gem5 simulator with a gpgpu+graphics GPU model
 - [gem5/gem5](https://github.com/gem5/gem5) - The official repository for the gem5 computer-system architecture simulator.
@@ -324,6 +323,7 @@
 
 ## Go 
 
+- [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
 - [VectorInstitute/vigil](https://github.com/VectorInstitute/vigil) - AI agent observability & enforcement at the kernel level, powered by BPF LSM hooks.
@@ -643,6 +643,7 @@
 
 ## Rust 
 
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - A vector indexing library to bring fast, fresh and filtered search to your database
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
