@@ -213,6 +213,7 @@
 
 ## agents 
 
+- [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 - [rohanarun/phoneclaw](https://github.com/rohanarun/phoneclaw) - A version of openClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
@@ -251,6 +252,7 @@
 
 ## ai-agents 
 
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
 - [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [19PINE-AI/aoi](https://github.com/19PINE-AI/aoi) - AOI: a model-agnostic perception layer giving computer-use agents adaptive video + audio perception with zero retraining, plus DynaCU-Bench (100 dynamic browser tasks). Paper + benchmark + code.
@@ -368,7 +370,7 @@
 - [pomerol-ed/pomerol](https://github.com/pomerol-ed/pomerol) - Exact diagonalization, Lehmann's representation, Two-particle Green's functions
 - [sengelha/streaming-percentiles](https://github.com/sengelha/streaming-percentiles) - Cross-platform, multi-language implementation of multiple streaming percentile algorithms
 - [vpetrigo/caches](https://github.com/vpetrigo/caches) - C++ cache with LRU/LFU/FIFO policies implementation
-- [Kronuz/cpp-btree](https://github.com/Kronuz/cpp-btree) - Modern C++ B-tree containers
+- [Kronuz/btree](https://github.com/Kronuz/btree) - Modern C++ B-tree containers
 - [paulross/skiplist](https://github.com/paulross/skiplist) - A C++ skip list with Python bindings. This can be used to calculate a rolling median - fast!
 
 ## c-sharp 
@@ -850,6 +852,7 @@
 
 ## linux 
 
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -866,6 +869,7 @@
 
 ## llm 
 
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [bojieli/DoNotType](https://github.com/bojieli/DoNotType) - Voice input that transcribes what you said, grounded in what's on your screen. macOS, Windows, Android, iOS.
 - [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) - A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.  Supports  Pi0.5, GR00T-N1.7, FastWAM, Cosmos3, DreamZero, DeepSeek-V4,  GLM-5.3, K
 - [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices
@@ -1340,7 +1344,6 @@
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [Renbangbang/CN-exercises](https://github.com/Renbangbang/CN-exercises) - 计算机网络：自顶向下方法 （原书第七版）陈鸣译 课后习题参考答案（中文版+英文版）
 - [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [mindspore-ai/graphengine](https://github.com/mindspore-ai/graphengine) - A connecting link module between frontends and Ascend processors.
 - [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新） http://mysql.taobao.org/monthly/
 - [CMU-SAFARI/MQSim](https://github.com/CMU-SAFARI/MQSim) - MQSim is a fast & accurate simulator for modern multi-queue (MQ) and SATA SSDs. MQSim faithfully models new high-bandwidth protocol implementations, steady-state SSD conditions, and full end-to-end la
 - [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) - Chat凉宫春日, An open sourced Role-Playing chatbot Cheng Li, Ziang Leng, and others.
@@ -1568,6 +1571,7 @@
 
 ## rust 
 
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
@@ -1640,6 +1644,7 @@
 
 ## sqlite 
 
+- [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [enpeizhao/duck_db](https://github.com/enpeizhao/duck_db) - c/c++ build a simple b+tree RDMS（利用c/c++ 开发基于B+树的小型关系型数据库 ）
 - [ls4154/YCSB-cpp](https://github.com/ls4154/YCSB-cpp) - YCSB written in C++ for embedded databases. (supporting LevelDB, RocksDB, LMDB, WiredTiger, and SQLite)
 
