@@ -1052,6 +1052,7 @@
 
 ## others 
 
+- [liseami/CCBaga](https://github.com/liseami/CCBaga) - 
 - [Concyclics/MemForest](https://github.com/Concyclics/MemForest) - Official Implementation of "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing"
 - [NVlabs/kda](https://github.com/NVlabs/kda) - Kernel Design Agents (KDA) is a agent-centric workflow to write high-performance CUDA Kernels.
 - [CMU-SAFARI/Ariadne](https://github.com/CMU-SAFARI/Ariadne) - Ariadne is a new compressed swap scheme for mobile devices that reduces application relaunch latency and CPU usage while increasing the number of live applications for enhanced user experience. Descri
