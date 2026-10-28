@@ -159,6 +159,7 @@
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [springboot](#springboot)
 - [sql](#sql)
@@ -1052,6 +1053,7 @@
 
 ## others 
 
+- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [OSU-NLP-Group/GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - Awesome GUI Agent Paper List
 - [liseami/CCBaga](https://github.com/liseami/CCBaga) - 
 - [Concyclics/MemForest](https://github.com/Concyclics/MemForest) - Official Implementation of "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing"
@@ -1627,6 +1629,11 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [adityashrm21/Pdf-Word-Count](https://github.com/adityashrm21/Pdf-Word-Count) - Get the count of words in a pdf file
+
+## skills 
+
+- [zsyggg/paper-craft-skills](https://github.com/zsyggg/paper-craft-skills) - Claude Code skills for academic papers: deep analysis, comics, summaries | 论文工艺：深度解读、漫画生成、速览总结
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 ## software 
 
