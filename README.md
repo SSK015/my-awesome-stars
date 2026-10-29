@@ -25,6 +25,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
+- [Lean](#lean)
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
@@ -184,7 +185,7 @@
 - [cmpxchg16/tsx.me](https://github.com/cmpxchg16/tsx.me) - Benchmark Intel TSX (Transactional Synchronization Extension) Hardware Transactional Memory on my sandbox
 - [AinsleySnow/Ginkgo](https://github.com/AinsleySnow/Ginkgo) - A toy C compiler that compatible with C23 and can do limited optimizations
 - [zacg/simplelib](https://github.com/zacg/simplelib) - Golang SWIG Example Project
-- [facebook/CacheLib](https://github.com/facebook/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
+- [meta/CacheLib](https://github.com/meta/CacheLib) - Pluggable in-process caching engine to build and scale high performance services
 - [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [madsys-dev/smart](https://github.com/madsys-dev/smart) - Scaling Up Memory Disaggregated Applications with SMART (ASPLOS 24): Predecessor of Mooncake TE
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -277,7 +278,7 @@
 - [ejunjsh/bustub](https://github.com/ejunjsh/bustub) - Database practice on cmu15-445 2022
 - [ls4154/YCSB-cpp](https://github.com/ls4154/YCSB-cpp) - YCSB written in C++ for embedded databases. (supporting LevelDB, RocksDB, LMDB, WiredTiger, and SQLite)
 - [CGCL-codes/mioDB](https://github.com/CGCL-codes/mioDB) - MioDB: Devouring Data Byte-addressable LSM-based KV Stores for Hybrid Memory
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+- [meta/rocksdb](https://github.com/meta/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [thustorage/Sherman](https://github.com/thustorage/Sherman) - Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory
 - [huangruiteng/TCP-Lab](https://github.com/huangruiteng/TCP-Lab) - Stanford computer networking lab, an elegant TCP/IP implementation
 - [HUSTERGS/HUSTCS](https://github.com/HUSTERGS/HUSTCS) - 华中科技大学CS文件存留，包含相关资料，代码以及报告
@@ -447,6 +448,11 @@
 - [compiler-disagg/TrackFM](https://github.com/compiler-disagg/TrackFM) - A compiler to automatically transform applications into disaggregated memory apps.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
+## Lean 
+
+- [openai/math](https://github.com/openai/math) - 
+- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+
 ## Lua 
 
 - [linrongbin16/lin.nvim](https://github.com/linrongbin16/lin.nvim) - Lin Rongbin's Neovim Distribution
@@ -536,6 +542,7 @@
 
 ## Python 
 
+- [juliodosreis/awesome-agenticsystems](https://github.com/juliodosreis/awesome-agenticsystems) - 
 - [Concyclics/MemForest](https://github.com/Concyclics/MemForest) - Official Implementation of "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing"
 - [NVlabs/kda](https://github.com/NVlabs/kda) - Kernel Design Agents (KDA) is a agent-centric workflow to write high-performance CUDA Kernels.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
@@ -643,6 +650,7 @@
 
 ## Rust 
 
+- [hydro-project/hydro](https://github.com/hydro-project/hydro) - A Rust framework for correct and performant distributed systems
 - [liseami/CCBaga](https://github.com/liseami/CCBaga) - 
 - [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, comm
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -723,6 +731,7 @@
 
 ## TypeScript 
 
+- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [OSU-NLP-Group/GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - Awesome GUI Agent Paper List
 - [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
