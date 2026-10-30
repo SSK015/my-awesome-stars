@@ -582,7 +582,7 @@
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f
 - [MoveCloudROY/ecs-agent](https://github.com/MoveCloudROY/ecs-agent) - An Entity-Component-System architecture for composable AI agents.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,750+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,877+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [SSK015/Hachimiku](https://github.com/SSK015/Hachimiku) - 
 - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -656,7 +656,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - A vector indexing library to bring fast, fresh and filtered search to your database
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
-- [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
+- [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ggssh/claude-token-monitor](https://github.com/ggssh/claude-token-monitor) - A lightweight macOS menu bar app for monitoring Claude Code token usage in real time — with activity heatmap, session breakdown, daily trends, and dynamic tray indicators.
@@ -731,6 +731,7 @@
 
 ## TypeScript 
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [OSU-NLP-Group/GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - Awesome GUI Agent Paper List
 - [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
