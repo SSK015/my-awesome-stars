@@ -28,6 +28,7 @@
 - [Lean](#lean)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -156,6 +157,7 @@
 
 ## C++ 
 
+- [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump) - 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [driPyf/OMEGA](https://github.com/driPyf/OMEGA) - OMEGA is an adaptive approximate nearest neighbor (ANN) search system that dynamically adjusts search effort per query with minimal preprocessing cost. It achieves significant speedups by using machin
 - [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices
@@ -240,7 +242,7 @@
 - [minghust/motor](https://github.com/minghust/motor) - [OSDI 2024] Motor: Enabling Multi-Versioning for Distributed Transactions on Disaggregated Memory
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [heptagonhust/recruitment-2023-autumn](https://github.com/heptagonhust/recruitment-2023-autumn) - 
-- [Kronuz/btree](https://github.com/Kronuz/btree) - Modern C++ B-tree containers
+- [Kronuz/btree](https://github.com/Kronuz/btree) - B-tree containers for C++17: the std::map and std::set interfaces with less memory and fewer cache misses
 - [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 - [parallel101/course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件
 - [zhiyyyu/Computer_Network_Lab](https://github.com/zhiyyyu/Computer_Network_Lab) - HUST Computer Network Lab.
@@ -324,6 +326,7 @@
 
 ## Go 
 
+- [e2b-dev/runtime](https://github.com/e2b-dev/runtime) - The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
@@ -353,7 +356,6 @@
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) - An open-source presentation theme ecosystem for Marp/Markdown users.
 - [gushouchuanzhi1/2023_hust_datavisualization](https://github.com/gushouchuanzhi1/2023_hust_datavisualization) - 2023秋华中科技大学数据可视化
 - [TsukihimeCN/TsukihimeCN.github.io](https://github.com/TsukihimeCN/TsukihimeCN.github.io) - 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Oliver-242/HUST-CS-Computer-Communication-and-Networking](https://github.com/Oliver-242/HUST-CS-Computer-Communication-and-Networking) - 华科CS2020级计算机网络课程及其实验
 - [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
 - [Pfzuo/pfzuo.github.io.old](https://github.com/Pfzuo/pfzuo.github.io.old) - My blog and homepage (https://pfzuo.github.io)
@@ -466,6 +468,10 @@
 - [dauzickaite/mpfgmres](https://github.com/dauzickaite/mpfgmres) - split-preconditioned FGMRES in four precisions
 - [hliangzhao/Mathematical-Model-Implementation](https://github.com/hliangzhao/Mathematical-Model-Implementation) - MATLAB code for classic mathematical modeling.
 
+## MDX 
+
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
 ## Makefile 
 
 - [starfive-tech/VisionFive2](https://github.com/starfive-tech/VisionFive2) - 
@@ -542,6 +548,7 @@
 
 ## Python 
 
+- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [juliodosreis/awesome-agenticsystems](https://github.com/juliodosreis/awesome-agenticsystems) - 
 - [Concyclics/MemForest](https://github.com/Concyclics/MemForest) - Official Implementation of "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing"
 - [NVlabs/kda](https://github.com/NVlabs/kda) - Kernel Design Agents (KDA) is a agent-centric workflow to write high-performance CUDA Kernels.
@@ -731,6 +738,7 @@
 
 ## TypeScript 
 
+- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [OSU-NLP-Group/GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - Awesome GUI Agent Paper List
