@@ -157,6 +157,7 @@
 
 ## C++ 
 
+- [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump) - 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [driPyf/OMEGA](https://github.com/driPyf/OMEGA) - OMEGA is an adaptive approximate nearest neighbor (ANN) search system that dynamically adjusts search effort per query with minimal preprocessing cost. It achieves significant speedups by using machin
@@ -623,7 +624,7 @@
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [hpcgame/hpc-wiki](https://github.com/hpcgame/hpc-wiki) - Wiki fo HPC
-- [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道全自动 三月七小助手
+- [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 日常交给三月七，开拓留给你。《崩坏：星穹铁道》开源自动化助手。
 - [emeryberger/csconferences](https://github.com/emeryberger/csconferences) - Major CS conference publication stats (including accepted and submitted) by year.
 - [aesareen/Learned-Indexes-with-Insertions](https://github.com/aesareen/Learned-Indexes-with-Insertions) - 
 - [rabbitmask/AssetsHunter](https://github.com/rabbitmask/AssetsHunter) - 资产狩猎框架-AssetsHunter，信息收集是一项艺术~
