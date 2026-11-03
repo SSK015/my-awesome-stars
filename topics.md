@@ -15,6 +15,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -299,6 +300,10 @@
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
 - [gem5-graphics/gem5-graphics](https://github.com/gem5-graphics/gem5-graphics) - gem5 simulator with a gpgpu+graphics GPU model
+
+## android-app 
+
+- [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
 
 ## archlinux 
 
@@ -1066,6 +1071,7 @@
 
 ## others 
 
+- [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump) - 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
@@ -1336,7 +1342,7 @@
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [datatechnology/cornerstone](https://github.com/datatechnology/cornerstone) - C++ implementation of raft consensus
 - [PDS-Lab/Rcmp](https://github.com/PDS-Lab/Rcmp) - Rcmp: Reconstructing RDMA-based Memory Disaggregation via CXL
-- [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 崩坏：星穹铁道全自动 三月七小助手
+- [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 日常交给三月七，开拓留给你。《崩坏：星穹铁道》开源自动化助手。
 - [tidwall/btree.c](https://github.com/tidwall/btree.c) - B-tree implementation in C
 - [minghust/motor](https://github.com/minghust/motor) - [OSDI 2024] Motor: Enabling Multi-Versioning for Distributed Transactions on Disaggregated Memory
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
