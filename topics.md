@@ -182,6 +182,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [windows](#windows)
@@ -1077,6 +1078,7 @@
 
 ## others 
 
+- [facebookresearch/OpenApps](https://github.com/facebookresearch/OpenApps) - An open source environment for digital agents.
 - [SEU-PAISys/Embodied.cpp](https://github.com/SEU-PAISys/Embodied.cpp) - The official repository for Embodied.cpp.
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
@@ -1156,7 +1158,6 @@
 - [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
 - [DescartesResearch/TeaStore](https://github.com/DescartesResearch/TeaStore) - A micro-service reference test application for model extraction, cloud management, energy efficiency, power prediction, single- and multi-tier auto-scaling
 - [FudanSELab/train-ticket](https://github.com/FudanSELab/train-ticket) - Train Ticket - A Benchmark Microservice System
-- [overleaf-workshop/Overleaf-Workshop](https://github.com/overleaf-workshop/Overleaf-Workshop) - Open Overleaf/ShareLaTex projects in vscode, with full collaboration support.
 - [NVIDIA-DOCA/doca-samples](https://github.com/NVIDIA-DOCA/doca-samples) - 
 - [yale-nova/spirit](https://github.com/yale-nova/spirit) - 
 - [RC4ML/BenchBF3](https://github.com/RC4ML/BenchBF3) - Demystifying Datapath Accelerator Enhanced Off-path SmartNIC [ICNP24]
@@ -1293,7 +1294,6 @@
 - [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [Jellyfish042/uncheatable_eval](https://github.com/Jellyfish042/uncheatable_eval) - Evaluating LLMs with Dynamic Data
 - [Jokeren/Awesome-GPU](https://github.com/Jokeren/Awesome-GPU) - Awesome resources for GPUs
-- [richenyunqi/CCF-CSP-and-PAT-solution](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution) - CCF CSP和PAT考试题解（使用C++14语法）
 - [heptagonhust/recruitment-2024-spring](https://github.com/heptagonhust/recruitment-2024-spring) - 锵锵，2024 春招笔试题
 - [icl-utk-edu/papi](https://github.com/icl-utk-edu/papi) - 
 - [compiler-disagg/TrackFM](https://github.com/compiler-disagg/TrackFM) - A compiler to automatically transform applications into disaggregated memory apps.
@@ -1388,7 +1388,6 @@
 - [xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12) - 《Learn LLVM 12》的非专业个人翻译
 - [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
 - [woolen-sheep/md2report](https://github.com/woolen-sheep/md2report) - 一个用于将Markdown文件转换为可以直接提交给学校的docx实验报告/大作业报告/期末小论文的工具。
-- [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
 - [linux-rdma/qperf](https://github.com/linux-rdma/qperf) - 
 - [iris1114/react-typescript-todo-app](https://github.com/iris1114/react-typescript-todo-app) - https://react-typescript-todo-appp.netlify.app/
 - [chenflux/blogs](https://github.com/chenflux/blogs) - 
@@ -1780,6 +1779,15 @@
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
+
+## vscode 
+
+- [overleaf-workshop/Overleaf-Workshop](https://github.com/overleaf-workshop/Overleaf-Workshop) - Open Overleaf/ShareLaTex projects in vscode, with full collaboration support.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [tecosaur/LaTeX-Utilities](https://github.com/tecosaur/LaTeX-Utilities) - An add-on to LaTeX Workshop that provides some features that go beyond the bare essentials
+- [richenyunqi/CCF-CSP-and-PAT-solution](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution) - CCF CSP和PAT考试题解（使用C++14语法）
+- [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
+- [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
 
 ## vue 
 
