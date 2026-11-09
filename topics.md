@@ -97,6 +97,7 @@
 - [jquery](#jquery)
 - [json](#json)
 - [julia](#julia)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -844,6 +845,10 @@
 - [fredrikekre/HYPRE.jl](https://github.com/fredrikekre/HYPRE.jl) - Julia interface to hypre linear solvers
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [JuliaAcademy/JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
+
+## knowledge-graph 
+
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 
 ## kotlin 
 
