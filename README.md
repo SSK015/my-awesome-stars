@@ -333,6 +333,7 @@
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [VectorInstitute/vigil](https://github.com/VectorInstitute/vigil) - AI agent observability & enforcement at the kernel level, powered by BPF LSM hooks.
 - [cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) - A high performance inter-process communication golang library developed by CloudWeGo
 - [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
@@ -348,6 +349,8 @@
 
 ## HTML 
 
+- [Tongyi-MAI/Qwen-UI-Agent](https://github.com/Tongyi-MAI/Qwen-UI-Agent) - 
+- [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA) - An open-source stack for generalist computer-use agents, combining code execution, GUI interaction, and cross-device control.
 - [19PINE-AI/aoi](https://github.com/19PINE-AI/aoi) - AOI: a model-agnostic perception layer giving computer-use agents adaptive video + audio perception with zero retraining, plus DynaCU-Bench (100 dynamic browser tasks). Paper + benchmark + code.
 - [baojie/shiji-kb](https://github.com/baojie/shiji-kb) - 
 - [LiShengkai01/LiShengkai](https://github.com/LiShengkai01/LiShengkai) - My academic page
@@ -554,7 +557,7 @@
 - [facebookresearch/OpenApps](https://github.com/facebookresearch/OpenApps) - An open source environment for digital agents.
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [juliodosreis/awesome-agenticsystems](https://github.com/juliodosreis/awesome-agenticsystems) - 
-- [Concyclics/MemForest](https://github.com/Concyclics/MemForest) - Official Implementation of "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing"
+- [Concyclics/MemForest](https://github.com/Concyclics/MemForest) - Official implementation of "MemForest: Write-Efficient Agent Memory with Decoupled Extraction and Hierarchical View Maintenance" (ICDE 2027)
 - [NVlabs/kda](https://github.com/NVlabs/kda) - Kernel Design Agents (KDA) is a agent-centric workflow to write high-performance CUDA Kernels.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
@@ -568,7 +571,6 @@
 - [MineDojo/NitroGen](https://github.com/MineDojo/NitroGen) - A Foundation Model for Generalist Gaming Agents
 - [tile-ai/DeepStack](https://github.com/tile-ai/DeepStack) - DeepStack: Facilitating Co-Design Exploration of 3D DRAM-Stacked Accelerators for Distributed LLM Inference. Includes the MICRO 2026 AE artifact.
 - [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 
-- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [microsoft/vidur](https://github.com/microsoft/vidur) - Accurate, large-scale, and extensible simulator for LLM inference Systems
 - [BAIGUANGMEI/zhihu-cli](https://github.com/BAIGUANGMEI/zhihu-cli) - 知乎命令行工具 — 在终端搜索问题、查看回答、发布文章、提问、想法（支持图文）、浏览热榜，支持二维码登录与Cookie登录
