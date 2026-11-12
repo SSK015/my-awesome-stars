@@ -1091,6 +1091,8 @@
 
 ## others 
 
+- [Tongyi-MAI/Qwen-UI-Agent](https://github.com/Tongyi-MAI/Qwen-UI-Agent) - 
+- [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA) - An open-source stack for generalist computer-use agents, combining code execution, GUI interaction, and cross-device control.
 - [facebookresearch/OpenApps](https://github.com/facebookresearch/OpenApps) - An open source environment for digital agents.
 - [SEU-PAISys/Embodied.cpp](https://github.com/SEU-PAISys/Embodied.cpp) - The official repository for Embodied.cpp.
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
@@ -1102,7 +1104,7 @@
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [OSU-NLP-Group/GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) - Awesome GUI Agent Paper List
 - [liseami/CCBaga](https://github.com/liseami/CCBaga) - 
-- [Concyclics/MemForest](https://github.com/Concyclics/MemForest) - Official Implementation of "MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing"
+- [Concyclics/MemForest](https://github.com/Concyclics/MemForest) - Official implementation of "MemForest: Write-Efficient Agent Memory with Decoupled Extraction and Hierarchical View Maintenance" (ICDE 2027)
 - [NVlabs/kda](https://github.com/NVlabs/kda) - Kernel Design Agents (KDA) is a agent-centric workflow to write high-performance CUDA Kernels.
 - [CMU-SAFARI/Ariadne](https://github.com/CMU-SAFARI/Ariadne) - Ariadne is a new compressed swap scheme for mobile devices that reduces application relaunch latency and CPU usage while increasing the number of live applications for enhanced user experience. Descri
 - [system-pclub/mobile-mcp](https://github.com/system-pclub/mobile-mcp) - 
