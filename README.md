@@ -554,6 +554,7 @@
 
 ## Python 
 
+- [niuzaisheng/ScreenAgent](https://github.com/niuzaisheng/ScreenAgent) - ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model (IJCAI-24)
 - [facebookresearch/OpenApps](https://github.com/facebookresearch/OpenApps) - An open source environment for digital agents.
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [juliodosreis/awesome-agenticsystems](https://github.com/juliodosreis/awesome-agenticsystems) - 
