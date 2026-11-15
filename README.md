@@ -489,7 +489,7 @@
 ## Others 
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
-- [OpenDataBox/awesome-agent-memory](https://github.com/OpenDataBox/awesome-agent-memory) - Paper List of Agent Memory Systems along Four Axes
+- [OpenDataBox/awesome-agent-memory](https://github.com/OpenDataBox/awesome-agent-memory) - Awesome Paper List of Agent Memory Systems along Four Axes
 - [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) - 美股指南
 - [v2rayA/dist-v2ray-rules-dat](https://github.com/v2rayA/dist-v2ray-rules-dat) - Distribution of `Loyalsoldier/v2ray-rules-dat`. Sync with the upstream every weeks.
 - [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
