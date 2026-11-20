@@ -416,6 +416,7 @@
 - [bojone/papers.cool](https://github.com/bojone/papers.cool) - Cool Papers - Immersive Paper Discovery
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
+- [emeryberger/csconferences](https://github.com/emeryberger/csconferences) - Major CS conference publication stats (including accepted and submitted) by year.
 - [OmegaXYZ/Carrot-Hole](https://github.com/OmegaXYZ/Carrot-Hole) - 树洞
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
@@ -596,7 +597,7 @@
 - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f
 - [MoveCloudROY/ecs-agent](https://github.com/MoveCloudROY/ecs-agent) - An Entity-Component-System architecture for composable AI agents.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [SSK015/Hachimiku](https://github.com/SSK015/Hachimiku) - 
 - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -632,7 +633,6 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [hpcgame/hpc-wiki](https://github.com/hpcgame/hpc-wiki) - Wiki fo HPC
 - [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) - 日常交给三月七，开拓留给你。《崩坏：星穹铁道》开源自动化助手。
-- [emeryberger/csconferences](https://github.com/emeryberger/csconferences) - Major CS conference publication stats (including accepted and submitted) by year.
 - [aesareen/Learned-Indexes-with-Insertions](https://github.com/aesareen/Learned-Indexes-with-Insertions) - 
 - [rabbitmask/AssetsHunter](https://github.com/rabbitmask/AssetsHunter) - 资产狩猎框架-AssetsHunter，信息收集是一项艺术~
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
@@ -689,6 +689,7 @@
 - [vaaandark/socker](https://github.com/vaaandark/socker) - A tool for capturing unix socket packets using eBPF written in the aya-rs framework
 - [os-module/visionfive2-sd](https://github.com/os-module/visionfive2-sd) - 
 - [uclasystem/DRust](https://github.com/uclasystem/DRust) - 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [jyi2ya/tc-lab](https://github.com/jyi2ya/tc-lab) - 一起来数三角形吧！
 - [tikv/minstant](https://github.com/tikv/minstant) - Performant time measuring in Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -767,7 +768,6 @@
 - [holynova/gushi_namer](https://github.com/holynova/gushi_namer) - Chinese baby name generator from classical poems and ancient texts
 - [serping/serp-checker](https://github.com/serping/serp-checker) - 
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ManiaciaChao/yatm](https://github.com/ManiaciaChao/yatm) - yet another teachermate helper
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
