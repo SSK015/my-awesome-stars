@@ -500,7 +500,6 @@
 - [OpenQuant-Community/quant-fund](https://github.com/OpenQuant-Community/quant-fund) - 量化开源基金会
 - [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 - [npxiaoying/Social-Recommendation](https://github.com/npxiaoying/Social-Recommendation) - Summary of social recommendation papers and codes
-- [MicrosoftDocs/cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) - C++ Documentation
 - [qmonnet/awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [secdr/research-method](https://github.com/secdr/research-method) - 论文写作与资料分享
 - [Compute-Express-Link/CXLPapers](https://github.com/Compute-Express-Link/CXLPapers) - 
@@ -555,6 +554,7 @@
 
 ## Python 
 
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: the state-of-the-art open source computer use agents
 - [niuzaisheng/ScreenAgent](https://github.com/niuzaisheng/ScreenAgent) - ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model (IJCAI-24)
 - [facebookresearch/OpenApps](https://github.com/facebookresearch/OpenApps) - An open source environment for digital agents.
