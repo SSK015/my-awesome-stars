@@ -198,6 +198,7 @@
 
 ## agent 
 
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [niuzaisheng/ScreenAgent](https://github.com/niuzaisheng/ScreenAgent) - ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model (IJCAI-24)
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
 - [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-
@@ -1251,7 +1252,6 @@
 - [shenango/caladan-policies](https://github.com/shenango/caladan-policies) - 
 - [Crazylqx/Crazylqx.github.io](https://github.com/Crazylqx/Crazylqx.github.io) - 
 - [AIFM-sys/AIFM](https://github.com/AIFM-sys/AIFM) - AIFM: High-Performance, Application-Integrated Far Memory
-- [MicrosoftDocs/cpp-docs](https://github.com/MicrosoftDocs/cpp-docs) - C++ Documentation
 - [madsys-dev/smart](https://github.com/madsys-dev/smart) - Scaling Up Memory Disaggregated Applications with SMART (ASPLOS 24): Predecessor of Mooncake TE
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [jonhoo/rust-ibverbs](https://github.com/jonhoo/rust-ibverbs) - Bindings for RDMA ibverbs through rdma-core
