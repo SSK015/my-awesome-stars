@@ -253,7 +253,7 @@
 - [Rutheniumlmw/HUST-Computer-Network-Experiment](https://github.com/Rutheniumlmw/HUST-Computer-Network-Experiment) - 
 - [topling/toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction
 - [theoanab/SILK-USENIXATC2019](https://github.com/theoanab/SILK-USENIXATC2019) - Code for "SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores" published in USENIX ATC 19
-- [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+- [mindspore-ai/mindspore-bk](https://github.com/mindspore-ai/mindspore-bk) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [CMU-SAFARI/MQSim](https://github.com/CMU-SAFARI/MQSim) - MQSim is a fast & accurate simulator for modern multi-queue (MQ) and SATA SSDs. MQSim faithfully models new high-bandwidth protocol implementations, steady-state SSD conditions, and full end-to-end la
 - [gem5-graphics/gem5-graphics](https://github.com/gem5-graphics/gem5-graphics) - gem5 simulator with a gpgpu+graphics GPU model
 - [gem5/gem5](https://github.com/gem5/gem5) - The official repository for the gem5 computer-system architecture simulator.
@@ -554,6 +554,7 @@
 
 ## Python 
 
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: the state-of-the-art open source computer use agents
@@ -746,6 +747,7 @@
 
 ## TypeScript 
 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
