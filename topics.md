@@ -46,6 +46,7 @@
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
@@ -58,6 +59,7 @@
 - [deep-learning](#deep-learning)
 - [design](#design)
 - [developer-tools](#developer-tools)
+- [devops](#devops)
 - [discord](#discord)
 - [distributed-systems](#distributed-systems)
 - [docker](#docker)
@@ -237,6 +239,7 @@
 
 ## ai 
 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [niuzaisheng/ScreenAgent](https://github.com/niuzaisheng/ScreenAgent) - ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model (IJCAI-24)
 - [UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm) - Fast Multimodal LLM on Mobile Devices
@@ -272,6 +275,7 @@
 
 ## ai-agents 
 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: the state-of-the-art open source computer use agents
 - [e2b-dev/runtime](https://github.com/e2b-dev/runtime) - The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
@@ -475,6 +479,7 @@
 
 ## cli 
 
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -542,6 +547,10 @@
 - [SleepyLGod/hust-projects](https://github.com/SleepyLGod/hust-projects) - My labs in college of CS and some interesting projects at HUST.
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+
+## crawler 
+
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 
 ## cryptography 
 
@@ -630,6 +639,10 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
+## devops 
+
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
 
 ## discord 
 
@@ -923,6 +936,8 @@
 
 ## llm 
 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
+- [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [niuzaisheng/ScreenAgent](https://github.com/niuzaisheng/ScreenAgent) - ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model (IJCAI-24)
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
@@ -995,6 +1010,7 @@
 
 ## markdown 
 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) - An open-source presentation theme ecosystem for Marp/Markdown users.
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
@@ -1421,7 +1437,7 @@
 - [theoanab/SILK-USENIXATC2019](https://github.com/theoanab/SILK-USENIXATC2019) - Code for "SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores" published in USENIX ATC 19
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [Renbangbang/CN-exercises](https://github.com/Renbangbang/CN-exercises) - 计算机网络：自顶向下方法 （原书第七版）陈鸣译 课后习题参考答案（中文版+英文版）
-- [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+- [mindspore-ai/mindspore-bk](https://github.com/mindspore-ai/mindspore-bk) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新） http://mysql.taobao.org/monthly/
 - [CMU-SAFARI/MQSim](https://github.com/CMU-SAFARI/MQSim) - MQSim is a fast & accurate simulator for modern multi-queue (MQ) and SATA SSDs. MQSim faithfully models new high-bandwidth protocol implementations, steady-state SSD conditions, and full end-to-end la
 - [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) - Chat凉宫春日, An open sourced Role-Playing chatbot Cheng Li, Ziang Leng, and others.
