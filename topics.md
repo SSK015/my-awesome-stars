@@ -1136,6 +1136,7 @@
 
 ## others 
 
+- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [Tongyi-MAI/Qwen-UI-Agent](https://github.com/Tongyi-MAI/Qwen-UI-Agent) - 
 - [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA) - An open-source stack for generalist computer-use agents, combining code execution, GUI interaction, and cross-device control.
 - [facebookresearch/OpenApps](https://github.com/facebookresearch/OpenApps) - An open source environment for digital agents.
