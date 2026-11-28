@@ -307,7 +307,7 @@
 ## Dart 
 
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [Vialibrex/FlClash](https://github.com/Vialibrex/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
 ## Dockerfile 
 
@@ -724,7 +724,7 @@
 - [Mellanox/bfb-build](https://github.com/Mellanox/bfb-build) - BFB (BlueField boot stream and OS installer) build environment
 - [codediy/DriverTestDoc](https://github.com/codediy/DriverTestDoc) - 驾照考试文档总结
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [tkob-vh/dotfiles](https://github.com/tkob-vh/dotfiles) - My dotfiles including configurations of nvim, tmux, zsh, hyprland, rofi...
 - [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
 - [marvis/word_remember](https://github.com/marvis/word_remember) - 
